@@ -1,11 +1,5 @@
 # Product Owner Review Checklist
 
-Date: 2026-06-08  
-Repository: `thaersaidi/epical`  
-Related summary: `EXECUTIVE_SUMMARY.md`
-
----
-
 ## Purpose
 
 This file is a focused checklist for the Product Owner review.
