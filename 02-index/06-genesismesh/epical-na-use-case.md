@@ -4,7 +4,7 @@
 
 `epical-na` is the deployed orchestrator for the Epical GDPR / DSAR agent pipeline. In the current repository it coordinates the work across ingest, index, analyse, redact, and produce agents.
 
-The Genesis Mesh use case is to make `epical-na` more than an Azure AI Foundry orchestrator: it becomes a sovereign Network Authority for compliance work. That gives the DSAR pipeline a verifiable trust boundary, signed agent enrollment, revocation, policy distribution, and controlled collaboration with services already demonstrated by the Genesis Mesh initial backers.
+The Genesis Mesh use case is to make `epical-na` more than an Azure AI Foundry orchestrator: it becomes Epical's treaty-recognized Network Authority for compliance work under the `MiraOS-NA` sovereign anchor. That gives the DSAR pipeline a verifiable trust boundary, signed agent enrollment, revocation, policy distribution, and controlled collaboration with services already demonstrated by the Genesis Mesh initial backers.
 
 In plain terms:
 
@@ -31,7 +31,9 @@ Genesis Mesh adds the missing trust layer around that pipeline.
 
 ## Genesis Mesh role for `epical-na`
 
-`epical-na` should be treated as the sovereign Network Authority for Epical compliance automation.
+`epical-na` should be treated as Epical's recognized Network Authority for compliance automation, operating under a signed Genesis Mesh treaty with `MiraOS-NA`.
+
+In this model, `MiraOS-NA` is the Genesis Mesh sovereign anchor. `EPICAL-NA` / `epical-na` is the Epical employee-GDPR authority that receives a bounded mandate from that anchor. It can enroll internal Epical agents and recognize selected downstream services only inside the treaty's role, purpose, data-class, and validity limits.
 
 Its responsibilities would be:
 
@@ -39,7 +41,7 @@ Its responsibilities would be:
 2. Enforce which agent may access which evidence class.
 3. Publish signed policy for retention, redaction, and permitted tools.
 4. Revoke an agent or capability when a case closes, credentials rotate, or a tool becomes unsafe.
-5. Recognize selected external/backer sovereigns only when a signed treaty exists.
+5. Recognize selected external/backer sovereigns only when a signed treaty path exists from `MiraOS-NA` through `EPICAL-NA`.
 6. Maintain an auditable Connectome showing which agents and services were trusted for a case.
 
 The key value is defensibility. A DSAR response should not depend on informal prompts and opaque tool calls. It should show who handled the evidence, under which authority, and whether that authority was still valid.
@@ -50,7 +52,10 @@ The key value is defensibility. A DSAR response should not depend on informal pr
 Raw exports / case material
         |
         v
-  epical-na sovereign trust domain
+  MiraOS-NA sovereign anchor
+        |
+        v
+  EPICAL-NA / epical-na employee-GDPR trust domain
         |
         +--> epical-ingest   -- signed access to source exports
         +--> epical-index    -- signed access to normalized evidence
@@ -59,13 +64,14 @@ Raw exports / case material
         +--> epical-produce  -- signed access to redacted findings and deliverable templates
         |
         +--> recognized backer services through Genesis Mesh treaties
+             for example USG-NB / USG-style gateway patterns
 ```
 
 At runtime, `epical-na` can ask: "Is this agent, service, or external sovereign currently trusted for this case and role?" If not, the task is blocked or routed to a safer internal path.
 
 ## How `epical-na` benefits from initial-backer services
 
-The initial Genesis Mesh backers already demonstrate a set of services and trust primitives that `epical-na` can use as a compliance mesh foundation. The exact public Genesis Mesh artifacts currently list verified sovereigns such as `MiraOS-NA`, `001-NA`, `anonymous-NA`, `AMINE-M6-NA`, `ONS-A-NA`, and `USG-NB`, with `USG-NB` showing a Connectome baseline of multiple active recognition edges and imported revocation material.
+The initial Genesis Mesh backers already demonstrate a set of services and trust primitives that `epical-na` can use as a compliance mesh foundation. The exact public Genesis Mesh artifacts currently list verified sovereigns such as `MiraOS-NA`, `001-NA`, `anonymous-NA`, `AMINE-M6-NA`, `ONS-A-NA`, and `USG-NB`, with `MiraOS-NA` acting as the sovereign anchor for this Epical model and `USG-NB` showing a Connectome baseline of multiple active recognition edges and imported revocation material.
 
 This Epical note treats those as available trust patterns and service classes, not as a claim that any named external organization is already serving Epical.
 

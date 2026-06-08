@@ -1,20 +1,30 @@
-# Epical — GDPR Compliance Handling for Employee Enterprise Data
+# Epical — Governed Employee GDPR Compliance Mesh
 
-> A repeatable process (and the working case file) for handling a GDPR **Data Subject
-> Access Request (DSAR)** and compliance review over **employee enterprise data** — email,
-> chat, collaboration and HR systems — from raw export through to regulator-ready legal
-> deliverables.
+> A repeatable process, working case file, and Genesis Mesh control-plane prototype for
+> handling a GDPR **Data Subject Access Request (DSAR)** and compliance review over
+> **employee enterprise data** — email, chat, collaboration, HR, identity, and project
+> systems — from raw export through to regulator-ready legal deliverables.
 
-This repository is organised as a **pipeline**: it takes the messy enterprise data that an
-employer holds about an employee (Microsoft 365 mailboxes, Teams, SharePoint, and the Unit4
-HR system), **indexes** it, **analyses** it for personal data and GDPR non-compliance,
-**redacts** it, and **produces the legal documents** needed to assert the data subject's
-rights. The current contents are the live working file for the *Thaer Saidi v. Epical /
-Nordcloud* DSAR matter, but the **folder structure and steps are intended to be reused for
-any employee GDPR case.**
+This repository is organised as a **pipeline with a governance overlay**. The pipeline takes
+the messy enterprise data that an employer holds about an employee (Microsoft 365 mailboxes,
+Teams, SharePoint, and the Unit4 HR system), **indexes** it, **analyses** it for personal data
+and GDPR non-compliance, **redacts** it, and **produces the legal documents** needed to assert
+the data subject's rights.
+
+The Genesis Mesh overlay turns that same pipeline into a governed trust system: `MiraOS-NA`
+acts as the Genesis Mesh sovereign anchor, `EPICAL-NA` / `epical-na` acts as Epical's
+treaty-recognized Network Authority, internal agents become signed role-bound processors,
+backer/external services are recognized only by treaty, and the case record can distinguish
+evidence from interpretation, reviewer feedback, and influence loops.
+
+The current contents are the live working file for the *Thaer Saidi v. Epical / Nordcloud*
+DSAR matter, but the **folder structure and steps are intended to be reused for any employee
+GDPR case**. In product terms, this is not just one DSAR case: it is the prototype for a
+governed employee GDPR compliance mesh.
 
 The pipeline is reflected directly in the **numbered top-level folders** (`01-ingest` →
-`05-deliverables`): each folder is one stage, and data flows from one to the next.
+`05-deliverables`): each folder is one stage, and Genesis Mesh is documented as the control
+plane that governs the stages.
 
 > [!WARNING]
 > **This repository contains real, highly sensitive personal data** (Swedish personal
@@ -34,6 +44,10 @@ The pipeline is reflected directly in the **numbered top-level folders** (`01-in
   │ (M365, HR)   │   │ classify     │   │ data + gaps  │   │ evidential   │   │ (letters,    │
   │ 01-ingest    │   │ 02-index     │   │ 03-analysis  │   │ 04-redacted… │   │ 05-deliver…  │
   └──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘
+          ▲                  ▲                  ▲                  ▲                  ▲
+          └──────────────────┴──────────────────┴──────────────────┴──────────────────┘
+                  Genesis Mesh control plane: identity, policy, treaties, revocation,
+                  evidence/influence separation, and auditable processing authority
 ```
 
 | Stage | Folder | What happens | Outputs |
@@ -46,11 +60,30 @@ The pipeline is reflected directly in the **numbered top-level folders** (`01-in
 
 ---
 
+## Genesis Mesh governance layer
+
+The root strategic artifact is [`GENESIS_MESH_EMPLOYEE_GDPR_CONTROL_PLANE.md`](GENESIS_MESH_EMPLOYEE_GDPR_CONTROL_PLANE.md).
+It reframes this repository as a governed employee GDPR compliance mesh prototype:
+
+- `MiraOS-NA` is the Genesis Mesh sovereign anchor for the model.
+- `EPICAL-NA` / `epical-na` is the treaty-recognized Network Authority for the case.
+- Internal agents are treated as signed, scoped, revocable processors.
+- Initial-backer or external services are recognized only through purpose-bound treaties.
+- Thaer's case is the privacy-preserving baseline for proving the process.
+- Nordcloud-style feedback-loop risk is modeled as an influence-control problem: evidence,
+  interpretation, reviewer feedback, and legal conclusions must remain separate and auditable.
+
+Detailed Genesis Mesh notes live under [`02-index/06-genesismesh/`](02-index/06-genesismesh/).
+
+---
+
 ## Repository layout
 
 ```
 epical/
-├── README.md                       ← the process (this file)
+├── README.md                       ← root narrative: pipeline + Genesis Mesh governance layer
+├── GENESIS_MESH_EMPLOYEE_GDPR_CONTROL_PLANE.md
+│                                      root control-plane thesis for the employee GDPR mesh
 ├── .gitignore
 │
 ├── 01-ingest/                      STAGE 1 — raw enterprise data, as exported
@@ -65,8 +98,12 @@ epical/
 │       ├── Items.1.001.GDPR_Case_T.zip           (git-ignored)
 │       └── Items.1.001.GDPR_Case_T/   …unzipped: Exchange/ + SharePoint/ (hr, allcompany, …)
 │
-├── 02-index/                       STAGE 2 — machine-readable inventory
-│   └── inventory.json               Index of every extractable file (ids, keywords, snippets)
+├── 02-index/                       STAGE 2 — machine-readable inventory + mesh use cases
+│   ├── inventory.json               Index of every extractable file (ids, keywords, snippets)
+│   └── 06-genesismesh/              Genesis Mesh employee GDPR control-plane notes
+│       ├── README.md
+│       ├── epical-na-use-case.md
+│       └── best-case-onboarding-feedback-loop.md
 │
 ├── 03-analysis/                    STAGE 3 — findings mapped to GDPR
 │   ├── epical_gdpr_noncompliance_report.md   Evidence-backed findings F1–F8
