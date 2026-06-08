@@ -3,3 +3,14 @@
 *.pst
 *.mp4
 
+# Secrets — never commit. Keep only .env.example in git.
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
