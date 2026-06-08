@@ -30,7 +30,7 @@ Why this matters:
 
 Folder reviewed:
 
-- `Items.1.001.GDPR_Case_T`
+- `01-ingest/case-exports/Items.1.001.GDPR_Case_T`
 
 Observed:
 
@@ -44,10 +44,10 @@ total files: 190
 .txt: 2
 .zip: 33
 0-byte files:
-Items.1.001.GDPR_Case_T\thaer.saidi@epicalgroup.com.001.pst
+01-ingest/case-exports/Items.1.001.GDPR_Case_T\thaer.saidi@epicalgroup.com.001.pst
 ```
 
-Search results inside `Items.1.001.GDPR_Case_T`:
+Search results inside `01-ingest/case-exports/Items.1.001.GDPR_Case_T`:
 
 ```text
 dismissal: 0

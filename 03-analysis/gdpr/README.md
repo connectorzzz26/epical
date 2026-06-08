@@ -2,14 +2,14 @@
 
 This folder summarises the GDPR non-compliance evidence found in the local export at `c:\Source\epical`.
 
-Scope reviewed:
+Scope reviewed (paths relative to the repository root; see the top-level `README.md`):
 
-- `Teams\*.txt`
-- `Sharepoint\*.docx`, `*.pdf`, `*.xlsx`, `*.png`, `*.msg`
-- `Items.1.001.GDPR_Case_T\...`
-- `TS Unit4 Data for GDPR.xlsx`
+- `01-ingest/Teams/*.txt`
+- `01-ingest/Sharepoint/*.docx`, `*.pdf`, `*.xlsx`, `*.png`, `*.msg`
+- `01-ingest/case-exports/Items.1.001.GDPR_Case_T/...`
+- `01-ingest/Unit4/TS Unit4 Data for GDPR.xlsx`
 
-Important limitation: the raw PST archives were not fully parsed because this environment does not have a PST reader. The extracted Teams/Exchange/SharePoint material was reviewed directly. Notably, `Items.1.001.GDPR_Case_T\thaer.saidi@epicalgroup.com.001.pst` is a 0-byte file, while the root `thaer.saidi@epicalgroup.com.001.pst` is large and needs separate PST extraction.
+Important limitation: the raw PST archives were not fully parsed because this environment does not have a PST reader. The extracted Teams/Exchange/SharePoint material was reviewed directly. Notably, `01-ingest/case-exports/Items.1.001.GDPR_Case_T/thaer.saidi@epicalgroup.com.001.pst` is a 0-byte file, while the root mailbox now at `01-ingest/Exchange/thaer.saidi@epicalgroup.com.001.pst` is large and needs separate PST extraction.
 
 ## Core Conclusion
 

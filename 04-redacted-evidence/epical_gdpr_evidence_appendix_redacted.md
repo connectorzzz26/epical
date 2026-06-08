@@ -2,7 +2,7 @@
 
 This appendix strengthens the non-compliance report with concrete, minimally redacted excerpts. Redactions avoid re-publishing third-party identifiers while preserving evidential value.
 
-## Exhibit A: Sharepoint/member-list (3).xlsx - mass third-party HR/payroll/union data
+## Exhibit A: 01-ingest/Sharepoint/member-list (3).xlsx - mass third-party HR/payroll/union data
 
 Rows including header: 106; data subjects represented: 105.
 
@@ -23,7 +23,7 @@ First 5 redacted rows:
 GDPR impact: 106 people; personnummer, private contact data, address, salary and union/section indicators. This supports Articles 5(1)(c), 5(1)(f), 9, 32.
 
 
-## Exhibit B: Sharepoint/BankIDSignatures.txt - BankID identity/security artifact exposure
+## Exhibit B: 01-ingest/Sharepoint/BankIDSignatures.txt - BankID identity/security artifact exposure
 
 1: SDO for Rudy Kyrönlahti ([phone/id]):
 
@@ -44,7 +44,7 @@ Observed fields: status, orderRef, completionData.user.name, completionData.user
 GDPR impact: personal identity number + IP/device + signature/certificate material. Strong Articles 5(1)(c), 5(1)(f), 32 issue; possible breach assessment under Articles 33/34 if disclosed or broadly accessible.
 
 
-## Exhibit C: TS Unit4 Data for GDPR.xlsx - HR/payroll/IBAN/sick leave/next-of-kin
+## Exhibit C: 01-ingest/Unit4/TS Unit4 Data for GDPR.xlsx - HR/payroll/IBAN/sick leave/next-of-kin
 
 ### xl/worksheets/sheet1.xml: rows=4
 
@@ -244,7 +244,7 @@ GDPR impact: Named third-party heart attack and sick-leave information is health
 
 528:         
 
-File: Items.1.001.GDPR_Case_T/Exchange/thaer.saidi@epicalgroup.com/TeamsMessagesData/I just forwarded you the SFTP credential...html
+File: 01-ingest/case-exports/Items.1.001.GDPR_Case_T/Exchange/thaer.saidi@epicalgroup.com/TeamsMessagesData/I just forwarded you the SFTP credential...html
 
 GDPR impact: Not the core DSAR right itself, but demonstrates insecure mixing of HR/identity materials with operational credential/access information, relevant to Article 32.
 

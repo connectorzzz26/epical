@@ -23,7 +23,7 @@ Extracted lines:
 
 Evidence file:
 
-- `Items.1.001.GDPR_Case_T\Exchange\thaer.saidi@epicalgroup.com\TeamsMessagesData\Employee NCCUserID1001567NCCUse...html`
+- `01-ingest/case-exports/Items.1.001.GDPR_Case_T\Exchange\thaer.saidi@epicalgroup.com\TeamsMessagesData\Employee NCCUserID1001567NCCUse...html`
 
 Observed extracted content includes another employee-style record:
 

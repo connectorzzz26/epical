@@ -66,7 +66,7 @@ The apparent DSAR package contains third-party HR-style payloads with birthdate,
 
 Evidence:
 
-- `Items.1.001.GDPR_Case_T\Exchange\thaer.saidi@epicalgroup.com\TeamsMessagesData\Employee NCCUserID1001567NCCUse...html`
+- `01-ingest/case-exports/Items.1.001.GDPR_Case_T\Exchange\thaer.saidi@epicalgroup.com\TeamsMessagesData\Employee NCCUserID1001567NCCUse...html`
 - `Sharepoint\Thaer_DSAR_Dossier_With_HR_Details.docx`, extracted lines 26-34.
 - `gdpr\06-third-party-overdisclosure.md`
 
@@ -76,7 +76,7 @@ The produced data includes national identity number, address, bank/IBAN informat
 
 Evidence:
 
-- `TS Unit4 Data for GDPR.xlsx`
+- `01-ingest/Unit4/TS Unit4 Data for GDPR.xlsx`
 - `Teams\20260220 Epical - Intended summary dismissal _ termination due to personal reasons_text.txt:39-65`
 - `Teams\Epical HR case notes TS_text.txt:13,33-47`
 - `gdpr\07-sensitive-data-handling.md`
@@ -86,7 +86,7 @@ Evidence:
 The formal case extraction contains a 0-byte PST:
 
 ```text
-Items.1.001.GDPR_Case_T\thaer.saidi@epicalgroup.com.001.pst
+01-ingest/case-exports/Items.1.001.GDPR_Case_T\thaer.saidi@epicalgroup.com.001.pst
 ```
 
 The root folder contains a large PST:
