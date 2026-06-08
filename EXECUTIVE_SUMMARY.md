@@ -1,11 +1,5 @@
 # Executive Summary — Product Owner Review
 
-Date: 2026-06-08  
-Repository: `thaersaidi/epical`  
-Subject: DSAR / GDPR review solution for employee enterprise data
-
----
-
 ## 1. What this solution is
 
 This repository is a structured solution for reviewing and preparing a response to an employee GDPR Data Subject Access Request (DSAR).
