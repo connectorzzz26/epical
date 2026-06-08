@@ -32,17 +32,21 @@ Employee GDPR request
         |
         v
 +-------------------------------+
-| epical-na                     |
-| Genesis Mesh Network Authority|
+| MiraOS-NA                     |
+| Connectome center / anchor    |
 +-------------------------------+
         |
-        +--> signed ingest agent
-        +--> signed index agent
-        +--> signed analysis agent
-        +--> signed redaction agent
-        +--> signed production agent
+        +--> EPICAL-NA / epical-na
+        |       - employee-GDPR authority by treaty
+        |       - raw evidence boundary
+        |       |
+        |       +--> signed ingest agent
+        |       +--> signed index agent
+        |       +--> signed analysis agent
+        |       +--> signed redaction agent
+        |       +--> signed production agent
         |
-        +--> recognized backer services
+        +--> recognized backer / gateway sovereigns
              only by treaty, purpose, data class, and validity window
 ```
 
@@ -104,15 +108,15 @@ It owns:
 
 Each role should be signed, scoped, time-bound, and revocable.
 
-The treaty chain should remain visible in every demo or proof bundle:
+The treaty chain should remain visible in every demo or proof bundle, and the Connectome graph should center `MiraOS-NA`, not `EPICAL-NA`.
 
 ```text
-MiraOS-NA
+                            USG-NB / USG patterns
+                                      |
+                                      v
+EPICAL-NA / epical-na  <------>  MiraOS-NA  <------>  other recognized sovereigns
         |
-        +--> treaty: EPICAL-NA employee-GDPR authority
-                    |
-                    +--> internal Epical agents
-                    +--> treaty-bound gateways such as USG-NB / USG patterns
+        +--> internal Epical agents
 ```
 
 `USG-NB` or any similar gateway pattern should be treated as a recognized downstream service path, not as a default processor of Epical employee data.

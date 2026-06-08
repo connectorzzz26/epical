@@ -52,9 +52,6 @@ The key value is defensibility. A DSAR response should not depend on informal pr
 Raw exports / case material
         |
         v
-  MiraOS-NA sovereign anchor
-        |
-        v
   EPICAL-NA / epical-na employee-GDPR trust domain
         |
         +--> epical-ingest   -- signed access to source exports
@@ -65,6 +62,22 @@ Raw exports / case material
         |
         +--> recognized backer services through Genesis Mesh treaties
              for example USG-NB / USG-style gateway patterns
+```
+
+That is the processing flow. The Connectome graph should be drawn differently: `MiraOS-NA` is the center of the graph, with `EPICAL-NA` and any gateway/backer sovereigns connected to it as treaty edges.
+
+```text
+                            USG-NB / USG gateway patterns
+                                      |
+                                      |
+                                      v
+EPICAL-NA / epical-na  <------>  MiraOS-NA  <------>  other recognized sovereigns
+        |
+        +--> epical-ingest
+        +--> epical-index
+        +--> epical-analyse
+        +--> epical-redact
+        +--> epical-produce
 ```
 
 At runtime, `epical-na` can ask: "Is this agent, service, or external sovereign currently trusted for this case and role?" If not, the task is blocked or routed to a safer internal path.
@@ -188,6 +201,7 @@ Guardrail:
 ```json
 {
   "sovereign": "epical-na",
+  "connectome_center": "MiraOS-NA",
   "purpose": "employee-dsar-gdpr-review",
   "allowed_internal_agents": [
     "epical-ingest",

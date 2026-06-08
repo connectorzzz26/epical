@@ -1,0 +1,131 @@
+{
+  "graph": "genesis-mesh-employee-gdpr-connectome",
+  "version": 1,
+  "center_node": "MiraOS-NA",
+  "nodes": [
+    {
+      "id": "MiraOS-NA",
+      "type": "sovereign-anchor",
+      "label": "MiraOS-NA",
+      "center": true,
+      "position": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "EPICAL-NA",
+      "type": "recognized-authority",
+      "label": "EPICAL-NA / epical-na",
+      "center": false,
+      "position": {
+        "x": -320,
+        "y": 0
+      }
+    },
+    {
+      "id": "USG-NB",
+      "type": "gateway-pattern",
+      "label": "USG-NB / USG-style gateways",
+      "center": false,
+      "position": {
+        "x": 0,
+        "y": -260
+      }
+    },
+    {
+      "id": "epical-ingest",
+      "type": "internal-agent",
+      "label": "epical-ingest",
+      "center": false,
+      "position": {
+        "x": -560,
+        "y": -160
+      }
+    },
+    {
+      "id": "epical-index",
+      "type": "internal-agent",
+      "label": "epical-index",
+      "center": false,
+      "position": {
+        "x": -620,
+        "y": -60
+      }
+    },
+    {
+      "id": "epical-analyse",
+      "type": "internal-agent",
+      "label": "epical-analyse",
+      "center": false,
+      "position": {
+        "x": -620,
+        "y": 60
+      }
+    },
+    {
+      "id": "epical-redact",
+      "type": "internal-agent",
+      "label": "epical-redact",
+      "center": false,
+      "position": {
+        "x": -560,
+        "y": 160
+      }
+    },
+    {
+      "id": "epical-produce",
+      "type": "internal-agent",
+      "label": "epical-produce",
+      "center": false,
+      "position": {
+        "x": -420,
+        "y": 240
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "MiraOS-NA",
+      "to": "EPICAL-NA",
+      "type": "recognition-treaty",
+      "label": "employee-GDPR authority"
+    },
+    {
+      "from": "MiraOS-NA",
+      "to": "USG-NB",
+      "type": "gateway-recognition",
+      "label": "treaty-bound gateway pattern"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-ingest",
+      "type": "agent-enrollment"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-index",
+      "type": "agent-enrollment"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-analyse",
+      "type": "agent-enrollment"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-redact",
+      "type": "agent-enrollment"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-produce",
+      "type": "agent-enrollment"
+    }
+  ],
+  "guardrails": {
+    "raw_employee_evidence_boundary": "Raw employee evidence remains inside EPICAL-NA unless a signed treaty and explicit case approval allow a narrow handoff.",
+    "gateway_default_access": "deny",
+    "connectome_rendering_rule": "Render MiraOS-NA at the center of the graph. Render EPICAL-NA and USG-NB as treaty-connected nodes around it."
+  }
+}

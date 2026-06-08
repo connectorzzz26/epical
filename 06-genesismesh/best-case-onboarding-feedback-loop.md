@@ -62,33 +62,37 @@ Employee DSAR / GDPR request
         |
         v
 +-------------------------------+
-| epical-na                     |
-| Genesis Mesh Network Authority|
+| MiraOS-NA                     |
+| Connectome center / anchor    |
 +-------------------------------+
         |
-        +--> epical-ingest
-        |       - source export inventory
-        |       - chain-of-custody record
+        +--> EPICAL-NA / epical-na
+        |       - employee-GDPR authority by signed treaty
+        |       - owns raw evidence boundary
+        |       |
+        |       +--> epical-ingest
+        |       |       - source export inventory
+        |       |       - chain-of-custody record
+        |       |
+        |       +--> epical-index
+        |       |       - entity and identifier inventory
+        |       |       - system/source coverage map
+        |       |
+        |       +--> epical-analyse
+        |       |       - Article 15 mapping
+        |       |       - omission / over-disclosure detection
+        |       |
+        |       +--> epical-redact
+        |       |       - third-party minimization
+        |       |       - sensitive-data handling
+        |       |
+        |       +--> epical-produce
+        |               - employee-ready response
+        |               - counsel-ready evidence appendix
         |
-        +--> epical-index
-        |       - entity and identifier inventory
-        |       - system/source coverage map
-        |
-        +--> epical-analyse
-        |       - Article 15 mapping
-        |       - omission / over-disclosure detection
-        |
-        +--> epical-redact
-        |       - third-party minimization
-        |       - sensitive-data handling
-        |
-        +--> epical-produce
-        |       - employee-ready response
-        |       - counsel-ready evidence appendix
-        |
-        +--> recognized Genesis Mesh backer services
+        +--> USG-NB / USG-style gateway patterns
                 - only by signed treaty
-                - only for narrow tasks
+                - only for narrow non-raw-evidence tasks
                 - revocable at any time
 ```
 
@@ -100,15 +104,21 @@ In the strongest Genesis Mesh framing, `MiraOS-NA` is the Genesis Mesh sovereign
 
 `EPICAL-NA` should not be described as an uncontrolled standalone sovereign. It is the Epical employee-GDPR case authority recognized through a signed treaty with `MiraOS-NA`. That treaty defines what Epical may operate, what case classes it may govern, which agents it may enroll, and which downstream sovereigns or service gateways it may recognize.
 
-The treaty chain should be explicit:
+The treaty chain should be explicit, but the Connectome graph should not draw `MiraOS-NA` as a small parent above the rest of the system. `MiraOS-NA` is the center node. `EPICAL-NA`, `USG-NB`, and any other recognized sovereigns orbit it as treaty edges.
 
 ```text
-MiraOS-NA
+                         USG-NB / USG gateway patterns
+                                  ^
+                                  |
+                                  | treaty-bound gateway edge
+                                  |
+EPICAL-NA / epical-na <----> MiraOS-NA <----> other recognized sovereigns
         |
-        +--> treaty: EPICAL-NA employee-GDPR compliance authority
-                    |
-                    +--> internal Epical stage agents
-                    +--> treaty-bound service gateways, for example USG-NB / USG patterns
+        +--> epical-ingest
+        +--> epical-index
+        +--> epical-analyse
+        +--> epical-redact
+        +--> epical-produce
 ```
 
 This keeps the model clean:
