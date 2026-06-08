@@ -13,6 +13,9 @@ rights. The current contents are the live working file for the *Thaer Saidi v. E
 Nordcloud* DSAR matter, but the **folder structure and steps are intended to be reused for
 any employee GDPR case.**
 
+The pipeline is reflected directly in the **numbered top-level folders** (`01-ingest` →
+`05-deliverables`): each folder is one stage, and data flows from one to the next.
+
 > [!WARNING]
 > **This repository contains real, highly sensitive personal data** (Swedish personal
 > identity numbers, BankID artifacts, salaries, home addresses, bank/IBAN details, health
@@ -29,17 +32,17 @@ any employee GDPR case.**
   │ 1. INGEST    │ → │ 2. INDEX     │ → │ 3. ANALYSE   │ → │ 4. REDACT    │ → │ 5. PRODUCE   │
   │ raw exports  │   │ inventory &  │   │ find personal│   │ minimise to  │   │ legal output │
   │ (M365, HR)   │   │ classify     │   │ data + gaps  │   │ evidential   │   │ (letters,    │
-  │              │   │              │   │              │   │ value        │   │ complaint)   │
+  │ 01-ingest    │   │ 02-index     │   │ 03-analysis  │   │ 04-redacted… │   │ 05-deliver…  │
   └──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘
 ```
 
-| Stage | What happens | Inputs | Outputs (in this repo) |
-|------|--------------|--------|------------------------|
-| **1. Ingest** | Collect the raw enterprise exports the employer holds about the data subject. | PST mailbox, Teams/SharePoint exports, Unit4 HR export | `*.pst`, `Items.1.001*.zip`, `Teams/`, `Sharepoint/`, `TS Unit4 Data for GDPR.xlsx` |
-| **2. Index** | Extract text, count personal identifiers (personnummer, emails), classify by keyword, build a machine-readable inventory. | Extracted `*.txt`, Office/PDF files | `_analysis/inventory.json` |
-| **3. Analyse** | Map the inventory to GDPR obligations; identify missing Article 15 elements and over-disclosure. | `inventory.json`, source files | `_analysis/epical_gdpr_noncompliance_report.md`, `gdpr/0X-*.md` |
-| **4. Redact** | Reduce evidence to the minimum needed to prove each point; mask third-party identifiers. | Findings + source files | `_analysis/epical_gdpr_evidence_appendix_redacted.md` |
-| **5. Produce** | Generate the formal legal deliverables from the evidence. | Redacted appendix + findings | `Letter_Before_Action_*.docx`, `Complaint_to_IMY_*.docx` |
+| Stage | Folder | What happens | Outputs |
+|------|--------|--------------|---------|
+| **1. Ingest** | `01-ingest/` | Collect the raw enterprise exports the employer holds about the data subject. | Mailbox PST, Teams/SharePoint exports, Unit4 workbook, full case-export zips |
+| **2. Index** | `02-index/` | Extract text, count personal identifiers (personnummer, emails), classify by keyword, build a machine-readable inventory. | `inventory.json` |
+| **3. Analyse** | `03-analysis/` | Map the inventory to GDPR obligations; identify missing Article 15 elements and over-disclosure. | `epical_gdpr_noncompliance_report.md`, `gdpr/0X-*.md` |
+| **4. Redact** | `04-redacted-evidence/` | Reduce evidence to the minimum needed to prove each point; mask third-party identifiers. | `epical_gdpr_evidence_appendix_redacted.md` |
+| **5. Produce** | `05-deliverables/` | Generate the formal legal deliverables from the evidence. | `Letter_Before_Action_*.docx`, `Complaint_to_IMY_*.docx` |
 
 ---
 
@@ -47,33 +50,40 @@ any employee GDPR case.**
 
 ```
 epical/
-├── README.md                              ← you are here (the process)
+├── README.md                       ← the process (this file)
+├── .gitignore
 │
-│   ── Stage 1: INGEST (raw enterprise data — git-ignored, see .gitignore) ──
-├── thaer.saidi@epicalgroup.com.001.pst    Outlook/Exchange mailbox export
-├── Items.1.001.zip                        Full M365 case export (large)
-├── Items.1.001.GDPR_Case_T.zip            Scoped "GDPR Case" export
-├── Items.1.001.GDPR_Case_T/               …unzipped: Exchange/ + SharePoint/ (hr, allcompany, …)
-├── TS Unit4 Data for GDPR.xlsx            Unit4 HR master-data export (payroll, IBAN, next-of-kin)
-├── Teams/                                 5,500+ extracted Teams/email message text files
-├── Sharepoint/                            144 SharePoint docs (docx/pdf/xlsx/pptx) + key exhibits
+├── 01-ingest/                      STAGE 1 — raw enterprise data, as exported
+│   ├── Exchange/
+│   │   └── thaer.saidi@epicalgroup.com.001.pst   Outlook/Exchange mailbox (git-ignored)
+│   ├── Teams/                       5,563 extracted Teams/email message text files
+│   ├── Sharepoint/                  144 SharePoint docs (docx/pdf/xlsx/pptx) + key exhibits
+│   ├── Unit4/
+│   │   └── TS Unit4 Data for GDPR.xlsx   HR master data (payroll, IBAN, next-of-kin)
+│   └── case-exports/                Full M365 case exports
+│       ├── Items.1.001.zip                       (git-ignored, large)
+│       ├── Items.1.001.GDPR_Case_T.zip           (git-ignored)
+│       └── Items.1.001.GDPR_Case_T/   …unzipped: Exchange/ + SharePoint/ (hr, allcompany, …)
 │
-│   ── Stages 2–4: INDEX / ANALYSE / REDACT ──
-├── _analysis/
-│   ├── inventory.json                     Machine-readable index of every extractable file
-│   ├── epical_gdpr_noncompliance_report.md   Evidence-backed findings F1–F8 (the analysis)
-│   ├── epical_gdpr_evidence_appendix_redacted.md   Minimally-redacted exhibits A–G
-│   ├── make_letter.py                     Generator for the letter before action
-│   └── make_imy_complaint.py              Generator for the IMY complaint
+├── 02-index/                       STAGE 2 — machine-readable inventory
+│   └── inventory.json               Index of every extractable file (ids, keywords, snippets)
 │
-├── gdpr/                                  Regulator-oriented evidence pack (one issue per file)
-│   ├── README.md                          Index of the evidence pack
-│   ├── 01-timeline.md                     … through …
-│   └── 08-complaint-points.md             Complaint-ready allegations
+├── 03-analysis/                    STAGE 3 — findings mapped to GDPR
+│   ├── epical_gdpr_noncompliance_report.md   Evidence-backed findings F1–F8
+│   └── gdpr/                        Regulator-oriented evidence pack (one issue per file)
+│       ├── README.md                Index of the evidence pack
+│       ├── 01-timeline.md           … through …
+│       └── 08-complaint-points.md   Complaint-ready allegations
 │
-│   ── Stage 5: PRODUCE (legal deliverables) ──
-├── Letter_Before_Action_Thaer_Saidi.docx  Formal demand to Epical / Nordcloud
-└── Complaint_to_IMY_Thaer_Saidi.docx      Article 77 complaint to the Swedish DPA (IMY)
+├── 04-redacted-evidence/           STAGE 4 — minimised, third-party-masked exhibits
+│   └── epical_gdpr_evidence_appendix_redacted.md   Exhibits A–G
+│
+└── 05-deliverables/                STAGE 5 — regulator-/court-ready legal output
+    ├── Letter_Before_Action_Thaer_Saidi.docx   Formal demand to Epical / Nordcloud
+    ├── Complaint_to_IMY_Thaer_Saidi.docx        Article 77 complaint to the Swedish DPA (IMY)
+    └── generators/                  Reproducible python-docx builders
+        ├── make_letter.py
+        └── make_imy_complaint.py
 ```
 
 ---
@@ -82,14 +92,15 @@ epical/
 
 The process is built to handle the systems a typical employer uses to process employee data:
 
-- **Microsoft 365 — Exchange / Outlook** (`*.pst`): mailbox content, where the employee is the
-  subject of, or is referenced in, internal correspondence.
-- **Microsoft 365 — Teams** (`Teams/*.txt`): chat and channel messages, often containing many
-  third-party recipients and identifiers.
-- **Microsoft 365 — SharePoint** (`Sharepoint/`, `Items.1.001.GDPR_Case_T/SharePoint/`): HR,
-  all-company and service-desk document libraries.
-- **Unit4 HR / payroll** (`TS Unit4 Data for GDPR.xlsx`): personnel master data — identity
-  number, bank account/IBAN, employment terms, absence/leave, and next-of-kin records.
+- **Microsoft 365 — Exchange / Outlook** (`01-ingest/Exchange/*.pst`): mailbox content, where
+  the employee is the subject of, or is referenced in, internal correspondence.
+- **Microsoft 365 — Teams** (`01-ingest/Teams/*.txt`): chat and channel messages, often
+  containing many third-party recipients and identifiers.
+- **Microsoft 365 — SharePoint** (`01-ingest/Sharepoint/`, and
+  `01-ingest/case-exports/Items.1.001.GDPR_Case_T/SharePoint/`): HR, all-company and
+  service-desk document libraries.
+- **Unit4 HR / payroll** (`01-ingest/Unit4/TS Unit4 Data for GDPR.xlsx`): personnel master
+  data — identity number, bank account/IBAN, employment terms, absence/leave, next-of-kin.
 - **Identity / signature artifacts**: BankID completion records found within the exports.
 
 ---
@@ -113,8 +124,9 @@ obligations under the EU GDPR (2016/679) and the Swedish Data Protection Act (la
 | **Remedies** | 77, 82, 83 | Complaint to IMY, compensation, and administrative fines. |
 
 The findings are recorded as **F1–F8** in
-[`_analysis/epical_gdpr_noncompliance_report.md`](_analysis/epical_gdpr_noncompliance_report.md)
-and re-stated as a one-issue-per-file evidence pack under [`gdpr/`](gdpr/).
+[`03-analysis/epical_gdpr_noncompliance_report.md`](03-analysis/epical_gdpr_noncompliance_report.md)
+and re-stated as a one-issue-per-file evidence pack under
+[`03-analysis/gdpr/`](03-analysis/gdpr/).
 
 ---
 
@@ -124,45 +136,49 @@ Both Word documents are generated from the redacted evidence by reproducible Pyt
 
 | Deliverable | Generator | Purpose |
 |-------------|-----------|---------|
-| [`Letter_Before_Action_Thaer_Saidi.docx`](Letter_Before_Action_Thaer_Saidi.docx) | [`_analysis/make_letter.py`](_analysis/make_letter.py) | Formal demand to the controllers to comply with Article 15 and remedy the breaches, before escalation. |
-| [`Complaint_to_IMY_Thaer_Saidi.docx`](Complaint_to_IMY_Thaer_Saidi.docx) | [`_analysis/make_imy_complaint.py`](_analysis/make_imy_complaint.py) | Article 77 complaint asking IMY to investigate, order compliance, and consider corrective measures. |
+| [`Letter_Before_Action_Thaer_Saidi.docx`](05-deliverables/Letter_Before_Action_Thaer_Saidi.docx) | [`generators/make_letter.py`](05-deliverables/generators/make_letter.py) | Formal demand to the controllers to comply with Article 15 and remedy the breaches, before escalation. |
+| [`Complaint_to_IMY_Thaer_Saidi.docx`](05-deliverables/Complaint_to_IMY_Thaer_Saidi.docx) | [`generators/make_imy_complaint.py`](05-deliverables/generators/make_imy_complaint.py) | Article 77 complaint asking IMY to investigate, order compliance, and consider corrective measures. |
 
 ### Reproducing the documents
 
 ```powershell
 # From the repository root
 pip install python-docx
-python _analysis/make_letter.py          # → Letter_Before_Action_Thaer_Saidi.docx
-python _analysis/make_imy_complaint.py   # → Complaint_to_IMY_Thaer_Saidi.docx
+python 05-deliverables/generators/make_letter.py          # → 05-deliverables/Letter_Before_Action_Thaer_Saidi.docx
+python 05-deliverables/generators/make_imy_complaint.py   # → 05-deliverables/Complaint_to_IMY_Thaer_Saidi.docx
 ```
 
-Both documents contain `[ ]` placeholders (firm details, addresses, IDs, signatory) and a
-drafting note listing the facts to verify before sending — see the bottom of each document.
+Each script writes its `.docx` into `05-deliverables/` (the path is resolved relative to the
+script, so it works from any working directory). Both documents contain `[ ]` placeholders
+(firm details, addresses, IDs, signatory) and a drafting note listing the facts to verify
+before sending — see the bottom of each document.
 
 ---
 
 ## Using this process for a new employee GDPR case
 
-1. **Ingest** the employer's exports for the data subject into the root (mailbox, Teams,
-   SharePoint, HR export). Keep large/binary bundles out of git (see `.gitignore`).
-2. **Index** them into `_analysis/inventory.json` (extract text; count personnummer and email
+1. **Ingest** the employer's exports for the data subject into `01-ingest/` (mailbox →
+   `Exchange/`, chat → `Teams/`, documents → `Sharepoint/`, HR → `Unit4/`, full bundles →
+   `case-exports/`). Keep large/binary bundles out of git (see `.gitignore`).
+2. **Index** them into `02-index/inventory.json` (extract text; count personnummer and email
    identifiers; classify by keyword).
-3. **Analyse** against the GDPR table above; write findings to `_analysis/` and a per-issue
-   pack to `gdpr/`.
-4. **Redact** the strongest evidence into a minimally-redacted appendix.
-5. **Produce** the letter before action and, if needed, the IMY complaint from the templates
-   in `_analysis/`.
+3. **Analyse** against the GDPR table above; write findings to `03-analysis/` and a per-issue
+   pack to `03-analysis/gdpr/`.
+4. **Redact** the strongest evidence into a minimally-redacted appendix in
+   `04-redacted-evidence/`.
+5. **Produce** the letter before action and, if needed, the IMY complaint using the generators
+   in `05-deliverables/generators/`.
 
 ---
 
 ## Confidentiality & data-handling rules
 
 - **Do not commit raw evidence.** `.gitignore` already excludes `*.zip`, `*.pst` and `*.mp4`.
-  Do **not** add the unredacted source files (Teams/SharePoint exports, the Unit4 workbook, or
-  BankID artifacts) to version control or any shared remote.
+  Do **not** add the unredacted source files (the `01-ingest/Teams` and `01-ingest/Sharepoint`
+  exports, the Unit4 workbook, or BankID artifacts) to version control or any shared remote.
 - **Apply data minimisation to our own work product** — the same principle we hold the
-  controller to. Only the *redacted* appendix is intended to circulate; mask third-party
-  personnummer, contact details and signature blobs.
+  controller to. Only the *redacted* appendix (`04-redacted-evidence/`) is intended to
+  circulate; mask third-party personnummer, contact details and signature blobs.
 - **Restrict access** to those working the matter. Store on encrypted media; deliver disclosures
   by secure channel.
 - **Third-party data is not ours to publish** — exhibits expose ~105 other employees. Keep
