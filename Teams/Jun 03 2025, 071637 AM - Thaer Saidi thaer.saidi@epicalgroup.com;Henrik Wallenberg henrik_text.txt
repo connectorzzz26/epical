@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/2142/Definition-of-Ready-Design

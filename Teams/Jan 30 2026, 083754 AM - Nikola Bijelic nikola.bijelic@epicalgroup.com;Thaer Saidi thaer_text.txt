@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Nikola Bijelic
+	Recipients
+	nikola.bijelic@epicalgroup.com
+
+
+Who can grant access to my CPC on nsg-snet-nci-platform-prod01 ?

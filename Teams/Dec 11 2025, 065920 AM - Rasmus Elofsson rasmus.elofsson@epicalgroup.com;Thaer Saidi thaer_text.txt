@@ -1,0 +1,20 @@
+From
+	Thaer Saidi
+	To
+	Rasmus Elofsson
+	Recipients
+	rasmus.elofsson@epicalgroup.com
+
+
+
+
+Rasmus Elofsson 
+
+
+Also, i havent looked too far into the bug, but isnt it probably just wrong data like you said in the comment?
+
+
+
+
+
+Apparently it’s not as the actual user is swedish but somehow we are looking up another id or something for some other user

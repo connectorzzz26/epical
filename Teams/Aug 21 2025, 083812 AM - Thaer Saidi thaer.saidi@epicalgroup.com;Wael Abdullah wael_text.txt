@@ -1,0 +1,10 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+1.0/EmployeeHiredEventSchema.json
+ - Microsoft Azure

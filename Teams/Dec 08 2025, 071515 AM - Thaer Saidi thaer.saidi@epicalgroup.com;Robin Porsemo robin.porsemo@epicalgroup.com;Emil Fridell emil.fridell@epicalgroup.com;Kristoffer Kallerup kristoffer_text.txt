@@ -1,0 +1,18 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi; Robin Porsemo; Emil Fridell
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com; emil.fridell@epicalgroup.com
+
+
+So if a row is Required then that will default to null.
+
+
+If it isn't Required and doesn't have a value then it will not be passed to the adapter at all?
+
+
+ 
+
+
+Correct?

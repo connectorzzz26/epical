@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+I wonder from where I can get the Event payload that is getting published from DK Middelman, who can provide such payload ?

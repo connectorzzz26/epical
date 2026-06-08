@@ -1,0 +1,31 @@
+From
+	Salih Serdenak
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Vem ska stå som ägare för resurser som deployas som i corp, är det?
+
+
+  parameters:
+
+
+    ServiceName: NCC Core Integration
+
+
+    AccountingUnit: 11002731
+
+
+    ServiceManager: jovan.zdravevski@ncc.se
+
+
+    ServiceOwner: 
+jenni.peuranto@ncc.fi
+
+
+ 
+
+
+Eller ska jag sätta Behorighetssystemet ägare där?

@@ -1,0 +1,9 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Bara vi har en gräns för vad som är enkel mappning och när det krävs liquid och när man kan skippa

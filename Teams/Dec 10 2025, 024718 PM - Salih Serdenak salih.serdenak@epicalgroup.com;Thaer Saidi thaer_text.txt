@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+We cannot, they need to update the table schema in db2 or we change the mapped value we are providing

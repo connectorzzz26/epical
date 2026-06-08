@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Salih Serdenak; Thaer Saidi
+	Recipients
+	salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+deliverynote-supplier initial load in test seems to be completed, Maybe I shall start in test now?

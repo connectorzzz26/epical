@@ -1,0 +1,15 @@
+From
+	Rachid Ferenay
+	To
+	Sjödén Oscar (Ext); Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Wael Abdullah; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	oscar.sjoden@ncc.se; zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; wael.abdullah@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+
+you get an 401 error which means that you have not sent the jwt-token: 
+
+
+
+
+
+0-sse-d3-1be4660ce297f678281ba1c0fbe1be20

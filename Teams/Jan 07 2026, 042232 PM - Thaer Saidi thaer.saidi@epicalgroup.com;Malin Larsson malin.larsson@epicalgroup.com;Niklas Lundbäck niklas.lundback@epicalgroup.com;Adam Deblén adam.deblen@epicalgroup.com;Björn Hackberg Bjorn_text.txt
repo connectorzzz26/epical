@@ -1,0 +1,9 @@
+From
+	Björn Hackberg
+	To
+	Thaer Saidi; Malin Larsson; Niklas Lundbäck; Adam Deblén
+	Recipients
+	thaer.saidi@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com
+
+
+Let's configure this way and hope it works. For us it's pretty easy, we don't coordinate tests.

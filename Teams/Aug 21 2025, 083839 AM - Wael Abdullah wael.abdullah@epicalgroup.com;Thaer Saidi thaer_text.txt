@@ -1,0 +1,20 @@
+From
+	Thaer Saidi
+	To
+	Wael Abdullah
+	Recipients
+	wael.abdullah@epicalgroup.com
+
+
+
+
+Wael Abdullah 
+
+
+There is a wrong update happend yesterday on employeeHiredEvent schema in the storage account
+
+
+
+
+
+Hein

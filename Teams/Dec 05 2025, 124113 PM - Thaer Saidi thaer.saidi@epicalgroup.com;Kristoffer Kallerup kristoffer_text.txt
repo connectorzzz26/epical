@@ -1,0 +1,9 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Regarding rows 74, 80-83 the change date is last of oktober. Maybe want to change that to now so that it comes as a change in the mapping excel as well

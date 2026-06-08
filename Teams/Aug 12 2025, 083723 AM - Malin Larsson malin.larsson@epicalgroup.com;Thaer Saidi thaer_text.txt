@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+the mappings are not straightforward, there is some work to do there

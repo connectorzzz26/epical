@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Salih Serdenak; Thaer Saidi
+	Recipients
+	salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+started deliveryapp-supplier initialload in dev, but looks there is a problem in send flow /HTTP Post supplier

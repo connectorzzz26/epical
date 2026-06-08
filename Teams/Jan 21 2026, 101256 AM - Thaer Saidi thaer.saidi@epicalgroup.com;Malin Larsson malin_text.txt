@@ -1,0 +1,12 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Timereporting in place for NCCPortals. (NCC - NCCPortals....)
+
+
+Please verify with SA/Deeloper/Juha if we should use Projectv3.0 or Project3.1

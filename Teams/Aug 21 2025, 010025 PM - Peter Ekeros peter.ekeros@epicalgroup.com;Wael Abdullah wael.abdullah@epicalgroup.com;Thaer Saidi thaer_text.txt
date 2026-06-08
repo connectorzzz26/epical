@@ -1,0 +1,21 @@
+From
+	Thaer Saidi
+	To
+	Peter Ekeros; Wael Abdullah
+	Recipients
+	peter.ekeros@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+
+
+
+We can use the Transform function to do the translation, since this is the easiest solution that won't involve creation of extra topic.
+
+
+ 
+
+
+ 
+
+
+0-cse-d1-6446cb1271e6ac251782f0cc469c5fe3

@@ -1,0 +1,13 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson; Mats Jönsson
+	Recipients
+	malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com
+
+
+Do we have extra information regarding: 
+Feature 146935: Successfactor-EmployeeCountryEmployeeNumberUpdated-Sub ?
+
+
+Do we know if this event follows another one already existing ?

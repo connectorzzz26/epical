@@ -1,0 +1,10 @@
+From
+	Malin Larsson
+	To
+	Mattias Larsson; Jens Hedin; Ronny Pettersson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen; Nikola Bijelic; Johan Lindholm  Eliasson; Kristoffer Kallerup; Rasmus Elofsson
+	Recipients
+	mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; nikola.bijelic@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; rasmus.elofsson@epicalgroup.com
+
+
+Hi, Foroogh mentioned that she does not have connection details for C7 for production. So should/could the responsible integration architects for the different Subscribers in HR Core project start the process for retreiving those. It would be good to have
+ those in place asap.

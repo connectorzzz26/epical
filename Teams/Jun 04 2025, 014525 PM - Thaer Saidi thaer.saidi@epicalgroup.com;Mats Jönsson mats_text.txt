@@ -1,0 +1,24 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+but...today DKM-sub is connected to a SB/topic on adapter side. We deliver payload on that SB. Alex will use the same SB (another topic) that NCIP ramp will listning to. Alex will place his payload there. Adapter will be responsible on setting the first
+ envelope including payload. So the envelope information have to match on NCIP criterias on logging and DF set up. so typical we go through about- security classification
+
+- Business id
+
+- Global id (if its attached or need creation)
+
+- use of type (CRUD)
+
+- id (transaction id)
+
+
+ 
+
+
+other stuff is more or less self explained in envelope ex schema, subject contenttype etc

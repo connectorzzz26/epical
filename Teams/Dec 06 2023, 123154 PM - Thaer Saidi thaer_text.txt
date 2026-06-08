@@ -1,0 +1,25 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Because that's the latest instructions from Juha after I asked him to verify the mapping output, but I think it sounds a bit strange to send the LocalId to the canonical format...so I just wanted to double check what the rest of you think, to avoid having
+ to re-do it again in a few days  
+
+
+For reference, the LocalId is for example "ACTIVE" and the corresponding GlobalId is 2, giving this mapping output:
+
+
+
+
+
+ 
+
+
+Perhaps it's fine, just wanted to double check since it seems a bit strange to use the LocalId + GlobalId
+
+
+0-cse-d3-361ab50e5c8dc6de62fe55100d85134e

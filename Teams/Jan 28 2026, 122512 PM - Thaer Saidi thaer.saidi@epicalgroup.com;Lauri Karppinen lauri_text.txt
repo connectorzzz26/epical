@@ -1,0 +1,9 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+well thats the way its implemented. but im trying to confirm is that ok?

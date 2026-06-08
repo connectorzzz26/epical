@@ -1,0 +1,10 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Salih Serdenak; Thaer Saidi
+	Recipients
+	salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Salih Serdenak, I have started initial load for deliverynote-supplier in dev and it is running
+ now

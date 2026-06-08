@@ -1,0 +1,13 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Eller tänker jag galet?  Eller...
+ Där står det att det är 2 olika baseurl's iofs. Men det jag menar är att båda går emot en DEV endpoint. 
+
+
+0-sse-d4-5a6257a9d8da9f217f5837e137b868e1

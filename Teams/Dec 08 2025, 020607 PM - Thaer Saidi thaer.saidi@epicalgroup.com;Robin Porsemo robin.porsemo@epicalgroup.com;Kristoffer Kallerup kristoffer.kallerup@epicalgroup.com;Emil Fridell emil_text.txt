@@ -1,0 +1,15 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo; Kristoffer Kallerup
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+FYI: Got this invalid data at lunch today. That is not a boolean
+
+
+
+
+
+0-sse-d1-8ca00f6c3420a8c78adcb8d708a15225

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com
+
+
+For MAD despatchUnit we need to implement an API endpoint in the ncc apim

@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Peter Ekeros; Thaer Saidi
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+SF ExternalPhysicalPersonRequest is sent to Servicenow and then Snow responds with the registered event to SF. but if it is possible to do ServiceNow-ExternalPhysicalPersonRegistered-Pub before the request it shoudl be good to go for Thaer

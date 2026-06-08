@@ -1,0 +1,23 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Malin Larsson; Carita Järvinen; Thaer Saidi; Elisabeth Blom; Jens Hedin; Salih Serdenak; Robert Johansson; Olli Takala; Lauri Karppinen; Ronny Pettersson; Henrik Lindin; Henrik Hörnlund; Peter Ekeros; Björn Hackberg; Mats Jönsson; Odenfelt Kajsa; Wael Abdullah; Johan Lindholm  Eliasson; Mattias Larsson; Henrik Wallenberg; Nicklas Andersson; Larsson Malin (Ext); Nikola Bijelic
+	Recipients
+	malin.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; thaer.saidi@epicalgroup.com; elisabeth.blom@epicalgroup.com; jens.hedin@epicalgroup.com; salih.serdenak@epicalgroup.com; robert.johansson@epicalgroup.com; olli.takala@epicalgroup.com; lauri.karppinen@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.lindin@epicalgroup.com; henrik.hornlund@epicalgroup.com; peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; mats.jonsson@epicalgroup.com; kajsa.odenfelt@ncc.se; wael.abdullah@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; mattias.larsson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; nicklas.andersson@epicalgroup.com; malin.larsson2@ncc.se; nikola.bijelic@epicalgroup.com
+
+
+
+
+Hello, when I try to go to/browse App Registration with my zadm account, I still get this error:
+
+
+ 
+
+
+You do not have access
+
+
+ 
+
+
+{"sessionId":"78176acda9f740f29141c17f3c779dd9","subscriptionId":"","resourceGroup":"","errorCode":"401","resourceName":"","details":"Error loading your content"}

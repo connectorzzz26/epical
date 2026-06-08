@@ -1,0 +1,29 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg; Malin Larsson; Niklas Lundbäck; Adam Deblén; Elisabeth Blom; Rebecca Cyrén
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com; elisabeth.blom@epicalgroup.com; rebecca.cyren@epicalgroup.com
+
+
+Hi Team
+
+
+
+Some comments I have after our IFS environments call yesterday with Accenture team..
+
+
+
+We need to be clear about an important gap in our setup. Many of the delays and issues we see are caused by data, not by integrations or code. When data is not handled properly early, problems appear late, fixes take longer, and business testing gets blocked.
+
+
+
+Mocking data in integration development does not solve this problem. It only validates assumptions, not real behavior, and hides data issues until later stages where they are harder and more expensive to fix.
+
+
+
+This is why we need DataOps in the team. DataOps ensures we work with reliable and realistic data from the start, keeps technical testing separate from business validation, and helps us find issues early instead of at the end.
+
+
+
+Without DataOps, data problems are pushed forward. With DataOps, they are solved at the source. This also protects the integration team from unfair conclusions such as development quality being poor, when the real issue is data, not implementation.

@@ -1,0 +1,27 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I think this is also faulty:
+
+
+ 
+
+
+
+
+
+ 
+
+
+The level 1 here should be towards IFS CFG (to be the dev sandbox) ie normal dev env
+
+
+I think some changes might be needed here to clarify the separation of SIT and UAT
+
+
+0-cse-d4-249ccaf8435e0170b1455afd74d55046

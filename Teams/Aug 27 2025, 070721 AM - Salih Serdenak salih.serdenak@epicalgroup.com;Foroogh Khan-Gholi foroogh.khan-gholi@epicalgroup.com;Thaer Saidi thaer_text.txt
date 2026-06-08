@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak; Foroogh Khan-Gholi
+	Recipients
+	salih.serdenak@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+So we should still follow the existing diagram/architecture with 3 workflows being built even though the transform won’t do nothing

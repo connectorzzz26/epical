@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Malin Larsson; Thaer Saidi
+	Recipients
+	malin.larsson@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+I think Omid will need to deploy the schema to prod before we deploy the workflow

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+But I didn't go through all resources, their names and what needs to be removed... Thinking that the developers should know that from the pipelines

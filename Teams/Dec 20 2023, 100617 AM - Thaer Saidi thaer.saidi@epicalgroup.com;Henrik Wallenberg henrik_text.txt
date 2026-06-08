@@ -1,0 +1,21 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Malin Larsson
+Jag ska bevittna en julavslutning utomhus lagom vid dailyn, skulle behöva uppdatera mig på vad ni gör, men kommer försöka bara jobba halvdagar då jag inte är helt kurant. sprinten gäller och prioordning finns i backlog. Men jag tror att
+ alla har att göra?
+
+
+
+
+
+Har vi fått något klartecken kring om det är ok att börja flytta in i prod?

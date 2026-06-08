@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+But it’s a new object so need to create a new liquid template not the same as v2

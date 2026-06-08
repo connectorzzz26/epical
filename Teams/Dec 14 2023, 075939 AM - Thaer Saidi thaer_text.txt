@@ -1,0 +1,21 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Karam Haroun
+Hittat en liten bugg i funktionen och en lösning för den buggen men eftersom vi inte har någon metod för att föra in ändringar överallt vet jag inte hur jag nu ska göra 😄 Men hör av er alla som ska deploya en validation function till
+ prod snart så kan vi kopiera in den raden i koden
+
+
+
+
+
+Kom på att denna eventuellt fallit mellan stolarna. Är det någon som uppdaterat de functions som ska upp i Prod? Annars behöver vi nog få upp dem i Test asap så att vi testar versionen som ska upp i prod sedan.

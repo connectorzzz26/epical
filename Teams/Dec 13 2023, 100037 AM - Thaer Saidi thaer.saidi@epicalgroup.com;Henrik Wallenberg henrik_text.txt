@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+och det var tur vi kollade för vi upptäckte igår att Newtonsoft.Json bara klarar upp till draft-04 i den version vi implementerar

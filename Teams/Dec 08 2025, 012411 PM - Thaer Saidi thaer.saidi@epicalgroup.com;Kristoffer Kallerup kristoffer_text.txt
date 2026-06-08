@@ -1,0 +1,24 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+		MBB subscription workflows
+
+		Function-/Logic app
+
+		assosiated storage
+
+		Servicebus Queues/Topics
+
+		Application Insights
+
+		Smart detector alert rule
+
+		RBAC stuff
+
+		Storage account for translation test

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+I guess we changed that in HRM employee full event with Kristoffer so that we get a fresh token when we start a workflow

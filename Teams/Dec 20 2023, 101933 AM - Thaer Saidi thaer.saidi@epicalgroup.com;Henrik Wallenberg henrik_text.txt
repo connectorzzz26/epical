@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+till alla er som kör tester också, glöm inte att slänga ett öga på loggningen så att den också testas och ser ut att funka som den ska

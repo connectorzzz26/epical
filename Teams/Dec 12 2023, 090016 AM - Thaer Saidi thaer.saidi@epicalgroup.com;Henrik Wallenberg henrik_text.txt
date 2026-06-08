@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Men det kanske går att styra på nått bra sätt det med, med rättigheter på variabelgruppsnivå eller nått. Hursom tror jag det är en förbättring vi får kika på längre fram isf.

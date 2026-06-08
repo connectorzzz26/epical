@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Carita Järvinen
+	Recipients
+	carita.jarvinen@epicalgroup.com
+
+
+https://apigatewaydev.ncc.info/mad-dev/api/v1/SupplierAgreementPricelists/{id}

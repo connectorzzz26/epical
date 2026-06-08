@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Peter Ekeros; Wael Abdullah
+	Recipients
+	peter.ekeros@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/8999/PhysicalPerson-GlobalID-Translation-(Test-only)

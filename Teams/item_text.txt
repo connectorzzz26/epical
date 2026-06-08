@@ -1,0 +1,9 @@
+From
+	19:159a3b8e-b1a2-4327-9278-3286de8de589_76db82f9-184d-4e74-9f86-59fcf9155f47@unq.gbl.spaces
+	To
+	Magnus Fälth; Thaer Saidi
+	Recipients
+	magnus.falth@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+<addmember><eventtime>1768226345177</eventtime><initiator>8:orgid:76db82f9-184d-4e74-9f86-59fcf9155f47</initiator><rosterVersion>1768226344942</rosterVersion><target>8:orgid:76db82f9-184d-4e74-9f86-59fcf9155f47</target><detailedtargetinfo><id>8:orgid:76db82f9-184d-4e74-9f86-59fcf9155f47</id></detailedtargetinfo><target>8:orgid:159a3b8e-b1a2-4327-9278-3286de8de589</target><detailedtargetinfo><id>8:orgid:159a3b8e-b1a2-4327-9278-3286de8de589</id></detailedtargetinfo></addmember>

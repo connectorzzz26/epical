@@ -1,0 +1,9 @@
+From
+	Rasmus Elofsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hello! I think Synergi ramp and event is ready for code review, if you or another developer should look at it.

@@ -1,0 +1,20 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Karam Haroun
+vart är det vi ska göra ändringen för att få in tagsen?
+
+
+
+
+
+Kommer att ske i varje "infrastructure-deploy.yaml". Håller på att skriva en wiki-sida för detta nu

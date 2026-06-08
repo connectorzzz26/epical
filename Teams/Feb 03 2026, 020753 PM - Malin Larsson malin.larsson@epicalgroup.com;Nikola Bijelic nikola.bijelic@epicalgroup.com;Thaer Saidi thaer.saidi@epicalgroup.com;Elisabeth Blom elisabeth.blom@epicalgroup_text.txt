@@ -1,0 +1,35 @@
+From
+	Carita Järvinen
+	To
+	Malin Larsson; Nikola Bijelic; Thaer Saidi; Elisabeth Blom; Rasmus Elofsson; Rebecca Cyrén; Jens Hedin; Salih Serdenak; Robert Johansson; Nicklas Andersson; Olli Takala; Sohail Shaikh; Lauri Karppinen; Ronny Pettersson; Faris Elsir; Kristoffer Kallerup; Henrik Lindin; Niklas Lundbäck; Peter Ekeros; Björn Hackberg; Mats Jönsson; Foroogh Khan-Gholi; Adam Deblén; Wael Abdullah; Johan Lindholm  Eliasson; Mattias Larsson; Henrik Wallenberg; Omid Manai; Odenfelt Kajsa; Cyrén Rebecca (Ext); Oscar Larsson; Caroline Wallbäck; Hackberg Björn (Ext); Wael Hasan; Gokulakrishnan Kothandaraman; Nour Almajni
+	Recipients
+	malin.larsson@epicalgroup.com; nikola.bijelic@epicalgroup.com; thaer.saidi@epicalgroup.com; elisabeth.blom@epicalgroup.com; rasmus.elofsson@epicalgroup.com; rebecca.cyren@epicalgroup.com; jens.hedin@epicalgroup.com; salih.serdenak@epicalgroup.com; robert.johansson@epicalgroup.com; nicklas.andersson@epicalgroup.com; olli.takala@epicalgroup.com; sohail.shaikh@epicalgroup.com; lauri.karppinen@epicalgroup.com; ronny.pettersson@epicalgroup.com; faris.elsir@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; henrik.lindin@epicalgroup.com; niklas.lundback@epicalgroup.com; peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; mats.jonsson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; adam.deblen@epicalgroup.com; wael.abdullah@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; mattias.larsson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; omid.manai@epicalgroup.com; kajsa.odenfelt@ncc.se; rebecca.cyren@ncc.se; oscar.larsson@epicalgroup.com; caroline.wallback@epicalgroup.com; bjorn.hackberg@ncc.se; wael.hasan@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; nour.almajni@epicalgroup.com
+
+
+
+Kristoffer Kallerup
+Regarding App Service Plans: Would it be possible to select one ASPName for the event to be allocated to instead of different between dev/test/prod (refering to the number suffix)?
+
+
+
+
+
+We had it that way earlier (with one and the same number for all environments), but that is more or less impossible. One event is implemented, you deploy it to dev and test, but it could take months before it goes to prod. The prod ASP could be full by then,
+ and we do not want to create ASPs in PROD for the future that are empty before it's time to deploy to PROD. We have more ASPs in dev and test than in prod.
+
+
+ 
+
+
+That's the historical reason why we have a parameter for different environments and not only one for all. Been there, done that, but no success
+
+
+
+
+ 
+
+
+Was this an answer to your question?
+
+
+Someone that doesn't aggree with my explanation, please correct me

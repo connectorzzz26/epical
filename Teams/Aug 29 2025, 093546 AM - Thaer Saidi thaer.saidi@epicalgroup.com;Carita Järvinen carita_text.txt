@@ -1,0 +1,18 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+sb-deliverynote-test/sbq-deliverynote-inbound-supplier
+
+
+har massa meddelanden på deadletter, en del gamla, en del som skickats 27/8...
+
+
+ 
+
+
+Ser ut som att dom ska hämta meddelandena från en kö hos oss

@@ -1,0 +1,12 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Zain created a ticket the minute after you told me about the issue.
+
+
+Bug 175537

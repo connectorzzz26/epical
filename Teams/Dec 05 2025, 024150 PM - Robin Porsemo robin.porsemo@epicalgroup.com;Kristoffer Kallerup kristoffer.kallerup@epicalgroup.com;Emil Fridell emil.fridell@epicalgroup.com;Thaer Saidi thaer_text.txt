@@ -1,0 +1,11 @@
+From
+	Thaer Saidi
+	To
+	Robin Porsemo; Kristoffer Kallerup; Emil Fridell
+	Recipients
+	robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; emil.fridell@epicalgroup.com
+
+
+Shouldn’t we simply not send it at all ?
+
+But if you think null is okay then sure

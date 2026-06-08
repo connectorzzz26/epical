@@ -1,0 +1,9 @@
+Accepted: HR Core release management
+
+Accepted: HR Core release management
+	From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com

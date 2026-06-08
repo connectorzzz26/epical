@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Foroogh Khan-Gholi
+	Recipients
+	foroogh.khan-gholi@epicalgroup.com
+
+
+From which environment did we push our schemas ?

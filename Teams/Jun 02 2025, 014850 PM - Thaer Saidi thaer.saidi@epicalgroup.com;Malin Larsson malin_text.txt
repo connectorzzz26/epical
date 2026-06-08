@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+the tasks are "standard" so many times they might be obsolete - but I would suggest that one of the architects could described needed tasks. not Björn but Henrik H or Mats for instance.

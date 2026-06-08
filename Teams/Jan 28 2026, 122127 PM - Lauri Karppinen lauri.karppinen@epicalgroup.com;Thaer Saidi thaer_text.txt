@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Lauri Karppinen
+	Recipients
+	lauri.karppinen@epicalgroup.com
+
+
+globalbusinessid is the same as employeece.ID but I believe better to make sure we have them done in the same way

@@ -1,0 +1,10 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi; Nikola Bijelic; Henrik Wallenberg
+	Recipients
+	thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; henrik.wallenberg@epicalgroup.com
+
+
+In the MAD ramp we are sending stuff to 
+https://apigatewaydev.ncc.info/mad-test/api/v3/Suppliers/23462, so first what is between NCIP and APIM and second what is between APIM and MAD...

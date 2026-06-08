@@ -1,0 +1,29 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+God morgon! Detta är de tags som Kajsa sagt att vi ska ha på våra resurser: 
+
+
+
+		Environment 
+
+		ServiceName 
+
+		AccountingUnit
+
+		ServiceManager
+
+		ServiceOwner 
+
+
+
+
+Bäst vore väl om vi "tvingade" detta genom att sätta det som required parameters vid bicep deploy? Tänker mig då att vår Common-Yaml - Bicep Deployment får ha dessa som required input. Nackdelen med att göra såhär är att alla pipelines som deployar bicep
+ kommer sluta funka tills dess att vi lagt dessa tags för vardera pipeline. Det positiva är att det blir gjort och ingen kan slippa undan
+
+ Tankar?

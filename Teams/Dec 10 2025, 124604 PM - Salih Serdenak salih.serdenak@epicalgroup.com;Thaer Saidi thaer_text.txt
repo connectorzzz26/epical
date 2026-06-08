@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+Also can you test coolpro, the networking issue is supposed to be fixed as I tested however the 2 queries we are currently using have some kind of problem

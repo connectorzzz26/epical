@@ -1,0 +1,9 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Sedan för admin consent så är det ett annat API där vi behöver autentisiera oss med MFA först och vara ägare till BÅDA app registrations

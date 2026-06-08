@@ -1,0 +1,9 @@
+From
+	Wael Abdullah
+	To
+	Peter Ekeros; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Salih Serdenak; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; salih.serdenak@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+I have an ownership on APIM app reg..... I don't know if every developer should have ownership on APIM app reg to create API permission or that access shall be with specific certain persons who can create needed APIM permissions instead

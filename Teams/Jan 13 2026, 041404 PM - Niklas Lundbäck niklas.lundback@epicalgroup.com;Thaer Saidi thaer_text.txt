@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Niklas Lundbäck
+	Recipients
+	niklas.lundback@epicalgroup.com
+
+
+That’s the first step and then comes the AI part where we also use llms we host in azure foundry in Sweden as well

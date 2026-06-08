@@ -1,0 +1,18 @@
+Call (Complete)/Thread Id: /Communication Id: 1a5e74af-808d-4723-a1dd-4a9e5b440e6a/Salih Serdenak,Thaer Saidi
+
+Call (Complete)/Thread Id: /Communication Id: 1a5e74af-808d-4723-a1dd-4a9e5b440e6a/Salih Serdenak,Thaer Saidi
+	From
+	Salih Serdenak
+	To
+	Salih Serdenak; Thaer Saidi
+	Recipients
+	salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+Start Time (UTC): 1/28/2026 12:10:17 PM
+End Time (UTC): 1/28/2026 12:16:59 PM
+Duration: 00:06:41.2819195
+
+[1/28/2026 12:10:17 PM (UTC)] salih.serdenak@epicalgroup.com joined.
+[1/28/2026 12:16:59 PM (UTC)] salih.serdenak@epicalgroup.com left.
+[1/28/2026 12:10:17 PM (UTC)] thaer.saidi@epicalgroup.com joined.
+[1/28/2026 12:16:59 PM (UTC)] thaer.saidi@epicalgroup.com left.

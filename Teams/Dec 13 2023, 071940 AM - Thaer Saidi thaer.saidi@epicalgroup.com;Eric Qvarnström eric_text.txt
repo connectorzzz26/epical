@@ -1,0 +1,20 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Mattias Larsson
+Kör på, vi får väl sätta dummyvärden om något saknas
+
+
+
+
+
+Tänker det också! Cloud ops har en Task på sig att ta bort inheritance av tags från Subscription (Policy). Så fort dom är klara så kan jag justera deploy-filen

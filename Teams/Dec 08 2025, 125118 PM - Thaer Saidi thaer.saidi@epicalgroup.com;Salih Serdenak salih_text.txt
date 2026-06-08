@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+just ran the flow, is there a timestamp for the test on the 2nd, could take a better look maybe

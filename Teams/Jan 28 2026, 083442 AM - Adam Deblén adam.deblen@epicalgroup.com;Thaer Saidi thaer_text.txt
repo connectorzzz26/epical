@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Adam Deblén
+	Recipients
+	adam.deblen@epicalgroup.com
+
+
+FYI: testing the connection to the db doesn't require the integration request.

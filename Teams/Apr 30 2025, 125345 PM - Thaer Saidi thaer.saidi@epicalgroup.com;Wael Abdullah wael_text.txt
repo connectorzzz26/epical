@@ -1,0 +1,10 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi ... a new user have been created for me 
+wael.abdullah2@ncc.se instead of the old one, and I can access common integration but can't see code repos also

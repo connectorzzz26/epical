@@ -1,0 +1,129 @@
+From
+	Tom Lehane
+	To
+	Thaer Saidi; Nathalie Kuosa; Yahya Ajwad; Anton Björkman; Christoffer Andersson; Berhan Karagöz; Omid Manai; Jenny Lenhammar; Adam Fredholm; Fredric Travaglia; Marko Ikäheimo; Ari-Pekka Dufva; Jenna Munk Hemberg; Magnus Strömer; Magnus Fälth; Märit Sareyko
+	Recipients
+	thaer.saidi@epicalgroup.com; nathalie.kuosa@epicalgroup.com; yahya.ajwad@epicalgroup.com; Anton.Bjorkman@epicalgroup.com; christoffer.andersson@epicalgroup.com; berhan.karagoz@epicalgroup.com; omid.manai@epicalgroup.com; jenny.lenhammar@epicalgroup.com; adam.fredholm@epicalgroup.com; fredric.travaglia@epicalgroup.com; marko.ikaheimo@epicalgroup.com; ari-pekka.dufva@epicalgroup.com; jenna.munkhemberg@epicalgroup.com; magnus.stromer@epicalgroup.com; magnus.falth@epicalgroup.com; marit.sareyko@epicalgroup.com
+
+Workshop 260113.pptxIdea summary template.docx
+
+
+
+Hi all,
+
+
+ 
+
+
+Quick update we (Nathalie and I) had a catchup today, first since our workshop last week mainly to make sure we’re aligned on the steps going forward.
+
+
+ 
+
+
+We want to be able to agree on a few initiatives (in other words: the ideas presented last week) that we should begin with asap.  To do so we need more input from those of you (us
+ :) ) who came up with the ideas.
+
+
+So, we have another request from you as a group.
+
+
+ 
+
+
+We want to avoid taking decisions in isolation - where understanding of the ideas is lower.
+
+
+So we would like to run a second round where each initiative is described using the same structure, so we can compare and prioritise properly.
+
+
+ 
+
+
+Each initiative write-up should cover:
+
+
+ 
+
+
+
+		Outcome: what we will deliver / what “done” looks like
+
+		Execution: how we’ll do it + who needs to be involved
+
+		Investment: time, roles (senior/junior mix), plus any tool/licence needs
+
+		Value: operational benefit + commercial/customer impact
+
+
+
+
+ 
+
+
+Once we have these, we are better placed to understand context+prioritise, plus considerroadmap + resource allocation.
+
+
+Here
+ is a template (yes, CoPilot made it for me) it would be great if you could use. By all means attach more information/story tellign/background, but by completing these things it makes comparisons simpler for us.
+
+
+ 
+
+
+
+		Each initiative team (I'm sure we all remember who are team mates were!) gets ~2–3 hours to produce the “second round” write-up using the common structure above.
+
+		Deadline: Lunch, Friday 6th February.
+
+
+
+
+ 
+
+
+ 
+
+
+In parallel with this, some stuff is already happening
+
+
+ 
+
+
+
+		#1 BizTalk migration agent: already progressing (Yahya + Integration) and will be brought to the board.
+
+		#5 Consultant Matchmaking & Collective Intelligence Magnus + Jenna have started talking a bit more concretely
+
+
+
+
+ 
+
+
+On Thursday next week we have the Epical Town Hall. I will give a short update in our
+AI Initiative.  No surprises, it'll be a recap of the activity here.
+
+
+ 
+
+
+The material and summary for last week is
+here
+
+
+The ideas are listed on slide 5.
+
+
+ 
+
+
+So, again, I know we all have competing engagements and responsibilities - but please find the time to complete this.  It's a pre-req for us to be able to
+focus our energy on the most appropriate ideas at this point in time.
+
+
+ 
+
+
+Thanks!

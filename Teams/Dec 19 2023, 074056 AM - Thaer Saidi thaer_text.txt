@@ -1,0 +1,20 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Jens Hedin
+Hej, har vi nån lista med vem som är serviceowner/servicemanager/accountingUnit någonstans? Det hade varit himla bra tycker jag 🙂
+
+
+
+
+
+Annars ska det ligga i dokumentationen av varje Ramp/event, men det är ju förutsatt att vi fått infon såklart

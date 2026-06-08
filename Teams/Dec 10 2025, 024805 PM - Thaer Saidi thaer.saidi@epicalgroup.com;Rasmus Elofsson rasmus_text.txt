@@ -1,0 +1,9 @@
+From
+	Rasmus Elofsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Also, i havent looked too far into the bug, but isnt it probably just wrong data like you said in the comment?

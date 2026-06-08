@@ -1,0 +1,9 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+So we are going to import all global IDs from production to a table or so in testing

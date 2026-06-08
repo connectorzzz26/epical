@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Jag stänger Build Server for Corp side storyn nu, ingen vits att ha kvar den nu eller hu

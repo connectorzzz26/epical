@@ -1,0 +1,9 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Om det går som tänkt kommer vi kunna skapa app registrations via ett API där vi kan ange owners (måste ha med någon Service Owner eller Service Manager från NCC) så vi kan lägga till oss själva som owner direkt vid skapandet

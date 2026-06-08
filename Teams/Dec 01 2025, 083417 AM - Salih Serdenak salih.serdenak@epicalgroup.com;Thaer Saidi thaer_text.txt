@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+I have this bug for you today
+
+
+https://dev.azure.com/NccDevelopment/Development%20and%20IT/_workitems/edit/174749

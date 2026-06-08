@@ -1,0 +1,30 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi; Mats Jönsson
+	Recipients
+	thaer.saidi@epicalgroup.com; mats.jonsson@epicalgroup.com
+
+
+Hi, I have tried to get priority designs in HR Core but have to wing it a bit. 
+
+
+Just assigned Mats to: 
+
+
+
+		ServiceNow-ExternalResource-Pub
+
+		DK-Middleman-EmployeeContryEmployeeNumberUpdated-Pub
+
+
+
+
+So maybe the best way to continue onboarding Thaer would be to design the Subscribers for those, or what do you think Mats? 
+
+
+this for instance:
+
+
+Feature 146935:
+ Successfactor-EmployeeCountryEmployeeNumberUpdated-Sub

@@ -1,0 +1,18 @@
+From
+	Jens Hedin
+	To
+	Mattias Larsson; Carita Järvinen; Ronny Pettersson; Malin Larsson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; ronny.pettersson@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com
+
+
+im unsure it the link above works for me. No errors and this is shown: 
+
+
+ 
+
+
+
+
+
+0-cse-d3-93e90be37f59e17f79f34a532d3de918

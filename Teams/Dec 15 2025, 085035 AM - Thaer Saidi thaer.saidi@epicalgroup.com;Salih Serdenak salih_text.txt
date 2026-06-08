@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+i would assume it is: Event.Employee2409.JobAssignment[0].Position2411.PositionEffective[0].OrganizationalUnit2409.ID

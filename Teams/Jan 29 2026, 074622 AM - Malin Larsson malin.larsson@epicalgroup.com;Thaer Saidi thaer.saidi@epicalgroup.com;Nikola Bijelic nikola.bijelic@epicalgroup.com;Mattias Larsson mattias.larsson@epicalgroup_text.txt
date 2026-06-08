@@ -1,0 +1,9 @@
+From
+	Peter Ekeros
+	To
+	Malin Larsson; Thaer Saidi; Nikola Bijelic; Mattias Larsson; Johan Lindholm  Eliasson; Ronny Pettersson; Lauri Karppinen; Foroogh Khan-Gholi; Gokulakrishnan Kothandaraman
+	Recipients
+	malin.larsson@epicalgroup.com; thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; mattias.larsson@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; ronny.pettersson@epicalgroup.com; lauri.karppinen@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com
+
+
+Today I will continue with documentation. Yesterday was helping others day/investigation on bugs, so did not started the documentation check.

@@ -1,0 +1,9 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+there was no specification how the datetime should be formatted. what you think is YYYYMMDD_HHmmss ok or do we want something else

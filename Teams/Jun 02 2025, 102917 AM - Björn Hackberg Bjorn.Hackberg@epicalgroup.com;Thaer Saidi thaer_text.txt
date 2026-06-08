@@ -1,0 +1,24 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com
+
+
+Hey Bjorn
+
+
+I called you to talk about this: Apparently it's not 1 to 1 mapping as Carita said
+
+
+Here is the suuplierAgreementPriceList mapping from the code
+
+
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_git/NCI-Ramp-DeliveryNote?path=/Outbound/SupplierUnit/Code/LogicAppResources/logic-DeliveryNote-SupplierUnit-Outbound/Artifacts/Maps/SupplierUnit-transform-v1.liquid
+
+
+and
+
+
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_git/NCI-Ramp-MasterArticleData?path=/Outbound/SupplierAgreementPricelist/Code/LogicAppResources/logic-MasterArticleData-SupplierAgreementPricelist-Outbound/Artifacts/Maps/supplieragreementpricelist-transform-v1.liquid

@@ -1,0 +1,208 @@
+FW: URGENT: NCC Competitive Intelligence Exposure – Immediate Action Needed
+
+FW: URGENT: NCC Competitive Intelligence Exposure – Immediate Action Needed
+	From
+	Thomas Andersson
+	To
+	Noora Vilonen
+	Recipients
+	noora.vilonen@epicalgroup.com
+
+
+
+ 
+
+ 
+
+ 
+
+Best regards,
+
+Thomas
+
+
+
+Thomas Andersson
+
+Chief Delivery Officer (CDO)
+
+ 
+
++46 733 65 78 33
+
+thomas.andersson@epicalgroup.com     
+
+ 
+
+Epical | Skeppsgatan 19, 211 11 Malmö, SWEDEN
+
+ 
+
+       
+
+ 
+
+From: Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>
+Date: Tuesday, 3 February 2026 at 14:56
+To: Thaer Saidi <thaer.saidi@epicalgroup.com>, Christer Nordlander <christer.nordlander@epicalgroup.com>, Magnus Strömer <magnus.stromer@epicalgroup.com>, Thomas Andersson <thomas.andersson@epicalgroup.com>, Lars Rosenquist <lars.rosenquist@epicalgroup.com>
+Subject: Re: URGENT: NCC Competitive Intelligence Exposure – Immediate Action Needed
+
+
+Hej Thaer, 
+
+We are handling this and having several ongoing discussions at the moment. 
+We will revert. 
+
+
+Best regards / Med vänliga hälsningar
+
+
+
+Carl-Johan Algotsson 
+Manager Integrations
+
++46 70-833 4113 
+
+carl-johan.algotsson@epicalgroup.com 
+
+Book a meeting with me
+
+Epical | Sveavägen 15 | SE-111 57 Stockholm, Sweden  
+
+  
+
+From: Thaer Saidi <thaer.saidi@epicalgroup.com>
+Date: Tuesday, 3 February 2026 at 14:51
+To: Christer Nordlander <christer.nordlander@epicalgroup.com>, Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>, Magnus Strömer <magnus.stromer@epicalgroup.com>, Thomas Andersson <thomas.andersson@epicalgroup.com>, Lars Rosenquist <lars.rosenquist@epicalgroup.com>
+Subject: Re: URGENT: NCC Competitive Intelligence Exposure – Immediate Action Needed
+
+
+Hey
+
+I don’t see mich action happening actually as our delivery manager wants to still contain this within our integration team.
+
+This is the discussion I had with the platform lead architect:
+
+Henrik Wallenberg left a comment
+
+What sensitive information are we storing in Log Analytics and why is the Logic App run history GDPR exposure in our context?
+
+
+
+You left a comment
+
+LogicApp run history contains all event data in plaintext such as Employee2409CE or BankAccount data.Regarding the LA, Global ID might seem like a simple internal reference, it is a primary identifier that can facilitate identity theft and unauthorized access.
+
+
+
+Henrik Wallenberg replied
+
+Thanks for the answer. Not sure if I agree completely in the severity of this from my understanding of how GDPR applies in these case
+
+
+
+// Thaer 
+  _____  
+
+From: Christer Nordlander <christer.nordlander@epicalgroup.com>
+Sent: Tuesday, February 3, 2026 8:49:28 AM
+To: Thaer Saidi <thaer.saidi@epicalgroup.com>; Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>; Magnus Strömer <magnus.stromer@epicalgroup.com>; Thomas Andersson <thomas.andersson@epicalgroup.com>; Lars Rosenquist <lars.rosenquist@epicalgroup.com>
+Subject: Sv: URGENT: NCC Competitive Intelligence Exposure – Immediate Action Needed
+ 
+Thank you @Thaer Saidi and @Carl-Johan Algotsson for identifying this exposure and talking appropriate actions.
+
+Christer
+  _____  
+
+Från: Thaer Saidi <thaer.saidi@epicalgroup.com>
+Skickat: den 3 februari 2026 08:31
+Till: Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>; Magnus Strömer <magnus.stromer@epicalgroup.com>; Christer Nordlander <christer.nordlander@epicalgroup.com>; Thomas Andersson <thomas.andersson@epicalgroup.com>; Lars Rosenquist <lars.rosenquist@epicalgroup.com>
+Ämne: Re: URGENT: NCC Competitive Intelligence Exposure – Immediate Action Needed
+ 
+Adding @Lars Rosenquist
+
+// Thaer 
+  _____  
+
+From: Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>
+Sent: Tuesday, February 3, 2026 7:50:53 AM
+To: Thaer Saidi <thaer.saidi@epicalgroup.com>; Magnus Strömer <magnus.stromer@epicalgroup.com>; Christer Nordlander <christer.nordlander@epicalgroup.com>; Thomas Andersson <thomas.andersson@epicalgroup.com>
+Subject: Re: URGENT: NCC Competitive Intelligence Exposure – Immediate Action Needed
+ 
+Good morning, 
+
+We, Thaer and I have a short check in regarding this at 08:00 today. 
+We will set the plan from there. 
+
+Already now we know that we need to involve Lars R and the project lead from Epical at NCC, Niklas L. 
+
+
+Best regards / Med vänliga hälsningar
+
+
+
+Carl-Johan Algotsson 
+Manager Integrations
+
++46 70-833 4113 
+
+carl-johan.algotsson@epicalgroup.com 
+
+Book a meeting with me
+
+Epical | Sveavägen 15 | SE-111 57 Stockholm, Sweden  
+
+  
+
+From: Thaer Saidi <thaer.saidi@epicalgroup.com>
+Date: Tuesday, 3 February 2026 at 05:48
+To: Magnus Strömer <magnus.stromer@epicalgroup.com>, Christer Nordlander <christer.nordlander@epicalgroup.com>, Thomas Andersson <thomas.andersson@epicalgroup.com>
+Cc: Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>
+Subject: URGENT: NCC Competitive Intelligence Exposure – Immediate Action Needed
+
+
+
+Dear Magnus, Christer and Thomas
+
+I have identified a critical business intelligence exposure at NCC linked to the current IFS Cloud and Azure Cosmos DB integration. This is not a standard IT security issue; it directly impacts NCC’s competitive position.
+
+Key points, in brief:
+
+- The current setup allows extraction of NCC’s operational and financial intelligence (“operational DNA”).
+- Estimated exposure value: 130–1,050 MSEK annually if leveraged by competitors or external actors.
+- Tender risk: Access to cost structures can give rivals a 0.5–3% bidding advantage on major tenders.
+- Supplier leverage risk: Framework prices and preferred supplier data can be used to force margin erosion.
+- Strategic IP risk: Execution data from large projects (e.g. data centers) provides competitors and hyperscalers with high-value benchmarks.
+- Financial signaling risk: Project data reveals overruns and write-down risks months before public disclosure.
+- Root cause: over-privileged consultant access, weak rollback logic, and audit-trail gaps, creating both data exfiltration and cover-up risk.
+
+This requires immediate executive attention. I recommend a short, focused session with the NCC CIO or COO to outline:
+1) the exposure,
+2) the financial impact, and
+3) concrete containment actions.
+
+I can prepare clear talking points and a meeting structure for this discussion.
+
+Kind regards,  
+Thaer Saidi
+ 
+
+image001[41].png
+
+image002[79].png
+
+image003[83].png
+
+image004[46].png
+
+Image.png
+
+Image.png
+
+image001[21].png
+
+image002.png
+
+image003.png
+
+image004.png

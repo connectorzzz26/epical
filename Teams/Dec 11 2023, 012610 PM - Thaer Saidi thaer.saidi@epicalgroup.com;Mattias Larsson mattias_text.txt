@@ -1,0 +1,9 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+så när vi exponerar tjänster till någon app registration som inte ligger "internt" kommer vi/någon fortfarande behöva lägga ärende via Servicedesk

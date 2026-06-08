@@ -1,0 +1,10 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+can you update the efforts on the NCC Portals events: 
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_backlogs/backlog/NCIP%20Team%20Nexus/Features

@@ -1,0 +1,33 @@
+From
+	Magnus Fälth
+	To
+	Ari-Pekka Dufva; Thaer Saidi; Christoffer Andersson
+	Recipients
+	ari-pekka.dufva@epicalgroup.com; thaer.saidi@epicalgroup.com; christoffer.andersson@epicalgroup.com
+
+
+•Track:
+
+
+•Problem statement:
+
+
+•Who benefits:
+
+
+•Proposed approach (high level):
+
+
+•What changes in practice:
+
+
+•Dependencies (data systems people approvals)
+
+
+•Risks / open questions
+
+
+•What success looks like (measureble)
+
+
+•Resources needed: (time, tools, external help)

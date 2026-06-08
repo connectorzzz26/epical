@@ -1,0 +1,10 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Sebastian Pettersson vi hade ett snack med Daniel igår angående det. Vi har kommit fram till att
+ struktur och version funkar. Återstår att checka specifikt med någon av Site Service schemana. Karam skulle göra det efter han hade dokumenterat det som skulle dokumenteras.

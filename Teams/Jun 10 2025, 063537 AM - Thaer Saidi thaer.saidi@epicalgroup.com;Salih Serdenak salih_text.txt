@@ -1,0 +1,17 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Can you help me out? 
+
+
+ 
+
+
+I got as far as testing and I am not really sure about the endpoints still. I looked at APIM and the endpoint is thinevent but I am not sure how that rhymes with the endpoints mentioned in the spec (api/companies/...). The base url in apim is mentioned as:
+
+https://api-dev-nci.ncc.info/mad while in the existing supplierunit it is 'https://apigatewaydev.ncc.info/mad-dev/api/v1/SupplierUnits'

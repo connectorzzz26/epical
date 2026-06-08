@@ -1,0 +1,9 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+a big issue with developing in the portal, you sometimes forget to add it to the repo

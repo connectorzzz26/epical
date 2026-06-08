@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+how do you mean ? It's system managed so you basically interact with it via the UI in the browser. It's not possible to view it. You can interract with it via Git commandos as well if you would like to

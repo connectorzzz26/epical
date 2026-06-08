@@ -1,0 +1,27 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+the Supplier events that are going to be subscribed... 
+
+
+ 
+
+
+is there a migration process or we will basically overwrite the existing flow for v2 with v3
+
+
+ 
+
+
+do we do an initial load?
+
+
+ 
+
+
+the mapping is unclear before i have started working on it, I assume it is a copy paste from v2, any changes for the v3 format?

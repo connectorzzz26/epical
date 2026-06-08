@@ -1,0 +1,41 @@
+From
+	Thaer Saidi
+	To
+	Henrik Wallenberg
+	Recipients
+	henrik.wallenberg@epicalgroup.com
+
+
+I have a question regarding SupplierAgreementPriceList design
+
+
+
+
+
+I was following the same for V1.2 as existed in V1.0 so I used a full event design however Salih the developer is receiving a ThinEvent
+
+
+ 
+
+
+
+ 
+
+
+{
+    "id": "1337",
+    "type": "create",
+    "eventName": "SupplierAgreementPricelist",
+    "securityClassification": 2
+}
+
+
+I don't find any template for a design of a subscriber ThinEvent pattern, should I keep it as is or what to do ?
+
+
+
+
+
+0-cse-d1-2c0a1443885d3303af64328fb350dfcf
+
+0-sse-d1-68099dfc47ccb8c846b2bd867ee7eca4

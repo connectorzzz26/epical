@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+normalt gör vi ingen validering på scheman i designfas utan denna gång så pratas det om det på grund av att dom implementerat harvesting scripts från Sparx som gör att dom ser annorlunda ut än dom vi tidigare fått

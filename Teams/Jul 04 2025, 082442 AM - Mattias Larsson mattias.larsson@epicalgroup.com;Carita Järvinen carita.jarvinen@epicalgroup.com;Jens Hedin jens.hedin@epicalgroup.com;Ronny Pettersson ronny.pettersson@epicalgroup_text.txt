@@ -1,0 +1,10 @@
+From
+	Mats Jönsson
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Henrik Hörnlund; Malin Larsson; Wael Abdullah; Salih Serdenak; Thaer Saidi
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; malin.larsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Hi, is anyone have less to do (?) in next week, there is a change on ServiceNow, subscribe on NccCompany 2.0 instead of 1.0. There is a task (https://nccdevelopment.visualstudio.com/Cmn-Integration/_workitems/edit/153584)
+in sprint. It's high prio but we have to, somehow align with what we got on the table, for now.

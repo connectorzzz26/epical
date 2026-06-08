@@ -1,0 +1,35 @@
+From
+	Malin Larsson
+	To
+	Mattias Larsson; Jens Hedin; Ronny Pettersson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen; Nikola Bijelic; Johan Lindholm  Eliasson; Kristoffer Kallerup; Rasmus Elofsson
+	Recipients
+	mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; nikola.bijelic@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; rasmus.elofsson@epicalgroup.com
+
+
+Hi all working with implementing v2logging, Carita called me to notify that there where a lot of errors in dlq for logging, we listed the ones below, that had generated a lot of errors:
+
+Employee2409
+
+Identity 
+
+PhysicalPersonRequest
+
+Job
+
+OrganizationalUnit2409CurrentlyEffective
+
+OrganizationalUnit2409
+
+Workplace
+
+Compensation
+
+ 
+
+It seems that they didn't validate against the schema for logposts. for instance the one below missing the "" around CanonicalEventName etc. so please, look through the documentation and verify the functionality. 
+
+ 
+
+
+
+0-sse-d4-fc759b978a6006396982e7592fcfeaa6

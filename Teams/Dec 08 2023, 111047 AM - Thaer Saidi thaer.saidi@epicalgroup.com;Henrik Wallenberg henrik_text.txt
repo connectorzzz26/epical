@@ -1,0 +1,22 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Karam Haroun
+ditt exempel var inte valid iaf, String 'ABCDEFGHIJKL' does not validate against format 'date'. Path 'MainObject.Date', line 8, position 26. och String 'ABCDEFG' does not validate against format 'date-time'. Path 'MainObject.Datetime',
+ line 9, position 25. så valideringen verkar funka 😄
+
+
+
+
+
+Bra då verkar ju schemat funka som det ska haha. körde denna för att skapa filen 
+https://www.liquid-technologies.com/online-schema-to-json-converter

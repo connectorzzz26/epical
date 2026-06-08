@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+the mapping specs formatting has been messed up in column j, is it something you are working on?

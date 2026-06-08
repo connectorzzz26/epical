@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+Should I start with employeeCE and only fill the compensation attributes with the necessary logic or how to do ?

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+And I thought they understood that but since they granted me access to the repo maybe they thought I will implement the bug fixes myself, I don’t know

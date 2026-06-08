@@ -1,0 +1,11 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+Have removed one bug and assigned it to Zain
+
+Also commented regarding a typo on another one

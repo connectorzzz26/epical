@@ -1,0 +1,20 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Malin Larsson
+What do we need and who is most suited to do the work!
+
+
+
+
+
+I have to do changes in 2 places at least. DAM DigitalMediaAsset Pub and DAM Employee Sub. And I guess that DAM Project Subscribe is also affected. I can do it. Have some other changes to do any way

@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I ran initialload for deliverynote yesterday afternoon and it look ok in logic apps, if the messages are not on Deadletter queue then ..? Do they filter the messages or they take everything without filtering in their system?

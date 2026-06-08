@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Peter Ekeros; Björn Hackberg; Sebastian Pettersson; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; sebastian.pettersson@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+I have added a delay of 3 seconds to the initialload and the receive has now a parallelism of 1 and I still get the error message...

@@ -1,0 +1,12 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+DeliveryNote verkar använda
+
+
+"dataschema": "supplier/3.0/SupplierEventSchema.json",

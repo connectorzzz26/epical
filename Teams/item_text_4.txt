@@ -1,0 +1,9 @@
+From
+	19:ba90c5f4982745968c757561ddf1c3bf@thread.v2
+	To
+	Malin Larsson; Peter Ekeros; Thaer Saidi; Nikola Bijelic; Mattias Larsson; Johan Lindholm  Eliasson; Ronny Pettersson; Lauri Karppinen; Foroogh Khan-Gholi; Gokulakrishnan Kothandaraman
+	Recipients
+	malin.larsson@epicalgroup.com; peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; mattias.larsson@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; ronny.pettersson@epicalgroup.com; lauri.karppinen@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com
+
+
+<topicupdate><eventtime>1769437919638</eventtime><initiator>8:orgid:a5cf3b23-da57-465b-bc2d-a4c245b1dd76</initiator><value>Team Nexus</value></topicupdate>

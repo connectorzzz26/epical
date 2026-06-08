@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+i got stuck with some other stuff, but ive only tried with 2 messages that worked for TEM, and the example above with FIN but the finorgdata was not there when looked up so... do we have some better example?

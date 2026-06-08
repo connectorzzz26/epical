@@ -1,0 +1,35 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Malin Larsson
+Karam Haroun och Sofie Hero vi beslutade att köra ett uppföljningsmöte redan efter lunch idag så jag hoppas att ni hinner kolla åtminstone på att sätta upp roller för App registrations på de task ni har
+
+
+
+
+
+Bara så att jag hänger med nu, denna gäller att skapa upp Roles i vår APIM-AppReg i Prod?
+
+
+
+
+
+
+ 
+
+
+Och sedan skapar jag själv upp en Task och listar vilka API-permissions som behöver beställas/godkännas för varje Ramp-AppReg jag har?
+
+
+
+
+0-cse-d4-ad2763afeec7178b20eb5d576fce0ba6

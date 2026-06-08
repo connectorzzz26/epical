@@ -1,0 +1,9 @@
+From
+	Wael Abdullah
+	To
+	Peter Ekeros; Thaer Saidi
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+I spent more than that time in debugging events and say it is working then Zain send it is not working !

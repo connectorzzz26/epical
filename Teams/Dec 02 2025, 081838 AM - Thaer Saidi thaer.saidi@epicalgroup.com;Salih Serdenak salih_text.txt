@@ -1,0 +1,114 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I am having issues with Coolpro, unable to verify it, still getting internal server errors... I am not missing any fields am I?
+
+
+ 
+
+
+"parameters": {
+
+
+        "table": "CPHL3PT",
+
+
+        "insertParameters": {
+
+
+            "CPHBNA": 1001844,
+
+
+            "CPHBOA": "",
+
+
+            "CPHBPA": "",
+
+
+            "CPHBQA": "Lampinen",
+
+
+            "CPHBRA": "Veikko",
+
+
+            "CPHBSA": "",
+
+
+            "CPHBTA": "",
+
+
+            "CPHBUA": 0,
+
+
+            "CPHBVA": 0,
+
+
+            "CPHBWA": 0,
+
+
+            "CPHBXA": "",
+
+
+            "CPHBYA": "",
+
+
+            "CPHBZA": "",
+
+
+            "CPHC0A": "IT Coordinator",
+
+
+            "CPHC1A": "",
+
+
+            "CPHC2A": "0",
+
+
+            "CPHC3A": "",
+
+
+            "CPHC4A": "0",
+
+
+            "CPHC5A": 1001399,
+
+
+            "CPHC6A": 0,
+
+
+            "CPHC7A": "FI",
+
+
+            "CPHC9A": "",
+
+
+            "CPHCAA": "",
+
+
+            "CPHCBA": "",
+
+
+            "CPHCCA": "",
+
+
+            "CPHCDA": "",
+
+
+            "CPHCEA": "",
+
+
+            "CPHCFA": "",
+
+
+            "CPHCGA": 0
+
+
+        }
+
+
+    }

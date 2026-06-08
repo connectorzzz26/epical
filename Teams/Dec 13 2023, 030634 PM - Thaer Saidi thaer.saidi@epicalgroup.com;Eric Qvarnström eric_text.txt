@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Nu är alla Function Apps och Logic Apps flyttade till nya subnät i DEV och bör fungera som vanligt igen

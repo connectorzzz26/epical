@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+let me check the schemas, compare the versions and see if there is anything tangible i can use to figure it out

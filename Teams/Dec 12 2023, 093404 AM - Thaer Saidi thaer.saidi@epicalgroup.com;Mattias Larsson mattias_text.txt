@@ -1,0 +1,9 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+så för just CDS är det redan klart i dev/test/prod

@@ -1,0 +1,10 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+If you have a JPG or whatever of your draw.io, I just have it in my clipboard, and paste it in. Not sure where it is stored, but it is stored. If you are talking about the actual diagram. I use diagram. Then go to export as URL, then copy paste the url and
+ rename it as appropriate. Basically you will have a looooong url which is base64 encoded, and that is how it is stored.

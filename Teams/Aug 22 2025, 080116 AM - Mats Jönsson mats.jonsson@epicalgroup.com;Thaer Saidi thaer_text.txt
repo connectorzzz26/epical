@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+Actually so that we won't break communication to other systems like C7, we will use this GlobalID translation DB

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+and it's for all Global IDs from production to test

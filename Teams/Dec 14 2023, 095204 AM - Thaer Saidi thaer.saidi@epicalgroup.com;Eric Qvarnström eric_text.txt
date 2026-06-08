@@ -1,0 +1,24 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Angående nätverksförändringarna så funderar jag på när det är bäst att göra det i Test? Visst kan vi köra med argumentet att "Vi borde vänta tills testerna är över", men det skulle innebära att vi inte har testat den nätverkskonfiguration som vi också har
+ i Prod 
+ 
+
+
+ 
+
+
+När är nästa Testning planerad 
+Malin Larsson? 
+
+
+ 
+
+
+DEV & PROD har den nya uppsättningen, bara TEST kvar.

@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Emil Fridell; Robin Porsemo
+	Recipients
+	emil.fridell@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+I create a new branch for my work on the docs, let me know if I'm aligned with what's expected.
+
+
+I will continue with what's left meanwhile.

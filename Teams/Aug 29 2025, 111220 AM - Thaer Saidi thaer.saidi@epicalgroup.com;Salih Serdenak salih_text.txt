@@ -1,0 +1,17 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Carita Järvinen
+sb-deliverynote-test/sbq-deliverynote-inbound-supplier har massa meddelanden på deadletter, en del gamla, en del som skickats 27/8... Ser ut som att dom ska hämta meddelandena från en kö hos oss
+
+
+
+
+
+Vad är det som behöver göras med dessa?

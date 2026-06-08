@@ -1,0 +1,29 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com
+
+
+
+
+
+
+
+
+
+
+
+
+This might be important to note as it is from the IFS adapter
+
+0-cse-d2-cc61c860a9dc61604e7352c04535744c
+
+0-sse-d2-68988ea180bba98e4d57d5955b7f5923
+
+0-cse-d4-83a6ab94f32a56b6870d9789d8e5ed2f
+
+0-sse-d4-99a99d0ed2c14ec5b79530e45b82a1d5
+
+0-cse-d1-6e14d2dd83c9ebcba31d5b2b8455c491

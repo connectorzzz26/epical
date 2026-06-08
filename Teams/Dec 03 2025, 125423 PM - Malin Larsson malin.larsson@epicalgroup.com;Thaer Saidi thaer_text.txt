@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+No, I discussed with the SAs but maybe... 
+
+
+I didn't ask the AAs in case they want that but I assume they already had the code scanned and such and all our mappings and documentation is aligned with what is implemented so I don't see a reason

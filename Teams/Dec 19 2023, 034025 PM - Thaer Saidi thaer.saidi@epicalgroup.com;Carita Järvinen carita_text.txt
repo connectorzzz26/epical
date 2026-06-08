@@ -1,0 +1,20 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Eric Qvarnström
+För plattformen i sig är det detta som gäller: Key Value ServiceName NCC Core Integration AccountingUnit 11002731 ServiceManager Jovan Zdravevski ServiceOwner Jenni Peuranto
+
+
+
+
+
+Ska det vara samma ServiceName för allt, eller ska vi använda rampnamnet där som vi gjort tidigare?

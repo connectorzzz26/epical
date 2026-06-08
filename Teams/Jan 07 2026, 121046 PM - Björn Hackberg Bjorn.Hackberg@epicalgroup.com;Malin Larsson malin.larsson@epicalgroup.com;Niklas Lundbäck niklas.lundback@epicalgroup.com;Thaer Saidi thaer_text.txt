@@ -1,0 +1,24 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg; Malin Larsson; Niklas Lundbäck
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com
+
+
+
+
+Björn Hackberg 
+
+
+The issue is more complex. CF want to run SIT and UAT towards separate instances of IFS and possibly other systems.
+
+
+
+
+
+If we lack a physical 'IFS UAT' environment, we can use Fabric to create a 'Virtual UAT' layer.
+
+1. We let SIT run against the live, volatile IFS Test environment.
+
+2. We use Fabric to capture a stable Snapshot of that data for the UAT stream.

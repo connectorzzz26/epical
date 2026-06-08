@@ -1,0 +1,19 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I assigned this to you
+
+
+Bug 178544 CPHCDA should
+ be empty
+
+
+ 
+
+
+The mapping spec needs to be updated, and then reassign the ticket to Zain as per usual

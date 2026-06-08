@@ -1,0 +1,9 @@
+From
+	Björn Hackberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+What do you mean by sessions? In general the sequence doesn't matter at all.

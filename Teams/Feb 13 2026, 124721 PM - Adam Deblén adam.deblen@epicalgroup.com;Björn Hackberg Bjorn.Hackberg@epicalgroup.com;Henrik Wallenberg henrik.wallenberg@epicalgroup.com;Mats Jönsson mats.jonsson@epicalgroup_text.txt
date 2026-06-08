@@ -1,0 +1,15 @@
+From
+	Omid Manai
+	To
+	Adam Deblén; Björn Hackberg; Henrik Wallenberg; Mats Jönsson; Elisabeth Blom; Thaer Saidi; Peter Ekeros; Nikola Bijelic; Nicklas Andersson; Sohail Shaikh; Malin Larsson; Odenfelt Kajsa; Hackberg Björn (Ext); Wallenberg Henrik (Ext)
+	Recipients
+	adam.deblen@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mats.jonsson@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; nikola.bijelic@epicalgroup.com; nicklas.andersson@epicalgroup.com; sohail.shaikh@epicalgroup.com; malin.larsson@epicalgroup.com; kajsa.odenfelt@ncc.se; bjorn.hackberg@ncc.se; henrik.wallenberg@ncc.se
+
+
+Doing initial load for specific versions:
+
+
+
+
+
+0-sse-d3-c4899116ee5a340c1b937551f919c36f

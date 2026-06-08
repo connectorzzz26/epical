@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Emil Fridell; Robin Porsemo
+	Recipients
+	emil.fridell@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+I would need the user flows excel to be able to put in place the functional requirements.

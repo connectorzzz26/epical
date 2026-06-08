@@ -1,0 +1,14 @@
+From
+	Salih Serdenak
+	To
+	Nikola Bijelic; Carita Järvinen; Thaer Saidi; Cyrén Rebecca (Ext); Elisabeth Blom; Rasmus Elofsson; Rebecca Cyrén; Jens Hedin; Robert Johansson; Nicklas Andersson; Olli Takala; Sohail Shaikh; Lauri Karppinen; Ronny Pettersson; Omid Manai; Caroline Wallbäck; Faris Elsir; Kristoffer Kallerup; Henrik Lindin; Niklas Lundbäck; Hackberg Björn (Ext); Peter Ekeros; Malin Larsson; Björn Hackberg; Mats Jönsson; Foroogh Khan-Gholi; Adam Deblén; Wael Abdullah; Oscar Larsson; Johan Lindholm  Eliasson; Mattias Larsson; Vivek Kosare
+	Recipients
+	nikola.bijelic@epicalgroup.com; carita.jarvinen@epicalgroup.com; thaer.saidi@epicalgroup.com; rebecca.cyren@ncc.se; elisabeth.blom@epicalgroup.com; rasmus.elofsson@epicalgroup.com; rebecca.cyren@epicalgroup.com; jens.hedin@epicalgroup.com; robert.johansson@epicalgroup.com; nicklas.andersson@epicalgroup.com; olli.takala@epicalgroup.com; sohail.shaikh@epicalgroup.com; lauri.karppinen@epicalgroup.com; ronny.pettersson@epicalgroup.com; omid.manai@epicalgroup.com; caroline.wallback@epicalgroup.com; faris.elsir@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; henrik.lindin@epicalgroup.com; niklas.lundback@epicalgroup.com; bjorn.hackberg@ncc.se; peter.ekeros@epicalgroup.com; malin.larsson@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; mats.jonsson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; adam.deblen@epicalgroup.com; wael.abdullah@epicalgroup.com; oscar.larsson@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; mattias.larsson@epicalgroup.com; vivek.kosare@epicalgroup.com
+
+
+
+
+Python Devtools Demo
+
+
+Play

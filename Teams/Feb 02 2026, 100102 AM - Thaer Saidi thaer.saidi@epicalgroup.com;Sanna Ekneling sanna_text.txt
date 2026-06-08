@@ -1,0 +1,9 @@
+From
+	Sanna Ekneling
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Small question, what's the plan for logic apps showing sensitive data today?

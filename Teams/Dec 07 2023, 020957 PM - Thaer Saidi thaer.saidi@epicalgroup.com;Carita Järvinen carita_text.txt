@@ -1,0 +1,12 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Design/development question:
+
+
+Who creates the initial event stuff in MBB for an event? Publisher or Subscriber developer (some stuff needs to be done when we have a subscriber, but all the other things?)

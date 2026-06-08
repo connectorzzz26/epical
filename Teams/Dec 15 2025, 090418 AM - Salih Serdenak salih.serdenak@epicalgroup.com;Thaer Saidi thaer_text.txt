@@ -1,0 +1,17 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+
+Salih Serdenak
+i would assume it is: Event.Employee2409.JobAssignment[0].Position2411.PositionEffective[0].OrganizationalUnit2409.ID
+
+
+
+
+
+So as mentioned in the file, this is correct!

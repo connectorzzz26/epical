@@ -1,0 +1,45 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+i have an issue...
+
+
+ 
+
+
+from the old code:
+
+
+
+
+
+ 
+
+
+it is set to: 
+
+
+"@body('HTTP_DF_GET_FinancialActivity')?['data']?['FinancialOrganizationUnit']?['ParentOrganizationUnit']?['ID']"
+
+
+ 
+
+
+but that value does not exist, which value should I get, just?:
+
+
+"@body('HTTP_DF_GET_FinancialActivity')?['data']?['FinancialOrganizationUnit']?['ID']"
+
+
+ 
+
+
+considering there are no other values below FinancialOrganizationUnit
+
+
+0-cse-d1-21c27f00f36f09bd8e4762f4cb38c5e8

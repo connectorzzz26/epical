@@ -1,0 +1,9 @@
+From
+	Jens Hedin
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Fick en fråga från Streambim på hur man kan skicka en token säkert på bästa sätt. Nån som vet nåt rekomenderat sätt? Har man outlook går det väl kryptera mail?

@@ -1,0 +1,21 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak; Foroogh Khan-Gholi
+	Recipients
+	salih.serdenak@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+
+Foroogh Khan-Gholi
+So we keep transform flow without the mapping for now?
+
+
+
+
+
+I'm still not sure that we don't need mapping, I thought that we need to do a transoformation from PascalCase to camelCase but then I got information that it might be not needed and this is different from the previous version
+
+
+So need to wait a confirmation from 
+Salih Serdenak regarding his first implementation

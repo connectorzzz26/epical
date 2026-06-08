@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Carita Järvinen; Salih Serdenak
+	Recipients
+	carita.jarvinen@epicalgroup.com; salih.serdenak@epicalgroup.com
+
+
+We thought that this is an event we could implement, but you're right this should be implemented from the ncc side

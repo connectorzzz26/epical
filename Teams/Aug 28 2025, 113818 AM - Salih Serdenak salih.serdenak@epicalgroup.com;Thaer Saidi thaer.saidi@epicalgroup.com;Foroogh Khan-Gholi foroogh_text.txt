@@ -1,0 +1,10 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Salih Serdenak; Thaer Saidi
+	Recipients
+	salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Salih Serdenak and
+Thaer Saidi let me know if/when it is ok to run initialload for deliverynote-supplier in test

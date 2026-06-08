@@ -1,0 +1,444 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+is this correct?
+
+
+ 
+
+
+
+
+
+		FILTER:
+
+- Process only events where EmployeeCurrentlyEffective2409 has a relationship to Identity2409
+
+- Process only events that are connected to NCC Company "NCC Suomi Oy" using ID=28845
+
+
+
+
+
+
+
+I assume this is still the ID under NCCompany.ID, but 
+
+
+ 
+
+
+do i need some sort of enrichment before the lookup?
+
+
+previously working events are now not working, i tried with a couple, here is the
+data:
+
+
+ 
+
+
+{
+
+  "businessobjectid": "10001455",
+
+  "globalbusinessobjectid": "1013728",
+
+  "data": {
+
+    "Employee2409": {
+
+      "BirthDate": "1984-12-23",
+
+      "Code": "10001455",
+
+      "GroupHireInitialDate": "2025-10-20",
+
+      "ID": 1013728,
+
+      "EmployeeEffective": [
+
+        {
+
+          "EffectiveDate": "2025-10-20",
+
+          "EmployeeStatus": {
+
+            "Code": "A",
+
+            "ID": 1000007,
+
+            "Name": "Active"
+
+          },
+
+          "Gender": {
+
+            "Description": "Female",
+
+            "Code": "2"
+
+          },
+
+          "ManagedBy": [
+
+            {
+
+              "Type": "DIRECT",
+
+              "FulfilledBy": {
+
+                "ID": 1001410
+
+              }
+
+            },
+
+            {
+
+              "Type": "LOCAL",
+
+              "FulfilledBy": {
+
+                "ID": 1001433
+
+              }
+
+            }
+
+          ]
+
+        }
+
+      ],
+
+      "Employment2409": [
+
+        {
+
+          "Code": "10001455",
+
+          "ID": 1013708,
+
+          "EmploymentEffective": [
+
+            {
+
+              "ActualWorkingHours": 40,
+
+              "EffectiveDate": "2025-10-20",
+
+              "EmploymentCategory": "BLUECOLLAR",
+
+              "FTE": 1,
+
+              "HireDate": "2025-10-20",
+
+              "NccCompany": {
+
+                "Code": "1007",
+
+                "ID": 111,
+
+                "Name": "NCC Suomi Oy",
+
+                "OrganizationNumber": "17655142",
+
+                "Country": {
+
+                  "Alpha2Code": "FI",
+
+                  "Alpha3Code": "FIN",
+
+                  "EnglishShortName": "Finland",
+
+                  "NumericCode": 246,
+
+                  "ID": 246
+
+                }
+
+              },
+
+              "SeniorityStartDate": "2025-10-20",
+
+              "PreferredJobTitle": "Sähköasentaja",
+
+              "EmploymentType2409": {
+
+                "Code": "EMPPER",
+
+                "ID": 1000005,
+
+                "Name": "Permanent"
+
+              },
+
+              "PermanentWorkplace": {
+
+                "Code": "100",
+
+                "Name": "NCC Suomi, Helsinki"
+
+              },
+
+              "UnionCollectiveAgreement": {
+
+                "Code": "TT",
+
+                "Name": "Rakennusalan työehtosopimus (TT)",
+
+                "Country": {
+
+                  "Alpha2Code": "FI",
+
+                  "Alpha3Code": "FIN",
+
+                  "EnglishShortName": "Finland",
+
+                  "ID": 246,
+
+                  "NumericCode": 246
+
+                }
+
+              }
+
+            }
+
+          ],
+
+          "Compensation": [
+
+            {
+
+              "ID": 1014251
+
+            }
+
+          ]
+
+        }
+
+      ],
+
+      "EmployeePhysicalAddressEffective": [
+
+        {
+
+          "EffectiveDate": "2025-10-20",
+
+          "PhysicalAddress": {
+
+            "Address1": "Testitie 15 B 2",
+
+            "CountryCode": "FIN",
+
+            "CountryName": "Finland",
+
+            "PostalCode": "00160",
+
+            "PostalLocation": "Helsinki",
+
+            "PhysicalAddressType": {
+
+              "Code": "HOM",
+
+              "ID": 5,
+
+              "Name": "Home address"
+
+            }
+
+          }
+
+        }
+
+      ],
+
+      "JobAssignment": [
+
+        {
+
+          "ID": 18388,
+
+          "JobAssignmentForm": "MAIN",
+
+          "JobAssignmentStatus": "ACTIVE",
+
+          "JobAssignmentType": "POSITION",
+
+          "PositionEntryDate": "2025-10-20",
+
+          "Position2411": {
+
+            "Code": "99001365",
+
+            "ID": 1013947,
+
+            "PositionEffective": [
+
+              {
+
+                "EffectiveDate": "2025-10-15",
+
+                "EndDate": "9999-12-31",
+
+                "Active": true,
+
+                "PlannedWeeklyHours": 40,
+
+                "Title": "Electrician",
+
+                "FTE": 1,
+
+                "MassPosition": false,
+
+                "Vacant": false,
+
+                "Job": {
+
+                  "Code": 20200060,
+
+                  "ID": 1000146
+
+                },
+
+                "OrganizationalUnit2409": {
+
+                  "ID": 1000324
+
+                },
+
+                "Workplace": {
+
+                  "Code": "100",
+
+                  "ID": 1000367
+
+                },
+
+                "FinancialActivity": {
+
+                  "ID": 42543,
+
+                  "Code": "13569"
+
+                },
+
+                "ParentPosition": {
+
+                  "ID": 1001380
+
+                }
+
+              }
+
+            ]
+
+          }
+
+        }
+
+      ],
+
+      "LogicalAddress": [
+
+        {
+
+          "Address": "taimi84@testi.fi",
+
+          "LogicalAddressType": {
+
+            "Code": "EML",
+
+            "ID": 2,
+
+            "Name": "Email address"
+
+          }
+
+        },
+
+        {
+
+          "CountryDialingCode": "+358",
+
+          "SubscriberNumber": "416683954",
+
+          "LogicalAddressType": {
+
+            "Code": "OTH",
+
+            "ID": 9,
+
+            "Name": "Other phone number"
+
+          }
+
+        },
+
+        {
+
+          "CountryDialingCode": "+358",
+
+          "SubscriberNumber": "407749863",
+
+          "LogicalAddressType": {
+
+            "Code": "MOB",
+
+            "ID": 3,
+
+            "Name": "Mobile number"
+
+          }
+
+        }
+
+      ],
+
+      "PhysicalPerson2409": {
+
+        "FirstName": "Taimi",
+
+        "ID": 1002019,
+
+        "LastName": "Kytönen",
+
+        "Identity2409": {
+
+          "ID": 1002027
+
+        }
+
+      }
+
+    }
+
+  },
+
+  "datacontenttype": "application/json",
+
+  "dataschema": "employee2409currentlyeffective/4.0/Employee2409CurrentlyEffectiveEventSchema.json",
+
+  "id": "7e2066ea-1bc5-48f6-a4ac-2fcde89245eb",
+
+  "securityclassification": 2,
+
+  "source": "/successfactors",
+
+  "specversion": "1.0",
+
+  "subject": "Employee2409CurrentlyEffective",
+
+  "time": "2026-01-12T12:27:07.7319722Z",
+
+  "type": "data/update"
+
+}

@@ -1,0 +1,28 @@
+From
+	Salih Serdenak
+	To
+	Foroogh Khan-Gholi; Thaer Saidi
+	Recipients
+	foroogh.khan-gholi@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Thaer Saidi Foroogh has deployed DeliveryNote to test and connection tested it. Foroogh has no
+ open cases. You can inform the DeliveryNote team that they can start testing. 
+
+
+ 
+
+
+MAD is deployed to test, but connection testing is not working as MAD will deploy the endpoint this friday.
+
+
+ 
+
+
+ DeliveryApp I still need to make some changes to in dev before going to test, but no outstanding questions currently.
+
+
+ 
+
+
+Thanks for the help!

@@ -1,0 +1,18 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+This was mainly related to what we see in HR core But I guess also applicable in CF as we would prefer to use the test environment from IFS even in our dev environments as it has better data that we can use in our workflows, because data
+ in dev IFS will probably be too messy for our use
+
+
+
+
+
+Do we really want that for our dev environments when we have a dedicated env from IFS to point to in dev? I mean our developer tests should not require "prod-like" data in that regard I guess?

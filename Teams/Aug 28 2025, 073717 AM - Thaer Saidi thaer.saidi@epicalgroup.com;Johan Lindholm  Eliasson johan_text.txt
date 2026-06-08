@@ -1,0 +1,28 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+No mapping is needed in the Transform workflow
+
+
+
+
+
+Hello 
+ I
+ am looking into the ExternalResource and this specification in the documention about transformation it mentions liquid and stuff. 
+
+
+ 
+
+
+
+
+
+0-cse-d2-e822ab1127db9fae1f92db9f0f667e81

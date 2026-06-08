@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Visst går dom att spara och dela i Azure? Annars skulle även en wiki-sida med lite sådana queries vara bra.

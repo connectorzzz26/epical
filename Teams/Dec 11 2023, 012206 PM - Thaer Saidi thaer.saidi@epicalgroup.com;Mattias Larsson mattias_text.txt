@@ -1,0 +1,9 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+För info: vi hade nyss möte med Techinn (Joe) och diskuterade hur framtida API för att skapa app registrations och admin consent för app registrations kan komma att se ut

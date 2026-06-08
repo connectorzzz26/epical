@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I am working on DeliveryApp-Supplier-Transform now. There is an enrichment from datafoundation Company event, using Supplier.Company.ID for lookup, there is no mention of it in the dev docs for v2, but it is there. What is the situation for v3?

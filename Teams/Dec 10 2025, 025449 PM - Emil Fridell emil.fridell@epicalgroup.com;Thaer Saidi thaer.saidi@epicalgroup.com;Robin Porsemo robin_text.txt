@@ -1,0 +1,17 @@
+From
+	Robin Porsemo
+	To
+	Emil Fridell; Thaer Saidi
+	Recipients
+	emil.fridell@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+I create a new branch for my work on the docs, let me know if I'm aligned with what's expected. I will continue with what's left meanwhile.
+
+
+
+
+
+Looks good! Only thing that I can see that I think could be added is contact info to HRM service manager (Kristian) and maybe also some contacts at HRM. Maybe also some info about adapters ability to be stopped and restarted during Freeze period.

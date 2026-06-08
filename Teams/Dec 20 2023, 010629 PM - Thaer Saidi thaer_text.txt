@@ -1,0 +1,20 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Jag vet att vi diskuterat det men minns inte vad vi landade i - om man har en sådan här liten mappning, är det okej att göra den direkt i workflowet istället för att blanda in en liquid-template? Gissar på "Ja", men vill bara kolla så vi gör likadant
+
+
+
+
+
+
+
+ 
+
+
+0-sse-d2-2eea91c4ec0041208af51f2a9087576e

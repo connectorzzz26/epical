@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+Do we have work orders for supplier 3.0 (MAD, DeliveryNote and inputApp ) ?

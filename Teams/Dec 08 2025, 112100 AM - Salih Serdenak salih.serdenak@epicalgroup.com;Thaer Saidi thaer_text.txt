@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+we have a meeting later but I want to make sure that the errors we are getting are firewall related and not some wrong query from our side

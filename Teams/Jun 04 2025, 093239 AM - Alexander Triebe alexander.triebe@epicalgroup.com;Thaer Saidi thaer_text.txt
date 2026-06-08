@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Alexander Triebe
+	Recipients
+	alexander.triebe@epicalgroup.com
+
+
+Hey Alexander,
+
+
+I'm a new designer within the integration team working for the NCC project.
+
+
+I am currently working on EmployeeCountryEmployeeNumberUpdated and Mats told me that you can provide us with the envelop for the event.

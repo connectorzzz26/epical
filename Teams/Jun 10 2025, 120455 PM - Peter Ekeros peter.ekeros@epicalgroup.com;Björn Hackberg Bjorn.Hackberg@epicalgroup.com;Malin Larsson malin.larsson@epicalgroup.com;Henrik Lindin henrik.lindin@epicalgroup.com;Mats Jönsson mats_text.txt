@@ -1,0 +1,18 @@
+From
+	Henrik Wallenberg
+	To
+	Peter Ekeros; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+
+Wael Abdullah
+There are two problems here....lack of permission for admin account user for Johan and Elisabeth and that can be solved by opening a ticket as Salih mentioned ..... second problem the ownership of APIM app registration "and perhaps other
+ ramp app registrations" that we shouldn't be all have owners…
+
+
+
+
+
+I think unfortunetely the problem is (or at least was) that you need to have a personal ownership on an app registration. It didnt allow group ownership

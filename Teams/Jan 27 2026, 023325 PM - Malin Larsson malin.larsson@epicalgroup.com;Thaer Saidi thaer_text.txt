@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+I wasn't Idle I was working on HR Core design integration with AI project we have internally with Epical

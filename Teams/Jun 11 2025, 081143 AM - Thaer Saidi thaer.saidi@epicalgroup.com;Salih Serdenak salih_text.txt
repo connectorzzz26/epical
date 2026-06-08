@@ -1,0 +1,10 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+at first I thought information was in there and I would do a separate transform flow, but if I dont know the information before the transform is being done, maybe I should modify the transform flow, or figure it out in the receive? I will check with someone
+ experienced on what the best way is

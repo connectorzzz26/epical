@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Nikola Bijelic
+	Recipients
+	nikola.bijelic@epicalgroup.com
+
+
+Honestly, why do we have a platform if an integration designer is blocking the developer because of platform things

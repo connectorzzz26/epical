@@ -1,0 +1,17 @@
+From
+	Elisabeth Blom
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+
+Malin Larsson
+Who is aware of how to update appregs for GlobalId: they are expiring. ar-test-cmn-nhip-globalid, ar-prod-cmn-nhip-globalid - client secrets or a certificate for the application will expire in 30 days.
+
+
+
+
+
+I know where to update this

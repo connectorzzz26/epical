@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+APIM uppe igen. Var Azure som strulade, inte vår plattform. Vi ligger trots allt på en Developer SKU i både Test och Dev vilket innebär ingen SLA.

@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I have been using "thin-event" and "payload". But those choices are not based on any documentation etc.

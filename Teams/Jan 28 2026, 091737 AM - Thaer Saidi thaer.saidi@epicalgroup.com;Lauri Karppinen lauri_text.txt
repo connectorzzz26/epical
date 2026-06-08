@@ -1,0 +1,9 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+so there is a decision between now.getUTCHours() or now.getHours()

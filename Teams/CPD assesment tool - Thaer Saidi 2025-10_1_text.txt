@@ -1,0 +1,76 @@
+Sheet1
+			Career Path Development Framework 
+			Competence
+Level of proficiency, nature of assignments, and level of independence.	Interpersonal Skills 
+Level of collaboration, communication, and feedback and conflict management. 
+
+	Ownership & Initiative
+Level of accountability, proactiveness/initiative, and innovation.
+ 
+	Client & Business Impact 
+Level of quality of deliverables, trust building, and value creation. 	Culture & Strategy alignment 
+Level of alignment, and embodiment, with organizational virtues and strategy.
+		Level 1
+Junior	• Possesses basic proficiency in the role's core competencies
+• Manages well defined tasks
+• Requires guidance, gradually building confidence and independence	• Builds positive, professional relationships primarily with own team and mentor
+• Communicates clearly and listens actively
+• Incorporating feedback to support effective teamwork 	• Takes accountability for own tasks while seeking help when unsure
+• Shows initiative and willingness to take on more responsibility as they grow in their role
+• Contributes with a fresh perspective and offers improvement to existing processes 	• Ensures quality by supporting projects in a reliable manner under guidance
+• Be prepared and organized in deliveries 
+• Understands overall context and own contribution to value creation	• Seeks to understand the virtues and strategy
+• Actively strives to embed the virtues and strategy in daily tasks 
+		Level 2
+Intermediate 	• Possesses solid proficiency in the role's core competencies
+• Manages moderately complex tasks 
+• Handling most tasks independently, seeking guidance for more complex challenges	• Contributes to a proactive collaboration that ensures alignment and progress
+• Communicates across teams and cross-functional projects, adapting messages for diverse stakeholders 
+• Gives and incorporates feedback to support performance and teamwork	• Delivers on commitment reliably, offering solutions and not only raising issues
+•  Takes initiative and independently manages task and identifies improvements 
+• Efficiently tweaks current processes or offers suggestions to creating new processes 	• Execute tasks with quality and meets stakeholders' expectations
+• Demonstrates ability to contribute effectively
+• Creates value through aligning deliverables with stakeholders' objectives	• Executes tasks with strategic goals and virtues in mind 
+• Consistently demonstrating behaviors that reinforce company culture and strategy
+		Level 3
+Senior 	• Possesses advanced proficiency in the role's core competencies
+• Manages high-impact, complex tasks
+• Recognized resource for complex problem-solving, contributing strategically to projects and initiatives	• Fosters cross-functional partnerships, navigates complex stakeholder relationships
+• Communicates effectively and actively shares knowledge to enhance collective performance
+• Mentor junior colleagues, delivers in-depth feedback and manages conflicts 	• Takes full ownership of significant projects or processes, consistently delivering high-quality outcomes
+• Takes proactive initiative to drive long-term sustainable improvements
+• Suggests improvements and new ways of working for a long-term impact with competitive advantage	• Execute tasks with high-level quality and exceeds stakeholders' expectation
+• Empowering teams and stakeholders through "thought leadership" 
+• Advisor to client, challenging and adding value beyond initial requirements	• Align actions across levels guided by the organization's strategy and virtues 
+• Serves as a virtue ambassador, modeling behaviors that strengthen culture and strategy alignment
+		Level 4
+Principal/
+Managerial	• Possesses a broad and advanced proficiency within multiple domains
+• Influences the organization's direction by shaping best practices and applying specialized knowledge to optimize outcomes
+• Recognized key expert and strategic advisor, solving complex, cross-functional challenges 	• Demonstrates strong leadership, uniting and energizing teams around shared goals
+• Excels in communication and team development in line with strategic objectives
+• Mentors across levels and models best practices in feedback. Demonstrates strong conflict resolution skills	• Takes full accountability for results or business functions, ensuring alignment with strategic goals and deliver sustainable improvements
+• Proactively drives long-term sustainable improvements for the business unit or project 
+• Leads transformational change initiatives, fundamentally reshaping workflows, business models, or products	• Ensures high quality and strategic alignment through all levels
+• Foster trusted partnerships, reinforcing the organization's reputation and strategic goals 
+• Advices and challenges stakeholders or teams, ensuring strategic impact by shaping sustainable long-term solutions 	• Shapes the organization's direction, ensuring reflection of the organization's strategy and virtues
+• Acts as a leading voice in reinforcing the strategic direction and embedding core virtues throughout the organization
+
+			Assessment tool 
+		Category 	Competence	Interpersonal Skills	Ownership & Initiative	Client & Business impact	Culture & Strategy alignment 
+		Level of Delivery 
+		Percentage in weight	50%	10%	10%	20%	10%
+		Score after weight	0	0	0	0	0
+		Grade 	0
+
+			Grade	Seniority
+			1,0-1,9	Junior
+			2,0-2,9	Intermediate
+			3,00-3,9	Senior
+			4	Principal/Managerial
+
+_x000D_&1#&"Calibri"&12&K000000 Internal	
+
+
+Sheet2
+							16401

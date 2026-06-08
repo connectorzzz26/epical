@@ -1,0 +1,33 @@
+From
+	5bbfe16e-a26e-444a-8f7f-74ad39f2e80e@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Löste sig denna?
+
+
+
+
+
+ 
+
+
+Såg även att det varit viss diskussion kring keyvault secrets - att vi gör det manuellt men önskades ett säkert sätt att göra det via CI/CD....
+
+
+Korta svaret är att vi skulle kunna lägga till det och använda azure devops variabler, men då behöver vi fixa en sak i vår yaml (ta emot override parametrar).
+
+
+ 
+
+
+Vidare - 
+Eric Qvarnström och
+Mattias Larsson, powershell/bash deployment scripts i bicep så att vi kan använda dem i våra deploys
+ / som outputs.... Är det fortfarande aktuellt?
+
+
+0-cse-d3-143d0cc37d2f376b47d5dd344720154b

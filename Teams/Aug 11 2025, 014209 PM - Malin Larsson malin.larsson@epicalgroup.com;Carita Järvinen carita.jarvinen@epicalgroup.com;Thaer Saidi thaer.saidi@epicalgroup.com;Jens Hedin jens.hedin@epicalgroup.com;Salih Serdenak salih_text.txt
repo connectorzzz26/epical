@@ -1,0 +1,48 @@
+From
+	Elisabeth Blom
+	To
+	Malin Larsson; Carita Järvinen; Thaer Saidi; Jens Hedin; Salih Serdenak; Robert Johansson; Olli Takala; Lauri Karppinen; Ronny Pettersson; Henrik Lindin; Peter Ekeros; Mats Jönsson; Odenfelt Kajsa; Wael Abdullah; Johan Lindholm  Eliasson; Mattias Larsson; Foroogh Khan-Gholi
+	Recipients
+	malin.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; thaer.saidi@epicalgroup.com; jens.hedin@epicalgroup.com; salih.serdenak@epicalgroup.com; robert.johansson@epicalgroup.com; olli.takala@epicalgroup.com; lauri.karppinen@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.lindin@epicalgroup.com; peter.ekeros@epicalgroup.com; mats.jonsson@epicalgroup.com; kajsa.odenfelt@ncc.se; wael.abdullah@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; mattias.larsson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+Reference Data Events related to Cost Center
+
+
+CostCenterType
+
+CostCenterFunction
+
+CostCenterResourceType
+
+HomeCostCenter
+
+CostCenterBusinessType
+
+
+ 
+
+
+Reference Data Events related to Project Account
+
+
+ProjectAccountCategory
+
+ProjectAccountType
+
+
+ 
+
+
+Reference Data Events related to GL Account
+
+
+GLAccountClass
+
+GLAccountGroup
+
+GLAccountSection
+
+OperatingAccount
+
+ConsolidationAccount

@@ -1,0 +1,22 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Har vi någon point of contact på Microsoft att ställa frågor till, för att se om de vet om någon fungerande workaround på vad jag antar är en bug som finns documenterat hos Microsoft?
+
+ Det
+ enda jag hittat som i teorin borde funka är att köra en HTTP-action istället mot Blob Storage, men det verkar påverkas av samma problem för jag får samma fel vad jag än gör så det vore intressant att veta om det finns någon workaround som inte kräver att man
+ lägger saker i andra regioner. 
+
+
+
+
+
+ 
+
+
+0-cse-d3-622048d5974a114f2cb830e32b2b6451

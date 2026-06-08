@@ -1,0 +1,18 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Carita Järvinen
+Kan en subscriber ta emot flera olika versioner av ett event? Misstänker att det bara gäller att en publisher kan hantera olika versioner av det canoniska formatet, men att en subscriber tar emot en speciell version. Eller så tänker jag
+ fel...
+
+
+
+
+
+En subscriber/ramp kan ta emot flera versioner men jag kan inte komma på något scenario där det skulle vara aktuellt

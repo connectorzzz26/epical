@@ -1,0 +1,42 @@
+From
+	Wael Abdullah
+	To
+	Sjödén Oscar (Ext); Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Rachid Ferenay; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	oscar.sjoden@ncc.se; zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; rachid.ferenay@hrmsoftware.se; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+
+I am expecting to receive extensions to build the below payload 
+
+
+{
+
+
+    "extensions": {
+
+
+        "ratttillformansbil": 
+false,
+
+
+        "cus_turomrade": 
+"DEMO"
+
+
+    }
+
+
+}
+
+
+ 
+
+
+and post it to extensions API in HRM like below 
+
+
+ 
+
+
+ https://ncc-test.api.hrmcloud.se/master/v1/employments/<<EmploymentKey
+ returned from create Employment>>/extensions?changeDate=2023-02-13

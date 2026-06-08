@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Lauri Karppinen
+	Recipients
+	lauri.karppinen@epicalgroup.com
+
+
+for now proceed with deploying to test

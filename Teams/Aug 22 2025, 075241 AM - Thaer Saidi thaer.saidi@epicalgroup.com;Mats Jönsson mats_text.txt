@@ -1,0 +1,11 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi, seems ok but if more than HRM that are affected, consider to use generic api. If you haven't done it, take a discussion with HRM developers about if there is obstacles or other issues on implementing this. For PhysicalPerson.ID is not only Employee's,
+ managers also that have to then align in storage. I'm also thinking on  now using prod global ID's in HRM and further communication with other systems? For examplel in C7 (time reporting) we will still use test PhysicalPerson global id's for Sweden, that will
+ break the communication C7 - HRM..?

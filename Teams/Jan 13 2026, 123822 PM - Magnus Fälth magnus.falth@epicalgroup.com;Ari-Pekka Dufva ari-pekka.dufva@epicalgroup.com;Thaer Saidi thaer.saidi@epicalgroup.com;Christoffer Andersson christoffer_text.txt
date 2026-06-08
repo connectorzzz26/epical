@@ -1,0 +1,34 @@
+From
+	Christoffer Andersson
+	To
+	Magnus Fälth; Ari-Pekka Dufva; Thaer Saidi
+	Recipients
+	magnus.falth@epicalgroup.com; ari-pekka.dufva@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Initiative Name: AI agents identity management
+
+
+Track: Delivery Innovation
+
+
+Problem Statement: Agent applications security challenges - AI agents make dynamic decisions and adapt behavior based on training data, input, and environment conditions. This adaptive behavior requires different security considerations
+ than static application logic.
+
+
+Who benefits: Customers and Epical Business Units developing Agentic AI Solutions
+
+
+Proposed approach: Define a framework for AI Agent Identities and best practices in Entra ID, Azure, O365 for example
+
+
+What changes in practice:
+
+
+Dependencies: Customers having the need and willing to work with us, people at Epical willing to spend time on this and learn tis
+
+
+What success looks like: Epical being seen as the leader in implementing AI agentic identities and their government and policy frameworks, Epical has this in place for it’s own AI solutions.
+
+
+Resources needed: People and Time

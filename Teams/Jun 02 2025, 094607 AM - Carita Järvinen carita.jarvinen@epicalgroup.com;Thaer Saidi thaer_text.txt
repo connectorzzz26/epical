@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Carita Järvinen
+	Recipients
+	carita.jarvinen@epicalgroup.com
+
+
+Can't you simply call the apim endpoint ? even in test ? but I need version 1.2 and not 1.0 like the one you worked on

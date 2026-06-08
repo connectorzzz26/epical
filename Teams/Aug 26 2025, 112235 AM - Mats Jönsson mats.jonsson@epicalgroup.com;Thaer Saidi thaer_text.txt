@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+I'm now working on the HRM one and I don't seem to understand how to do the mapping

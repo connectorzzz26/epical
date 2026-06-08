@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+I wanted to see how the developers use the logicapps, functions and the different resources in a ramp this will help be better understand the environment

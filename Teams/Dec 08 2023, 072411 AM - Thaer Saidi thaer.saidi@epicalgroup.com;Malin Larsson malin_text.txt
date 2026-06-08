@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Question, since Project tests for StreamBim failed due to the fact that ProjectService hadn't implemented this on their side, have we verified from CDS Employee side?

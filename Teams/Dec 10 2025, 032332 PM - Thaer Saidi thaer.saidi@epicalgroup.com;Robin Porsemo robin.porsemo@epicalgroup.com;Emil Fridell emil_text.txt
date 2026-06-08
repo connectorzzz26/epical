@@ -1,0 +1,11 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+looks good 
+ Start
+ and stop is already in, it is designed to work by disable/enabe the functionTrigger for the service bus messages

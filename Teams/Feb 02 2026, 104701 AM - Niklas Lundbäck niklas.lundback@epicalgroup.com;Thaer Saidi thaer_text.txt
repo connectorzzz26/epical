@@ -1,0 +1,48 @@
+From
+	Thaer Saidi
+	To
+	Niklas Lundbäck
+	Recipients
+	niklas.lundback@epicalgroup.com
+
+
+In the context of complex ERP systems like IFS, this "all-or-nothing" approach is typically driven by a strict requirement for Data Consistency and Financial Integrity.
+
+While the "wipe-out" mechanism seems risky, IFS likely employs it for the following reasons:
+
+1. Atomic Transaction Integrity
+
+In financial systems, data is often "interrelated". For example, a single journal entry might need to update the GLTransaction, ProjectAccount, and CostCenter modules simultaneously.
+
+* The Reason: If the system successfully writes to the GLTransaction module but fails halfway through the ProjectAccount update, the books would be out of balance.
+
+* The Logic: Wiping everything for that LatestEntryDate ensures that "partial data" never exists in the system, preventing massive reconciliation nightmares for accountants later.
+
+2. Idempotency and Simplification
+
+Managing "partial updates" in a complex integration is technically difficult.
+
+* The Reason: By clearing the destination table before retrying, IFS ensures a "clean slate".
+
+* The Logic: It prevents duplicate records. Without the wipe, a retry might attempt to insert the same 500 successful records again, leading to double-counting in the general ledger.
+
+3. State Management via ProjectionLog
+
+The ProjectionLog mentioned in your first image acts as the system's "source of truth" regarding what was successfully processed.
+
+* The Reason: IFS uses these logs to track the status of OData Projections.
+
+* The Logic: If the log isn't updated with a "Success" status (including the CSV name and UTC date), the system assumes the entire batch is tainted and unsafe for use.
+
+4. Regulatory and Audit Compliance
+
+Financial systems are subject to strict auditing standards (like Sarbanes-Oxley or GDPR).
+
+* The Reason: Having "orphan" records (data with no associated log or parent transaction) is a major red flag for auditors.
+
+* The Logic: Forcing a rollback ensures that every piece of data in the Azure SQL DB can be traced back to a completed, successful execution logged in the system.
+
+The "Hidden" Danger in this Architecture
+
+While this logic protects the integrity of the data, it ignores availability. As identified earlier, a persistent minor error (like a single character length violation in a SQL column) will cause the system to delete valid data and enter an infinite loop of
+ retries and wipes.

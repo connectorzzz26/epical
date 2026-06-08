@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+En fråga. Var det jag som skulle skicka en fråga till Juha om att få employee data som var avidentifierad för test av initial load?

@@ -1,0 +1,10 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Är nog jag som är skyldig till shared i Key Vault och Service Bus  Tror
+ att jag satte det på RefData just för att det var en shared resurs. Men är väl hugget som stucket ifall man har shared med eller inte. Snarare bra att ha en valmöjlighet ifall det är så att ena namnet är taget

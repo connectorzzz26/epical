@@ -1,0 +1,9 @@
+From
+	Jens Hedin
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Vi skulle haft en aktuell lista för detta i wikin, så man kan kolla där när man dokumenterar och lägger tags i kod.

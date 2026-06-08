@@ -1,0 +1,9 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+it is the same mapping and it works fine from the second try !

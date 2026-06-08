@@ -1,0 +1,24 @@
+From
+	Rasmus Elofsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hello! A question for when you are back.
+
+
+ 
+
+
+Regarding the StatusDescription mapping for Synergi: What about the case where the Code is "EMPEXT"? That doesnt fall under either of the if cases if i am reading it correctly. What should happen in that case?
+
+
+ 
+
+
+
+
+
+0-cse-d2-9cc776a1a9798f7fa320980bee79ab42

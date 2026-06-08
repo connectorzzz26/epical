@@ -1,0 +1,41 @@
+From
+	Thaer Saidi
+	To
+	Peter Ekeros; Wael Abdullah
+	Recipients
+	peter.ekeros@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+Hey team
+
+
+We have a requirement for HRM to create a lookup table that will translate PhysicalPerson GlobalIDs from Production in the test environment.
+
+
+I believe all HRM subscribers are impacted
+
+
+
+		BrApproval, EmploymentTerminated (Peter)
+
+		Employee2409CE, Employee2409WithBankAccount, EmployeeHired, EmployeeRehired (Wael)
+
+
+
+
+I would like your opinion for the implementation of this solution so that we can come up with an estimate on how long such implementation could take.
+
+
+ 
+
+
+Basically what we need is an Azure table storage (or Azure SQL) to store the PhysicalPerson Production GlobalIDs and map them to the test globalIDs, then we might need a workflow to make this translation after the Transform and before the Send workflows.
+
+
+We will have a flag so that this solution will only run in test environment and not in production.
+
+
+ 
+
+
+Here you go

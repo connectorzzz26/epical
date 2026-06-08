@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+azdevops_BLANK_TEMPLATE.csv
+
+
+
+Here is a simple template in case you don't have one

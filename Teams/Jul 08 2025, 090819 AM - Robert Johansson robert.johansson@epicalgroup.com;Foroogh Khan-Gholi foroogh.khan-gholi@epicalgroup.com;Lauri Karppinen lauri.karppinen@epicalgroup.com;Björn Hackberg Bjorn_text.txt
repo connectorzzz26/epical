@@ -1,0 +1,18 @@
+From
+	Peter Ekeros
+	To
+	Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+
+Henrik Hörnlund
+If anyone needs something to do we have a bug fix that is quite urgent. Employee2409 and Employe2409CE from SF is currently using the old enrichment handling wit hthe shared WF. It needs to start using the new enrichmentmanager instead
+ due to doing a lookup on a integer value. 📷 i'll crea…
+
+
+
+
+
+i can take it after lunch? Maybe I need help from someone, but i grab someone asap if Im not manage to fix it

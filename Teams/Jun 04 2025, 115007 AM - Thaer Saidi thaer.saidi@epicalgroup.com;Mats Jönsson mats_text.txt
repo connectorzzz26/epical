@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+right now the ramp designed is only updated on current ramp (inbound) information, so when add ex. an outbound flow, some of that information have to be added.  Otherwise, when a developer picks up our design, the will ask all of this instead

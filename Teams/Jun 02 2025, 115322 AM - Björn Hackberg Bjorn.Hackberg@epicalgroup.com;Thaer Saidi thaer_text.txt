@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com
+
+DespatchUnit_Mapping.xlsxSupplierAgreementPricelist_Mapping.xlsx
+
+
+
+Those are the 2 mappings as I understood them, please let me know if there is anything to be changed or else I'll upload them to the teams and link the wiki pages to them

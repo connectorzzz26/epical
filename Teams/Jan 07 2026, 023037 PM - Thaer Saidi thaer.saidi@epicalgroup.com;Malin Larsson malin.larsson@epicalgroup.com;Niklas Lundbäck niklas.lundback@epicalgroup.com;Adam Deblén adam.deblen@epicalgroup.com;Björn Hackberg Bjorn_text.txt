@@ -1,0 +1,9 @@
+From
+	Björn Hackberg
+	To
+	Thaer Saidi; Malin Larsson; Niklas Lundbäck; Adam Deblén
+	Recipients
+	thaer.saidi@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com
+
+
+IFS has 3 working environments, we need isolated SIT and UAT test environments that are still homogenous. There is a IFS SIT environment and a IFS UAT environment - but only one track A test environment.

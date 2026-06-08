@@ -1,0 +1,20 @@
+From
+	fe857311-116f-419c-9032-ed9625d5bc68@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+So it's not called Event anymore if it contains payload? I thought it was something like "Thick event" or "Full event" but couldn't remember exactly
+
+
+
+
+
+You already wrote a page on this right ? What should the thin event contain and all?

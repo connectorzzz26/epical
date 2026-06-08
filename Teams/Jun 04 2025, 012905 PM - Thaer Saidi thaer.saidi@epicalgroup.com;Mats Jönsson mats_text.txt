@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+because its the full event, no need for further look-up

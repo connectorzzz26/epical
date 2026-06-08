@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+So we need to make some changes in the connections in DAM Ramp.

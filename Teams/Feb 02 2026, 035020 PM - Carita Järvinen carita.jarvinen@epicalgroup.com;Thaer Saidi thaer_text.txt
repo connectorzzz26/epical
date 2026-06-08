@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Carita Järvinen
+	Recipients
+	carita.jarvinen@epicalgroup.com
+
+
+We have a blocker related to the implementation of the new NCCPortas events

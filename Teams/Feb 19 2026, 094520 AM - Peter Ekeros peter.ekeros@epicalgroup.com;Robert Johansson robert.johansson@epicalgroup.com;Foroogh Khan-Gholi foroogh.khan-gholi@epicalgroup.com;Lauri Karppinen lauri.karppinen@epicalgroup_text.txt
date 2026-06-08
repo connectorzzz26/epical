@@ -1,0 +1,36 @@
+From
+	Adam Deblén
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Faris Elsir; Nikola Bijelic; Rasmus Elofsson; Kristoffer Kallerup; Sohail Shaikh; Omid Manai; Oscar Larsson; Caroline Wallbäck; Rebecca Cyrén; Niklas Lundbäck; Gokulakrishnan Kothandaraman; Nour Almajni; Wael Hasan; Ludvig Modin; Jesper Björkwing; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; faris.elsir@epicalgroup.com; nikola.bijelic@epicalgroup.com; rasmus.elofsson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; sohail.shaikh@epicalgroup.com; omid.manai@epicalgroup.com; oscar.larsson@epicalgroup.com; caroline.wallback@epicalgroup.com; rebecca.cyren@epicalgroup.com; niklas.lundback@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; nour.almajni@epicalgroup.com; wael.hasan@epicalgroup.com; ludvig.modin@epicalgroup.com; jesper.bjorkwing@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Everyone
+
+
+I have created some queries to keep track of developer forum user story related tasks to be able to take it up with Kajsa for prioritization. 
+
+
+ 
+
+
+You can view that query here:
+
+
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_queries/query/?tempQueryId=a817d927-cf8c-44f5…
+
+
+ 
+
+
+There is also one for the suggestion box:
+
+
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_queries/query/?tempQueryId=42a1edc3-61f3-4b5c…
+
+
+ 
+
+
+I'll work on the visibility of these to make it easier to track progress. There will probably be a couple of dashboard widgets related to this.

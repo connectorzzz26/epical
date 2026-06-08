@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Lauri Karppinen
+	Recipients
+	lauri.karppinen@epicalgroup.com
+
+
+globalbusinessobjectid is the Identity.ID as we are using the identity event

@@ -1,0 +1,12 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+It depends on what the subscribing ramp is expecting.
+
+
+DeliveryNote takes the "original" canonical format (Pascal case) while MasterAricleData propably has their own format in their system that are case sensitive and needs the event in camel case

@@ -1,0 +1,13 @@
+From
+	Sjödén Oscar (Ext)
+	To
+	Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Rachid Ferenay; Wael Abdullah; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; rachid.ferenay@hrmsoftware.se; wael.abdullah@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+
+10000928 is hired with Employment type=TEMP
+
+
+on position 
+99000562( with  JobCode=20100580, OrgUnit=2048, FinOrg=130039911)

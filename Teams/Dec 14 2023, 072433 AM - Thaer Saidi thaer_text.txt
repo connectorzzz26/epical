@@ -1,0 +1,29 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Malin Larsson
+Jag har möte med Juha om 10 minuter gällande tester av Employee, har vi något annat att ta upp med honom?
+
+
+
+
+
+Det är väl en del som skulle behöva förtydligas  Men
+ ni ska prata om vem som ansvarar för CDS + HR-systemen? Jag skulle vilja få förtydligat vad det är vi ska testa; är det bara BizTalk->Rampen eller är det CDS-> BizTalk-> Rampen. Är det det senare blir ju HR systemen automatiskt inräknade också eftersom, ifall
+ jag förstått det rätt, CDS är helt beroende av vad som skickas från HR-systemen. 
+
+
+
+ 
+
+
+Sen undrar jag fortfarande varför vi fick mellan 2-6 "EmployeeCreate"-event per employee. Han pratade om att varje liten update skickas, men det här var create-event så vore bra att få klarhet i det.

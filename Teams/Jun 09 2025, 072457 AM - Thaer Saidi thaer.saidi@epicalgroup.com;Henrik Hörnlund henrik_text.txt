@@ -1,0 +1,15 @@
+From
+	Henrik Hörnlund
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Selecting the first one is a solution for now, if that changes they will have to reissue a new schema for transitionCompany but as Wael said it's a data quality issue.
+
+
+ 
+
+
+In GR they seem to have multiple companies with the same Organisation number, which should never be allowed....

@@ -1,0 +1,25 @@
+From
+	Thaer Saidi
+	To
+	Carita Järvinen
+	Recipients
+	carita.jarvinen@epicalgroup.com
+
+
+I have a question regarding the liquid template you showed me last time
+
+
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_git/NCI-Ramp-DeliveryNote?path=/Outbound/SupplierUnit/Code/LogicAppResources/logic-DeliveryNote-SupplierUnit-Outbound/Artifacts/Maps/SupplierUnit-transform-v1.liquid
+
+
+ 
+
+
+and this template for the consumer: 
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_git/NCI-Ramp-MasterArticleData?path=/Inbound/SupplierUnit/Code/LogicAppResources/Logic-MasterArticleData-SupplierUnit-Inbound/Artifacts/Maps/supplierunit_map.liquid
+
+
+ 
+
+
+Why one is pascalcase and the other is camelcase ? is it normal that we don't have the same mappings in the pub and cons ?

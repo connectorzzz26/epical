@@ -1,0 +1,22 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+
+
+Malin Larsson 
+
+
+And TEM - Filename should contain date and time stamp what should we do there?
+
+
+
+
+
+I need to update the 3 events and then assign them to a developer.
+
+Will work on that

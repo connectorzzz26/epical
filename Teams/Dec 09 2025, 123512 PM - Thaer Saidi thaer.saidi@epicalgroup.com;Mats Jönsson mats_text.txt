@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi, do you know what SFTP user TEM user on Basware SFT in test?

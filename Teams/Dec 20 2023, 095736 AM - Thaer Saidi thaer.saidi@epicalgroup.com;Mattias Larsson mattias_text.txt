@@ -1,0 +1,9 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Just nu kan vi inte se input/output i Logic App runs (corp) och vi tror det har med utökningen av nätverken att göra. Jag har reggat en incident (och pingat Simon direkt).

@@ -1,0 +1,15 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo; Kristoffer Kallerup
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+Hi, fyi besides the failing fields Zain reported, we have also seen these in messages to adapter:
+
+
+
+
+
+0-cse-d1-6704918e0dac103c56f68247707d50d8

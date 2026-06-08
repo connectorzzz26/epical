@@ -1,0 +1,17 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+The design docs for DeliveryNote says: "The Supplier enrichment is based on matching
+Supplier.Company.ID from the incoming event with
+globalbusinessobjectid in Data Foundation, and replacing the Supplier.Company node with the full Company object retrieved."
+
+
+ 
+
+
+But the v3 schema has no Supplier.Company.ID

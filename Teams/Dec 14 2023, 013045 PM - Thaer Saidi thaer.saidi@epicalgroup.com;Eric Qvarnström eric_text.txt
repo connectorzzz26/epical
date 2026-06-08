@@ -1,0 +1,20 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Carita Järvinen
+Everyone Ellinor får inte titta på nåt i Microsoft Entra ID. Vad saknar hon för rättigheter då?
+
+
+
+
+
+Jag hade samma issue, en ticket till Service Desk löste problemet.

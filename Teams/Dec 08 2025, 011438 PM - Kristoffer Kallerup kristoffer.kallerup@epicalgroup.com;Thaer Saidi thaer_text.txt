@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Kristoffer Kallerup
+	Recipients
+	kristoffer.kallerup@epicalgroup.com
+
+
+Did you have a look at the user story for decommissioning HRM events ?

@@ -1,0 +1,9 @@
+From
+	19:e54d0322fda142e2a306b7b7cf72aded@thread.v2
+	To
+	Jessica Währn; Andreas Collén; Berhan Karagöz; Christer Nordlander; Faris Elsir; Ilari Puroila; Johan Lindgren; Johan Lindholm  Eliasson; Jonas Torjman; Kristoffer Kallerup; Maarit Ahlgren; Marianne Kantonen; Milad Samani; Mileta Nikoletic; Omid Manai; Oscar Larsson; Peter Ekeros; Petteri Maukonen; Robert Johansson; Sanna Ekneling; Suzanna Abarca; Tommi Lipsanen; Ulrika Bjurinder; Wael Abdullah; Thaer Saidi; Nikola Bijelic
+	Recipients
+	jessica.wahrn@epicalgroup.com; andreas.collen@epicalgroup.com; berhan.karagoz@epicalgroup.com; christer.nordlander@epicalgroup.com; faris.elsir@epicalgroup.com; ilari.puroila@epicalgroup.com; johan.lindgren@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; jonas.torjman@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; maarit.ahlgren@epicalgroup.com; marianne.kantonen@epicalgroup.com; milad.samani@epicalgroup.com; mileta.nikoletic@epicalgroup.com; omid.manai@epicalgroup.com; oscar.larsson@epicalgroup.com; peter.ekeros@epicalgroup.com; petteri.maukonen@epicalgroup.com; robert.johansson@epicalgroup.com; sanna.ekneling@epicalgroup.com; suzanna.abarca@epicalgroup.com; tommi.lipsanen@epicalgroup.com; ulrika.bjurinder@epicalgroup.com; wael.abdullah@epicalgroup.com; thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com
+
+
+<deletemember><eventtime>1768934266226</eventtime><initiator>8:orgid:9a5e6d07-4e28-4b9f-8cc9-39220db00863</initiator><target>8:orgid:9a5e6d07-4e28-4b9f-8cc9-39220db00863</target></deletemember>

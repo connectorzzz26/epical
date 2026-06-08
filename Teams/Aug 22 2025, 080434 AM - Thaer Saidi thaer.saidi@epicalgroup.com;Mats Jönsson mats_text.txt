@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+yes ...but in C7 we will use test PhysicalPerson global id's and when C7 sending information to HRM (or vice verca) there will be different identifiers on PhysicalPerson. But I don't really know if the do cross system tests?

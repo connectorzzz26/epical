@@ -1,0 +1,18 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Malin Larsson
+What is best suited for next step on HRM? are we still waiting on fixes for EmployeeHired before starting the rest?
+
+
+
+
+
+Henrik asked me to ask Zain to publish some Employee Hired events for different scenarios to make sure that the messaging flow in NCIP don't have any other issues except the one from success factor for some events that could be published with missing mandatory
+ data..... I asked Zain from couple of minutes to run that whenever he can and notify me back

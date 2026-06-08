@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi; Nikola Bijelic; Henrik Wallenberg
+	Recipients
+	thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; henrik.wallenberg@epicalgroup.com
+
+
+kinda, the we get some error back we can't interpret from APIM which in turn has something like "dns host not found", and the support can't find errors in the DNS, just so they are thinking about if the issue is caused by something else inbetween

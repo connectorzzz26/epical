@@ -1,0 +1,10 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Jag har bett Kajsa om prioritering på vilken utveckling vi ska prioritera härnäst, kolla gärna med henne i mötet nu ni som är med i den avstämnigen. MEn troligen ProjectService nya event eller SiteService Project subscriber och några andra. Christian har
+ utvecklat klart Rampen mot SiteService. och jag har bett Sebastian börja kolla på StreamBim Publisher eftersom han börjar bli klar med det som går på SiteService.

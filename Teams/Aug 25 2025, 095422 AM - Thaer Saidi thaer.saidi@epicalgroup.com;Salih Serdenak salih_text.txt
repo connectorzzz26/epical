@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+sorry, with filtering i meant when we subscribe to v2 currently we do that through a filter that says = v2, so i mean i would change that to v3 and that would be it basically

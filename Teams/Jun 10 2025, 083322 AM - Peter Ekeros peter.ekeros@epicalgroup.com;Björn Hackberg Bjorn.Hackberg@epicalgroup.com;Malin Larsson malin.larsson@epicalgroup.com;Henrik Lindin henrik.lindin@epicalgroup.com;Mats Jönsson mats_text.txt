@@ -1,0 +1,16 @@
+From
+	Jens Hedin
+	To
+	Peter Ekeros; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+ah ok, I see. I dont think anyone has an interest in knowing if apim drops in dev for a couple of minutes. I suppose that only time this could be a problem is if we are runnning deploys to dev and that fails... otherwise i dont think anyone uses dev any
+ more (for developing)
+
+
+ 
+
+
+let me know if you want me to stop it.

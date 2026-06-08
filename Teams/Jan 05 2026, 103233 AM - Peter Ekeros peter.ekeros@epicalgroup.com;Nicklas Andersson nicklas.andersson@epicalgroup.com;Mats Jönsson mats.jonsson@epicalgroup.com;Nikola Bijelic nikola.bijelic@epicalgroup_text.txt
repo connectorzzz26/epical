@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Peter Ekeros; Nicklas Andersson; Mats Jönsson; Nikola Bijelic; Malin Larsson
+	Recipients
+	peter.ekeros@epicalgroup.com; nicklas.andersson@epicalgroup.com; mats.jonsson@epicalgroup.com; nikola.bijelic@epicalgroup.com; malin.larsson@epicalgroup.com
+
+
+Hey Peter
+
+Nice!
+
+I think that we can have only 1 column combining the version and date
+
+But I don’t understand what’s the purpose of the Control column

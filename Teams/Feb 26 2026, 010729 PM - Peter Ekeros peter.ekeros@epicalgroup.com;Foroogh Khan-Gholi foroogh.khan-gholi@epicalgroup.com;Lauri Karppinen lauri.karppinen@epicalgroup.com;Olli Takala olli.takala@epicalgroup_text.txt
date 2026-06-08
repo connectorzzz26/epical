@@ -1,0 +1,124 @@
+From
+	Robert Johansson
+	To
+	Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Faris Elsir; Nikola Bijelic; Rasmus Elofsson; Kristoffer Kallerup; Adam Deblén; Sohail Shaikh; Omid Manai; Oscar Larsson; Caroline Wallbäck; Rebecca Cyrén; Niklas Lundbäck; Gokulakrishnan Kothandaraman; Nour Almajni; Wael Hasan; Ludvig Modin; Jesper Björkwing; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; faris.elsir@epicalgroup.com; nikola.bijelic@epicalgroup.com; rasmus.elofsson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; adam.deblen@epicalgroup.com; sohail.shaikh@epicalgroup.com; omid.manai@epicalgroup.com; oscar.larsson@epicalgroup.com; caroline.wallback@epicalgroup.com; rebecca.cyren@epicalgroup.com; niklas.lundback@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; nour.almajni@epicalgroup.com; wael.hasan@epicalgroup.com; ludvig.modin@epicalgroup.com; jesper.bjorkwing@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Hello all,
+
+
+I'm looking for assistance with a support issue regarding "logic-cds-employee-outbound-prod"
+
+
+
+		TransformFlow has repeatedly failed since yesterday.
+
+		It's failing when trying the to get GlobalID for EmployeeStatus
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+The related shared workflow "GlobalIdService-LookUp" is also failing.
+
+
+
+		It seems that the "HTTP GET GlobalId" is not returning any data:
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Using Postman to list entities we can see this:
+
+
+
+
+
+ 
+
+
+""utcUpdated": "2026-02-25T15:50:13.7333333""
+
+
+The integration started failing after this was updated.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+TL;DR
+
+
+I need someone with more knowledge of the integration "logic-cds-employee-outbound-prod"
+
+
+And/or someone who can help me figure out what is wrong with the globalid, why is it suddenly empty?
+
+
+ 
+
+
+Thankful for any assistance!
+
+
+ 
+
+
+0-cse-d2-09bdeb61658e8b19a5cbc034eaeaee50
+
+0-sse-d2-63e5c9901be7e7a148d0f1496698e87a
+
+0-sse-d1-248e05967ff990d78020880cb1f58fbe
+
+0-sse-d4-3c2b0d1bcada5e4fff8b755450b53a56

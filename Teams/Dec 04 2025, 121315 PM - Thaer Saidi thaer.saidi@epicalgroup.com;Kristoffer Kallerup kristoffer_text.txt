@@ -1,0 +1,9 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Because I've redployed shared due to adding V2 logging.

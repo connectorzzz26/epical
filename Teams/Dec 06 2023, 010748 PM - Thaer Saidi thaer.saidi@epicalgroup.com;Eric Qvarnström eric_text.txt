@@ -1,0 +1,17 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Bedabrata Roy
+did you figure out though in case of no email what value you map to that place? is it blank?
+
+
+
+
+
+I got an updated mapping specification this morning. We will append employee number and ignore the email if it is empty. Will take care of that today/tomorrow.

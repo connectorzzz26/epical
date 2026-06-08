@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Salih Serdenak; Thaer Saidi
+	Recipients
+	salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+started mad-supplier in dev as well and it is running but i don't see anything comming out of it

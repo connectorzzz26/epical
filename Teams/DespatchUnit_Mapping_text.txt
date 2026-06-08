@@ -1,0 +1,10 @@
+Sheet1
+	Canonical format	Data Type	Required	Output
+	DespatchUnit.ChangeDate	string	FALSE	despatchUnit.ChangeDate
+	DespatchUnit.GLN	string	FALSE	despatchUnit.GLN
+	DespatchUnit.ID	integer	TRUE	despatchUnit.ID
+	DespatchUnit.Name	string	FALSE	despatchUnit.Name
+	DespatchUnit.Supplier.ID	integer	FALSE	despatchUnit.Supplier.ID
+	DespatchUnit.Supplier.LegalRegistrationName	string	TRUE	despatchUnit.Supplier.LegalRegistrationName
+
+_x000D_&1#&"Calibri"&12&K000000 Internal

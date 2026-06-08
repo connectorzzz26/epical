@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi; Kristoffer Kallerup
+	Recipients
+	thaer.saidi@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+Repos should stay in archive, but it is removing functionality of "old events" for HRM in dev/test

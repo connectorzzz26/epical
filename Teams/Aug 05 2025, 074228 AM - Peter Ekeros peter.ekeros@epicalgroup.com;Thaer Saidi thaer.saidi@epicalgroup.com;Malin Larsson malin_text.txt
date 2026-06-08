@@ -1,0 +1,17 @@
+From
+	Malin Larsson
+	To
+	Peter Ekeros; Thaer Saidi
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+I have 2 designs that should be good to go. I will assign them to Thaer. 
+
+
+User Story 148311:
+ Integration design Event - ServiceNow-EmployeeRehired-Sub
+
+
+User Story 148348:
+ Integration design Event - ServiceNow-EmployeementTerminated-Sub

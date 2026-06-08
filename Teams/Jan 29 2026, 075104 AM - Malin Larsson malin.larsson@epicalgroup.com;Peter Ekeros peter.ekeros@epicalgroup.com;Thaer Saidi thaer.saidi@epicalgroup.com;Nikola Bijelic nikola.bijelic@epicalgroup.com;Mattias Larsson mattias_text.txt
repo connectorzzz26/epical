@@ -1,0 +1,9 @@
+From
+	Gokulakrishnan Kothandaraman
+	To
+	Malin Larsson; Peter Ekeros; Thaer Saidi; Nikola Bijelic; Mattias Larsson; Johan Lindholm  Eliasson; Ronny Pettersson; Lauri Karppinen; Foroogh Khan-Gholi
+	Recipients
+	malin.larsson@epicalgroup.com; peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; mattias.larsson@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; ronny.pettersson@epicalgroup.com; lauri.karppinen@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+Good morning, I’ve worked on my first task 180344 and completed the code changes. I’ve shared them with Foroogh for review and deployment

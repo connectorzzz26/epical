@@ -1,0 +1,24 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+and 
+
+
+ 
+
+
+ "NCCPortalsInboundTopicName": {
+
+
+        "type": "String",
+
+
+        "value": "topic-Ivalua-project"
+
+
+    },

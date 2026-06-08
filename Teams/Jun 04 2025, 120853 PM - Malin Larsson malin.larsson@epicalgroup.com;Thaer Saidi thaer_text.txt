@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+I was discussing the new Event with Alexader triebe and got to know from him that EmployeeCountry is not prioritized so he is not working on it

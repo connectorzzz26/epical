@@ -1,0 +1,105 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi; Nicklas Andersson; Mats Jönsson; Nikola Bijelic; Malin Larsson
+	Recipients
+	thaer.saidi@epicalgroup.com; nicklas.andersson@epicalgroup.com; mats.jonsson@epicalgroup.com; nikola.bijelic@epicalgroup.com; malin.larsson@epicalgroup.com
+
+
+Howdy!
+
+
+ 
+
+
+Thought it was a good day to continue the mapping doc. 
+
+
+ 
+
+
+I guess we have concluded the way of the flow, when it comes to the mapping. We copy/translate the SA mapping doc into our own. But we prefer they work in the same mapping template as we do.
+
+
+ 
+
+
+Thaer (Mats?) sended a good template we can use. 
+
+
+ 
+
+
+Now to the design of the doc. We can use it right away, but 2 column was missing, so I added modified date and modified by. So we know when and who has been changing the doc.
+
+
+ 
+
+
+But, I just want to raise some "features", but I dont know if they are helping or not. Need a second input.
+
+
+ 
+
+
+First input:
+
+
+Change the doc to a table? Is it a good thing?
+
+
+
+
+
+ 
+
+
+This make no sense to add maybe, unless we add the latest modified date column, which in a case, this is a nice feature just to be able to order the rows in a date way to see which fields has been updated recently.
+
+
+ 
+
+
+Second input:
+
+
+ 
+
+
+
+
+
+ 
+
+
+Add update row buttons. When you click, you update the 2 last fields with new values. The update date value and the Last modified by value.
+
+
+The PRO:
+
+
+One click to change the row to a new date and the logged in person.
+
+
+the CON:
+
+
+the button wont tag along when you add a new row. You must copy paste it into a new cell each time.
+
+
+ 
+
+
+Please come with input 
+ 
+
+
+ 
+
+
+Maybe it does not need more then what we have now which is fine too! Only thing is we can all agree it is fine, and we can proceed to send it to the SA forum meeting, so they get this info too.
+
+
+0-cse-d1-185b38d2c42d54cd9139246f3075bbc6
+
+0-sse-d1-96b1d691add1f279e67732e6c636aec5

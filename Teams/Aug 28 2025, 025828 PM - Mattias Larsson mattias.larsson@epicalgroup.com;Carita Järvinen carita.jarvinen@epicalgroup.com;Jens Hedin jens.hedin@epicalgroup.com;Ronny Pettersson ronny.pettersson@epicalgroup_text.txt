@@ -1,0 +1,60 @@
+From
+	Malin Larsson
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com
+
+
+hi
+
+
+We need to plan handover to SIT of below events ( I already thought Zain had tested them) 
+
+
+HRM-Employee2409CurrentlyEffectiveWithBankAccount-Sub
+
+
+Peter or Wael to verify that Wiretap is implemented
+
+
+ 
+
+
+SF-FinancialActivity v2-Sub (cost center change) -
+
+
+Peter Ekeros built the publisher, Henrik H the sub. Can Peter do handover (verify Wiretap)
+
+
+ 
+
+
+SF-FinancialOrgUnit-Sub (cost center change)
+
+
+ HH developed - Can peter do handover?
+
+
+ 
+
+
+ServiceNow-NCC Company-Sub
+
+
+Johan Eliasson or maybe Jens
+
+
+ 
+
+
+ServiceNow-Position2411-Sub
+
+
+Mattias
+
+
+ 
+
+
+Handover will be booked by Zain. during this short meeting you verify Wiretap and do a simple test. According to Zain nothing else.

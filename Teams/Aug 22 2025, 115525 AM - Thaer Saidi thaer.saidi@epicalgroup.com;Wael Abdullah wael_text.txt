@@ -1,0 +1,17 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+wine mawjoud wiretap
+
+
+
+
+
+it is an extra service bus subscription to send the ongoing events to a storage account where Zain obtain an access to that storage account !

@@ -1,0 +1,9 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I just want to know what I should do and if there is an old integration that I can look into already. Or if its the same with DespatchUnit that it something old that should be migrated etc

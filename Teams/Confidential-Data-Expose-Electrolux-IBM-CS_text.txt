@@ -1,0 +1,353 @@
+PowerPoint Presentation
+
+Security Issue: Strictly confidential data Exposed
+Thaer
+1
+confidential
+
+
+
+Classified as Internal
+
+Impact on mobile customers
+Exposure of unencrypted customer PII data across the organization.
+Issue 1: Customer credentials
+Issue 2: CIAM system credentials
+Thoughts & Next steps
+confidential
+
+
+
+
+Classified as Internal
+
+3
+For the past 2 months we had around 6 million calls
+  All passwords are still logged and available to our ELX-EMEA-Marketing users/groups/systems
+
+Need to identify the number of unique customers impacted.?
+
+This might also be the case for other channels using CDC not through our European setup.
+Impact on customers (MobileApps)
+
+
+confidential
+
+
+
+Classified as Internal
+
+4
+
+We know the extend of the breach, - All CDC consumer channels are impacted, Most if not all Azure ELX-EMEA-Marketing users/unsecure service principals.
+We way to contain this within the concent landscape.
+No way to confirm that all mobile users (xxxK) passwords were not exported and used maliciously by third parties.
+No way to know the True clientIP for any mobile user to confirm authenticity of the human traffic.
+No way to confirm that the consumer PII data like customer address, email, telephone were not maliciously exploited by unauthorized users.
+No way to trace client apps able to connect and get consumer data from cdc.
+No IP whitelisting or network restrictions in the inter-service communication.
+Many other services are compromised as well: crm customer data, smart sensors, home map, bookings, ISP requests, appointments ..
+
+The breach was around for more than a year without proper action.
+European customer services setup is a reference architecture and it is being or going to be implemented across other regions as well. Making all our customer records globally vulnerable to many types of attacks.
+Situation
+confidential
+
+
+
+Classified as Internal
+
+5
+
+The issue is spread across all systems using the European login flow to CDC. 
+There is a possibility that a system might cache the credentials (Oneapp), and for that we need to be sure the data is encrypted in the requestBody and at rest.
+Exposure of customer PII data across cloud teams
+
+confidential
+
+
+
+Classified as Internal
+
+6
+
+Customer data available for x number of Employees, Consultants, ex-consultants
+No way to confirm that nothing malicious happened for all cdc users PII data.
+Ability to impersonate any consumer to get extra personal information like appliance’s smart sensors and telemetry.. Even the customer home map etc.
+
+
+User Groups involved.
+(Only Mobile consumers in this case)
+
+confidential
+
+
+
+Classified as Internal
+
+7
+
+Issue 1: Customer credentials
+
+
+
+OneApp microservices
+MobileApps consumerProfile microservices
+CDC APIM proxy
+Customer passwords are exposed and available in plaintext across many services/logs .
+Many product teams have access and are able to expose unecrypted customer passwords.
+confidential
+
+
+
+Classified as Internal
+
+8
+
+Other PII data logged and exposed from T1 channel
+
+
+CDC/GetInfo
+CDC/Register
+confidential
+My personal email and password was reveiled to more than 100 employees from both Electrolux and IBM companies, and this caused me a lot of harm as I use the same password for shopping and other like my icloud account.
+
+
+
+Classified as Internal
+
+9
+
+CDC Credentials exposed and not safely guarded.
+All CDC secrets and channel APIKeys were exposed, means that anyone can impersonate a client app.
+Any user can connect to cdc and get all available customer data for practically all channels.
+There is no way to confirm that nothing malicious happened during 1 year of exposure and long period of data manipulation and replication across systems. Like (CIAM,CRM,MarketingPermissions,Appointments/Bookings)
+
+Any user can authenticate to CDC Or C4C for that matters and get customer data.
+
+No IP restriction or mutual TLS between (Proxies,APIs,Services) and (CDC,C4C,yMKT,FSM..)
+Issue 2: CIAM system credentials
+
+confidential
+
+
+
+Classified as Internal
+
+10
+
+All CDC keys and secrets exposed means that all client apps consuming those secrets were compromised.
+
+This means that anyone can impersonate a channel and act on behalf of it to do malicious action on the customer data available to the channel.
+
+This situation is there for a year.
+
+We are currently extending this same solution to other regions.
+Meaning
+confidential
+
+
+
+Classified as Internal
+
+11
+
+After reviewing Electrolux's privacy policy, I noticed a few areas that could be addressed in a message to the data privacy authorities:
+
+Identification of Third Parties: While Electrolux mentions sharing data with group companies, service providers, suppliers, partners, and in case of corporate restructuring, the policy could be more specific, especially regarding the types of third parties.
+Purpose of Sharing: The policy outlines various reasons for data sharing, including legal requirements, business operations, and marketing. However, it could further emphasize the legitimacy and necessity of each purpose.
+Type of Data Shared: The policy details the types of personal data collected. It might be beneficial to explicitly state how the sensitivity of data is considered and ensure data minimization principles.
+Control Measures: Electrolux states that third parties are expected to protect personal data in line with legal and contractual obligations. The policy could include more on oversight mechanisms and compliance standards.
+User Rights and Choices: The policy addresses EU/EEA residents' rights regarding their data and provides options for marketing preferences. Further emphasizing user accessibility to exercise these rights could enhance clarity.
+Updates and International Transfers: The policy mentions regular updates and international data transfers. Highlighting safeguards for these transfers, like Standard Contractual Clauses, could reinforce their commitment to data protection.
+Consent and Withdrawal: The policy includes details on consent for data processing and its withdrawal. It could reinforce the ease of withdrawing consent and managing user preferences.
+
+
+Privacy Statement
+
+
+
+
+Classified as Internal
+12
+Extra information
+
+
+
+Classified as Internal
+
+13
+
+Even though All traffic is TLS encrypted, we cannot confirm that the certificate and key were not compromised. 
+Many users have access to the cert/key being used between Azure resources, which are not stored in a secure location either way.
+Current Situation
+
+
+
+
+Classified as Internal
+Many type of attacks can benefit from such situation, IP spoofind, man in the middle are ways to exploit this vulnerability.
+13
+
+
+14
+
+We need to make sure to stop capturing any logs across those systems in green.
+We need to remove all logs containing customer credentials from our central logging tool.
+Platform Engineering on ELX-EMEA-Marketing
+
+
+
+
+Classified as Internal
+Anyone can impersonate channels and pass plaintext passwords to CDC..  Authentication to CDC is not secure/safe/compromised.
+
+If the passwords are not already encrypted in CDC at rest, then we need to do that. After, we use the private key to encrypt data in transit.
+14
+
+
+15
+
+Since all CDC secrets were exposed, we would need to regenerate them for all channels.
+We need to make sure those secrets are stored in a secure location
+We need to make sure those secrets are not exposed in logs.
+Step1: Reset CDC credentials for impacted channels?
+
+
+
+
+Classified as Internal
+
+16
+
+Trigger a password reset to all impacted users is the ethical way in such situations.
+
+
+Step2: Reset password for all CDC users ?
+
+
+
+Classified as Internal
+
+
+17
+
+Proposal: Reduce hops on the Login Flow
+We need to reduce the applications/systems that can intercept or log the login information.
+
+
+
+
+Classified as Internal
+
+18
+
+I think it’s important to address this quickly, For sure we need to act on this before further implementations of the CDC tool across regions.
+Goverance and proper RBAC on our Azure environment.
+Customer credentials:
+We need  to make sure to stop capturing the passwords across all systems.
+We need to make sure the passwords are removed from all logs: APIs/Microservices.
+We need to get the list of all impacted customers from Log analytics.
+We need to trigger a reset password for all impacted users.
+We need to encrypt PII in the request payload in case a channels is storing that information (Oneapp)
+
+CIAM/CDC credentials:
+We need to regenerate the ApiKeys for all impacted channels from CDC (primarily the ones using CDC APIM proxies).
+Change the existing ApiKeys on all impacted channels.
+Make sure to store the CDC secrets in a secure vault.
+Make sure not to capture secrets related to the system credentials.
+Thoughts
+
+
+
+Classified as Internal
+
+19
+
+PII should be secured across systems, and the risk of having channels caching or storing the data makes it vulnerable to attacks, manipulation
+
+If not done properly, all customer data can be corrupted, stolen or mis-used in many ways by unauthorized users.
+
+We need to make sure we encrypt the master data before it’s being distributed to a new instance of CIAM/CRM etc.
+Solution
+
+
+
+Classified as Internal
+
+20
+
+Credentials should not be cached.
+Other PII issues.
+
+Get registered products by customerId
+Get customer address
+Get Booking Appointments by custome
+Get Logs: Customer crendentials by Email
+Impersonate login
+
+ Access home map from Vacuum cleaner / oneapp.
+
+All those requests are publicly exposed with no proper security.
+The only way of authentication is an Azure api management identifier.
+
+
+
+Classified as Internal
+image2.emf
+
+image12.png
+
+image13.png
+
+image14.png
+
+image15.png
+
+image16.png
+
+image17.png
+
+image18.png
+
+image24.png
+
+image25.png
+
+image26.png
+
+image27.png
+
+image19.png
+
+image20.png
+
+image21.png
+
+image22.png
+
+image23.png
+
+image28.png
+
+image29.png
+
+image30.png
+
+image31.png
+
+image32.png
+
+image33.png
+
+image34.png
+
+image35.png
+
+image36.png
+
+image37.jpeg
+
+image1.jpg
+=====docProps/thumbnail.jpeg=====
+/docProps/thumbnail.jpeg

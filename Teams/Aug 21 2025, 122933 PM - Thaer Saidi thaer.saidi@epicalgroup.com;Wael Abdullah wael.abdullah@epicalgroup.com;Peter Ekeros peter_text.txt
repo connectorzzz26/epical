@@ -1,0 +1,9 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi; Wael Abdullah
+	Recipients
+	thaer.saidi@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+We must do change in the ramp? Shouldnt the lookups be there?

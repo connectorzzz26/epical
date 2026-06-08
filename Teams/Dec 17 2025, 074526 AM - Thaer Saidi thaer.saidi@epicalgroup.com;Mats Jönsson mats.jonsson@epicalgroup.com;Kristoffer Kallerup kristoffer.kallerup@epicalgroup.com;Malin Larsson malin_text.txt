@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi; Mats Jönsson; Kristoffer Kallerup
+	Recipients
+	thaer.saidi@epicalgroup.com; mats.jonsson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+It seems we have a prio bug in HRM:

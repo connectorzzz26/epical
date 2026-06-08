@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hela idén med ett UAT test faller ju om inte användarna har någon aning om vad dom ska testa

@@ -1,0 +1,17 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+
+Thaer Saidi
+I don't believe this will be an issue since we only have 5 enrichments to retry and we will never reach to the maximum
+
+
+
+
+
+Also only 3 enrichments are mandatory so it shouldn't be a problem

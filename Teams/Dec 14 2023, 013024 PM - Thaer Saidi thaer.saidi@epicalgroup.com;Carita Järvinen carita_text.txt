@@ -1,0 +1,9 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Everyone Ellinor får inte titta på nåt i Microsoft Entra ID. Vad saknar hon för rättigheter då?

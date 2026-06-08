@@ -1,0 +1,54 @@
+From
+	Alexander Triebe
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hello Thaer,
+
+
+Yes, we will send an envelope similar to the shape you are using. This event is one of the lowest prio so i am not activaly working on it.
+
+
+Data will be the countryemployee event.
+
+
+{
+
+  "businessobjectid": "10000582",
+
+  "globalbusinessobjectid": "",
+
+  "data":"",
+
+  "datacontenttype": "application/json",
+
+  "dataschema": "employee2409/4.0/Employee2409EventSchema.json",
+
+  "id": "c05ce7cf-17fa-459d-ab2c-999df38c9757",
+
+  "securityclassification": 2,
+
+  "source": "/successfactors",
+
+  "specversion": "1.0",
+
+  "subject": "Employee2409",
+
+  "time": "2025-03-04T12:34:05.4992484Z",
+
+  "type": "data/update",
+
+  "_rid": "dVVzAKm5utQKAQAAAAAAAA==",
+
+  "_self": "dbs/dVVzAA==/colls/dVVzAKm5utQ=/docs/dVVzAKm5utQKAQAAAAAAAA==/",
+
+  "_etag": "\"010082b7-0000-4700-0000-67c706c40000\"",
+
+  "_attachments": "attachments/",
+
+  "_ts": 1741096644
+
+}

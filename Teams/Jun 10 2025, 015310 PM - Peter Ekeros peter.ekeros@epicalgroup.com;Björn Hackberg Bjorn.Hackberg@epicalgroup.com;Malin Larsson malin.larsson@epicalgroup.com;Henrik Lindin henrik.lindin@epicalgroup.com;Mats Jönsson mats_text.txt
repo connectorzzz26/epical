@@ -1,0 +1,45 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Peter Ekeros; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Hello! 
+
+
+ 
+
+
+I am trying to send a message via SB but nothing is happening with the receive flow (everything is started). What is this sys.label thingy? Is it something that I should paste into the Label/Subject in SB Explorer? 
+
+
+ 
+
+
+I copied the example data from 
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/1615/Envelope-definition and paste in some information that is relevant for DespatchUnit.
+
+
+ 
+
+
+There is probably something newbie from my side of course.
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+0-sse-d4-ee3cb59982a98162e985631a4a5638ed
+
+0-cse-d1-bfcbdd63f7238e26a0bc83c2e3dec988

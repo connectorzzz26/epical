@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Wael Abdullah
+	Recipients
+	wael.abdullah@epicalgroup.com
+
+
+https://portal.azure.com/#view/Microsoft_Azure_EMA/DesignerEditor.ReactView/id/%2Fsubscriptions%2Fc405de8b-462a-42fe-9d76-1f6ecda46a2f%2FresourceGroups%2Frg-supplierinsight-outbound-test%2Fproviders%2FMicrosoft.Web%2Fsites%2Flogic-supplierinsight-supplier-outbound-test%2Fworkflows%2Fwf-SupplierInsight-Supplier-Send/location/Sweden%20Central/isReadOnly~/false/isMonitoringView~/true/runId/08584453940678717759446251501CU00

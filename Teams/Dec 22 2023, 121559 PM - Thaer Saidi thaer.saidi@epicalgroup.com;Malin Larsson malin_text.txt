@@ -1,0 +1,12 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Men, dessa 3 är de som prioriterats av Kajsa idag för design så de är ok att jobba på. 
+
+
+Feature ska ha tidrapporteringskod samt en länk till kompisen på NCC integration team board.

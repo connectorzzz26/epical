@@ -1,0 +1,20 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Karam Haroun
+Or is it that we have only the latest event per employee/project etc in DF?
+
+
+
+
+
+yes, this is the way

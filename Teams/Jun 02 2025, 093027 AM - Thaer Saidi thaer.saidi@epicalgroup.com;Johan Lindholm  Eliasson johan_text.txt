@@ -1,0 +1,9 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I not sure what kind of internal server error this means but maybe the API services needs to have the correct rights

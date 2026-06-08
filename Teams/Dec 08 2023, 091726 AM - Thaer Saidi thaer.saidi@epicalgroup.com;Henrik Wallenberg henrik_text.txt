@@ -1,0 +1,12 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Testade att generera en JSON utifrån exempelschemat vi fick, ser fint ut tycker jag
+
+
+0-cse-d3-d10baf85f829b856d9e1145fa41ee3ba

@@ -1,0 +1,23 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Christian Jonsson
+Just det, fick aldrig svar från Eric Qvarnström eller Mattias Larsson - powershell/bash deployment scripts i bicep.... fortfarande aktuellt? Keyvault secrets, något vi är nöjda med manuellt eller ska vi lägga tid på att lösa det med ci/cd
+ (utan att spara våra secrets i kod)? Fick intrycket a…
+
+
+
+
+
+PowerShell i bicep var väl mest för våra buildagents om jag minns rätt 
+ Jag
+ ser inte hur Powershell i bicep ska kunna hämta alla secrets till höger och vänster, känns som att dessa scripts kan bli rätt så komplexa?

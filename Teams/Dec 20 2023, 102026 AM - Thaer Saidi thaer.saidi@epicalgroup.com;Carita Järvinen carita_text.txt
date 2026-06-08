@@ -1,0 +1,57 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+nu får vi ett nytt problem...
+
+
+ 
+
+
+Frågade Kajsa om ServiceOwner och fick som svar:
+
+
+ 
+
+
+"Du kan ange följande värden
+
+
+Dev&Test
+
+
+ServiceName: RefCVService
+
+
+AccountingUnit: 11002697
+
+
+ServiceManager: Katarina Ricknäs
+
+
+ServiceOwner: Timo Mäenpää
+
+
+ 
+
+
+ 
+
+
+Prod – update TAGS
+
+
+AccountingUnit: 11002692
+
+
+ServiceManager: Matias Keskinen"
+
+
+ 
+
+
+Så det verkar som att de vill ha olika värden för olika miljöer

@@ -1,0 +1,15 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+these should be removed from the servicebus, right?
+
+
+
+
+
+0-cse-d3-06ef7704e74b1b6aa45c683e22d7b895

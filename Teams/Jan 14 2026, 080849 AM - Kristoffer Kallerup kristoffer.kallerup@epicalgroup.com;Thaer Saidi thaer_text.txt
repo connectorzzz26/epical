@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Kristoffer Kallerup
+	Recipients
+	kristoffer.kallerup@epicalgroup.com
+
+
+I just checked the wiki and the mapping spec for the bug raised, and I thought that I had put the BankAccountDetails as mandatory enrichment but it wasn't

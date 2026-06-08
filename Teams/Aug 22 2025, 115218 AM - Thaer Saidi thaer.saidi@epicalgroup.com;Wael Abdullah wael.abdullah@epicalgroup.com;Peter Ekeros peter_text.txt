@@ -1,0 +1,27 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi; Wael Abdullah
+	Recipients
+	thaer.saidi@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+Btw, on a side note, about the problem you have with HRM, where you dont see a value on first post.
+
+
+ 
+
+
+I have (think I have) the exactly same issue.
+
+
+ 
+
+
+I POST employment terminated, which does not update in their system, but we actually get the updated object back (but still does not update correctly in their system). Via Postman everything seems fine tho.
+
+
+ 
+
+
+And as you wrote, when the second POST hit them, with exactly same payload, everything works fine.

@@ -1,0 +1,23 @@
+From
+	Omid Manai
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Faris Elsir; Nikola Bijelic; Rasmus Elofsson; Kristoffer Kallerup; Adam Deblén; Sohail Shaikh; Oscar Larsson; Caroline Wallbäck; Rebecca Cyrén; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; faris.elsir@epicalgroup.com; nikola.bijelic@epicalgroup.com; rasmus.elofsson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; adam.deblen@epicalgroup.com; sohail.shaikh@epicalgroup.com; oscar.larsson@epicalgroup.com; caroline.wallback@epicalgroup.com; rebecca.cyren@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Regarding the limit, I just checked (which I guess follow the same role assignments as the rest)
+
+
+logic-ifs-costcenterbusinesstype-outbound-devb
+
+
+logic-ifs-costcenter-outbound-devb
+
+
+and saw that we are assigning both Azure Service Bus Data Sender 
+and Azure Service Bus Data Receiver to Service Bus Queues and Topics.
+
+
+However, if a logic (function) app needs both access we can assign Azure Service Bus Data Owner
+which covers both roles, and we can nearly halve the assignments at least on compute services

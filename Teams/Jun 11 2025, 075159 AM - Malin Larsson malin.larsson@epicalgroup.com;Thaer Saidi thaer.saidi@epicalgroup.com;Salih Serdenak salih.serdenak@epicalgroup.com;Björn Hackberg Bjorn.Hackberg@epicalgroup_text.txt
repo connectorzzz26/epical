@@ -1,0 +1,9 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Malin Larsson; Thaer Saidi; Salih Serdenak; Björn Hackberg
+	Recipients
+	malin.larsson@epicalgroup.com; thaer.saidi@epicalgroup.com; salih.serdenak@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com
+
+
+I will look into that asap. Sitting with Henrik Wallenberg now and trying to understand some errors with the schema validation of DespatchUnit testing.

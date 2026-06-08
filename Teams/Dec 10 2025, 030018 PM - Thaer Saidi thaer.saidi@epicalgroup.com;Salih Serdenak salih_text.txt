@@ -1,0 +1,114 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I get:
+
+
+         "message": "The service provider action failed with error code 'ServiceOperationFailed' and error message 'Data exception - SQLSTATE 22504, SQLCODE -191. SQLSTATE=22504 SQLCODE=-191'."
+
+
+ 
+
+
+With this data:
+
+
+{
+
+
+            "CPHBNA": 10020,
+
+
+            "CPHBOA": "2025-12-10-14.37.00.587000",
+
+
+            "CPHBPA": "a",
+
+
+            "CPHBQA": "Immonen",
+
+
+            "CPHBRA": "Saara",
+
+
+            "CPHBSA": "a",
+
+
+            "CPHBTA": "a",
+
+
+            "CPHBUA": 0,
+
+
+            "CPHBVA": 0,
+
+
+            "CPHBWA": 0,
+
+
+            "CPHBXA": "",
+
+
+            "CPHBYA": "",
+
+
+            "CPHBZA": "",
+
+
+            "CPHC0A": "HR Specialist manager",
+
+
+            "CPHC1A": "a",
+
+
+            "CPHC2A": "a",
+
+
+            "CPHC3A": "a",
+
+
+            "CPHC4A": "a",
+
+
+            "CPHC5A": 10014,
+
+
+            "CPHC6A": 0,
+
+
+            "CPHC7A": "FI",
+
+
+            "CPHC8A": "a",
+
+
+            "CPHC9A": "a",
+
+
+            "CPHCAA": "a",
+
+
+            "CPHCBA": "a",
+
+
+            "CPHCCA": "a",
+
+
+            "CPHCDA": "2025-12-10-14.37.00.587000",
+
+
+            "CPHCEA": "a",
+
+
+            "CPHCFA": "a",
+
+
+            "CPHCGA": 0
+
+
+        }

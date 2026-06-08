@@ -1,0 +1,9 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi; Björn Hackberg; Malin Larsson; Niklas Lundbäck
+	Recipients
+	thaer.saidi@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com
+
+
+I talked with Mattias about which environment to use for SIT/UAT CF tests and he will organize a meeting to come to a conclusion with the right actors. I will invite you guys into that meeting as well, as representatives from integration team

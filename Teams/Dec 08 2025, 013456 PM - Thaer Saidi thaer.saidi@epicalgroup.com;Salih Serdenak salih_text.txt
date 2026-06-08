@@ -1,0 +1,10 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+my theory is that the working outgoing call from the 2nd came from when i tried to ping them using advanced tools, and now that i removed the connection string we are getting timeouts, and so I think now our calls should be working, except for the networking
+ issue

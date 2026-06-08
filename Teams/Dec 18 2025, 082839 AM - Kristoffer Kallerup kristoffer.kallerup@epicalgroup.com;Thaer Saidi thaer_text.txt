@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Kristoffer Kallerup
+	Recipients
+	kristoffer.kallerup@epicalgroup.com
+
+
+But most of the work now is on the adapter logic, so we should be safe

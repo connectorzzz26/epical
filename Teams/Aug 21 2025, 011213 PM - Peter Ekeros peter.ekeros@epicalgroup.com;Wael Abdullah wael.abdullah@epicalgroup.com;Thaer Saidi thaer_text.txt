@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Peter Ekeros; Wael Abdullah
+	Recipients
+	peter.ekeros@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+So we need to map the old test globalIDs with new prod GlobalIDs after we do the enrichements for PhysicalPerson

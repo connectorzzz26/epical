@@ -1,0 +1,12 @@
+From
+	Henrik Hörnlund
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Potentially Employee2409withBankAccountCurrentlyEffective.
+
+
+Im trying to iron out some stuff inte the mapping there, It should however be possible to set up all the infra etc as logn as we wait a bit with the enrichments and mapping stuff (even if we should get it shortly)

@@ -1,0 +1,10 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi Malin .. EmployeeHired testing end to end happy scenario was ran successfully  but
+ we receive messages sometimes with missing mandatory object from SuccssesFactor system during publishing and we agreed to raise that with Successfactor team

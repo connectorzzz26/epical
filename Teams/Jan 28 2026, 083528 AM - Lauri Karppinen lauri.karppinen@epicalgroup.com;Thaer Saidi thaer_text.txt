@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Lauri Karppinen
+	Recipients
+	lauri.karppinen@epicalgroup.com
+
+
+We are using a NAT gateway and we whitelist its IP on the SFTP server to allow access

@@ -1,0 +1,29 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+In Emplyoee Hired we always receive this object in Compensation
+
+
+ 
+
+
+"CompensationPayType": {
+
+                "Code": "PayType_Salaried",
+
+                "ID": 1,
+
+                "Name": "Salaried"
+
+            }
+
+
+ 
+
+
+But I noticed that this object doesn't come anymore ! and that caused a bug in mapping !

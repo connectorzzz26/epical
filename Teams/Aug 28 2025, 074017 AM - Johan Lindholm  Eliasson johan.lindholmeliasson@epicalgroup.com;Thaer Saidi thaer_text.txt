@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Johan Lindholm  Eliasson
+	Recipients
+	johan.lindholmeliasson@epicalgroup.com
+
+
+But in your case there won't be any mapping needed, it's the same schema in both ends so no transformation

@@ -1,0 +1,11 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+and after design is complete, for HrCore the mapping spec and estimate will be placed in NccSharePoint:
+
+HR Core

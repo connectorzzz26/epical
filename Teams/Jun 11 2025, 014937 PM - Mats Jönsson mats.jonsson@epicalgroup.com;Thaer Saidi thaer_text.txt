@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+On another note can you please when you have time have a look at the External resource wiki page ?
+
+
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/7881/Publish-ExternalResource-1.0

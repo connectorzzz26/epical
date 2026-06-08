@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+No we didn't discuss odata api precisely, it's just that I shared the object from the schema repository and he said we should keep the naming as is after adding some explanations regarding the fields

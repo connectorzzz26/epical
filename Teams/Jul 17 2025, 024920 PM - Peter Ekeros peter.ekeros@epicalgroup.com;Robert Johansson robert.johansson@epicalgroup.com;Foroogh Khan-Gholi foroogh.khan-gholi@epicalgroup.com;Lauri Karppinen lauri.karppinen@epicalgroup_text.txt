@@ -1,0 +1,36 @@
+From
+	Wael Abdullah
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Salih Serdenak; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; salih.serdenak@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Hi .....I need to take a vacation next Monday, so someone will need to take care of starting the following Logic Apps in the development environment for Supplier Insights on Monday morning:
+
+
+ 
+
+
+logic-supplierinsight-shared-dev
+
+
+logic-supplierinsight-supplier-outbound-dev
+
+
+logic-supplierinsight-suppliercontactperson-outbound-dev
+
+
+logic-supplierinsight-supplierunit-outbound-dev
+
+
+logic-supplierservice24-shared-dev
+
+
+logic-supplierservice24-supplier-inbound-dev
+
+
+logic-supplierservice24-suppliercontactperson-inbound-dev
+
+
+logic-supplierservice24-supplierunit-inbound-dev

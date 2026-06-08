@@ -1,0 +1,13 @@
+From
+	Thaer Saidi
+	To
+	Emil Fridell; Robin Porsemo
+	Recipients
+	emil.fridell@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+Looks good.
+
+However I think that is better to mention that wiretap will only be used for dev/test
+
+And that the retention period is 10 days.

@@ -1,0 +1,78 @@
+From
+	Fredric Travaglia
+	To
+	Tom Lehane; Thaer Saidi; Nathalie Kuosa; Yahya Ajwad; Anton Björkman; Christoffer Andersson; Berhan Karagöz; Omid Manai; Jenny Lenhammar; Adam Fredholm; Marko Ikäheimo; 28:fd931076-bbfb-4a38-a85c-1f0fb5b61bee; Jenna Munk Hemberg; Magnus Fälth
+	Recipients
+	tom.lehane@epicalgroup.com; thaer.saidi@epicalgroup.com; nathalie.kuosa@epicalgroup.com; yahya.ajwad@epicalgroup.com; Anton.Bjorkman@epicalgroup.com; christoffer.andersson@epicalgroup.com; berhan.karagoz@epicalgroup.com; omid.manai@epicalgroup.com; jenny.lenhammar@epicalgroup.com; adam.fredholm@epicalgroup.com; marko.ikaheimo@epicalgroup.com; jenna.munkhemberg@epicalgroup.com; magnus.falth@epicalgroup.com
+
+
+A couple of interesting posts to start the year - 
+
+
+ 
+
+
+From Linas Bellunas (LinkedIn) - 
+(2) Lägg upp | LinkedIn
+
+
+ 
+
+
+.. and a post which couldn't be shared properly, so copy/pasting the content for reference.  The point being, we're still seeing headlines about where AI goes wrong in terms of project ROI or "counting the number of letters" in a given word - but for some
+ use cases close to our business and industry, the impact is becoming tangible on the day to day workflow level.
+
+
+ 
+
+
+Quoting
+
+
+ - " 
+
+
+ 
+
+
+I am mind blown when it comes to Googles new AI dev tool Antigravity! We have now come to a point in time where it is absolutely clear that the way we build software will totally change.
+
+
+
+I started my AI journey in the 90s with Lisp and Prolog, mostly focusing on using AI in game logic. During the recent years I have of course intimately followed the evolvement of generative AI. I have seen and tried a lot of the tools utilizing the different
+ LLMs, but there have always been short comings when it comes to using them in real world solutions.
+
+
+
+In December that changed with Claude Code and Opus 4.5. The tooling and LLM combination broke the glass roof and it was able to do things with ease that previous tools fumbled with or simply could not do. This happened not only in a few specific areas but
+ broadly in all areas of the development cycle.
+
+
+
+Then I stumbled on Antigravity, and my perception of what is possible blew yet another glass roof. In the case of Antigravity it is the tooling capabilities and how it interacts with the LLM that is revolutionary. You can choose to use Gemini 3 flash/pro,
+ or go with Anthropics sonnet/opus 4.5. I write the combos because it is using both depending on the task. For simple tasks it uses the faster/cheaper model and for resonating and planning the larger/slower model.
+
+
+
+Ok, so how does this affect how companies build or procure software? Well we have for a long time, wise from hard experience, chosen to have guard rails for anything going to production. Like sticking to one language or framework because that is where we
+ have the competence. Doing minimal customization to COTS because for major updates the customization needs to be updated. Using low-code/no-code solutions. Choosing non native frameworks like React Native or Flutter because we can't afford truly native solutions
+ for the mobile apps. Spending huge amounts of time on documentation and hand over to reduce personal dependencies. 
+
+This list goes on and on and it limits the speed, creativity and fun in development. Ask any developer if they prefer green field vs legacy projects.
+
+
+
+We now have the tooling and knowledge to get both the speed and flexibility that the dev team enjoys and the stability and robustness the company needs.
+
+
+
+It is vital for companies, now more than ever, to invest time in their dev teams so they can learn and start using these tools.
+
+
+ 
+
+
+"
+
+
+End quote

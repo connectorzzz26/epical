@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Niklas Lundbäck
+	Recipients
+	niklas.lundback@epicalgroup.com
+
+
+In a zero trust environment all those should be considered 😅

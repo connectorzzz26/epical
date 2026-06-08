@@ -1,0 +1,54 @@
+From
+	Omid Manai
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Faris Elsir; Nikola Bijelic; Rasmus Elofsson; Kristoffer Kallerup; Adam Deblén; Sohail Shaikh; Oscar Larsson; Caroline Wallbäck; Rebecca Cyrén; Niklas Lundbäck; Gokulakrishnan Kothandaraman; Nour Almajni; Wael Hasan; Ludvig Modin; Jesper Björkwing; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; faris.elsir@epicalgroup.com; nikola.bijelic@epicalgroup.com; rasmus.elofsson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; adam.deblen@epicalgroup.com; sohail.shaikh@epicalgroup.com; oscar.larsson@epicalgroup.com; caroline.wallback@epicalgroup.com; rebecca.cyren@epicalgroup.com; niklas.lundback@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; nour.almajni@epicalgroup.com; wael.hasan@epicalgroup.com; ludvig.modin@epicalgroup.com; jesper.bjorkwing@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+FYI 
+
+
+We had a discussion sometime back in team Falcon's retrospective about making bicep modules updates more transparent.
+
+
+So, a task was created to create a new channel, and post updates about the bicep module changes there.
+
+
+ 
+
+
+The channel is called: NCIP Bicep Module Updates
+
+
+And it is under the NCIP Integration Dev Team in NCC domain.
+
+
+ 
+
+
+A 
+template has been added to the Common-BicepModules-Containers repo, which will show up when a new PR is created there.
+
+
+Once the template is filled in the PR description, and the PR is completed, a new card will be sent to the channel with the information about the update. The card looks like this:
+
+
+
+
+
+ 
+
+
+ 
+
+
+If you don't like to miss updates/changes, the notification settings can be changed for the channel as you like:
+
+
+
+
+
+0-sse-d1-9a795d1ef684d5b03b90878e07eb79a7
+
+0-sse-d4-f5e2c17acd361964c8134ca090c7f1f3

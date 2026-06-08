@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Btw, Zain had a ticket about some fields not being populated, in the end we found that the DF database contained no data for some of the fields CPHBYA, BXA, BZA I think it was.

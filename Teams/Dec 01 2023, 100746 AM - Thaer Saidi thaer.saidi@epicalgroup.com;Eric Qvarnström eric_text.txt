@@ -1,0 +1,10 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+My concern is that there is an Delete event and Create event in data foundation, and that when we run the initial load, the Delete event would for some reason end up in the sending workflow before the Create event. that would make the state in the target
+ system become invalid. Because all events are stored in DF right?

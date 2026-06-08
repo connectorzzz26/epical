@@ -1,0 +1,20 @@
+From
+	Malin Larsson
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Björn Hackberg; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+after some fuckups by me  in invoicing this month (got a call this morning) I remind you that timereporting is very important. 
+
+
+No time on Excess capacity (either find something in the sprint, find someone to help or report on either HR Core or Core finance general time)
+
+
+And if time code is missing for the work you are doing, ping me via mail so that I know, and maybe have time to fix it.
+
+
+
+
+If you are working in HR Core or Core Finance use the general timecodes with a clear comment (Event name if possible)

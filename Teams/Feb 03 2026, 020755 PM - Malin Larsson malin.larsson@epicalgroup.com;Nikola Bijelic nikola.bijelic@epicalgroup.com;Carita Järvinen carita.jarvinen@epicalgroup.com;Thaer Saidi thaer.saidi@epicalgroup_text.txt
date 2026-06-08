@@ -1,0 +1,9 @@
+From
+	Peter Ekeros
+	To
+	Malin Larsson; Nikola Bijelic; Carita Järvinen; Thaer Saidi; Elisabeth Blom; Rasmus Elofsson; Rebecca Cyrén; Jens Hedin; Salih Serdenak; Robert Johansson; Nicklas Andersson; Olli Takala; Sohail Shaikh; Lauri Karppinen; Ronny Pettersson; Faris Elsir; Kristoffer Kallerup; Henrik Lindin; Niklas Lundbäck; Björn Hackberg; Mats Jönsson; Foroogh Khan-Gholi; Adam Deblén; Wael Abdullah; Johan Lindholm  Eliasson; Mattias Larsson; Henrik Wallenberg; Omid Manai; Odenfelt Kajsa; Cyrén Rebecca (Ext); Oscar Larsson; Caroline Wallbäck; Hackberg Björn (Ext); Wael Hasan; Gokulakrishnan Kothandaraman; Nour Almajni
+	Recipients
+	malin.larsson@epicalgroup.com; nikola.bijelic@epicalgroup.com; carita.jarvinen@epicalgroup.com; thaer.saidi@epicalgroup.com; elisabeth.blom@epicalgroup.com; rasmus.elofsson@epicalgroup.com; rebecca.cyren@epicalgroup.com; jens.hedin@epicalgroup.com; salih.serdenak@epicalgroup.com; robert.johansson@epicalgroup.com; nicklas.andersson@epicalgroup.com; olli.takala@epicalgroup.com; sohail.shaikh@epicalgroup.com; lauri.karppinen@epicalgroup.com; ronny.pettersson@epicalgroup.com; faris.elsir@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; henrik.lindin@epicalgroup.com; niklas.lundback@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; mats.jonsson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; adam.deblen@epicalgroup.com; wael.abdullah@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; mattias.larsson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; omid.manai@epicalgroup.com; kajsa.odenfelt@ncc.se; rebecca.cyren@ncc.se; oscar.larsson@epicalgroup.com; caroline.wallback@epicalgroup.com; bjorn.hackberg@ncc.se; wael.hasan@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; nour.almajni@epicalgroup.com
+
+
+What I've seen (looked what others have done), camel case is applied where it can be applied, in the v2 logging at least.

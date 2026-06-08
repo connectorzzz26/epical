@@ -1,0 +1,20 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+
+
+Salih Serdenak 
+
+
+can this be empty if a string is required? CPHBPA
+
+
+
+
+
+If it’s a string then yes, if integer than 0

@@ -1,0 +1,9 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+can you confirm that 260122134400 is YYMMDDHHmmSS

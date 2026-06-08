@@ -1,0 +1,25 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Karam Haroun
+Funktionerna i dessa repon ska jag uppdatera: NCI-MessagingBackbone-CompanyForm-Shared NCI-MessagingBackbone-CompanyStatus-Shared NCI-MessagingBackbone-CompanyType-Shared NCI-MessagingBackbone-CreditAgency-Shared NCI-MessagingBackbone-CreditRating-Shared
+ NCI-MessagingBackbone-DigitalMediaAsset…
+
+
+
+
+
+Nej, Product ska inte bort och du kan lägga till ProductType
+
+
+
+Båda dessa har bara feature-branch just nu som jag och Ellinor jobbar med

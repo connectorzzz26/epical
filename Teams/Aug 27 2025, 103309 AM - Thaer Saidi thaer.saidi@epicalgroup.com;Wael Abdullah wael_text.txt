@@ -1,0 +1,9 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+it should be around 15000 assuming that the run is done for all same suppliers that they sent us on csv file before

@@ -1,0 +1,9 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi. Is there still something to do in TEM? Salih asking about is it ready for code review? I only did the bug fix.

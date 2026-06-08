@@ -1,0 +1,10 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Portöppningarna för nya nätverksstrukturen i DEV är klart. Kommer finnas en downtime i MBB under tiden som jag gör denna flytt (flyttar logic apps till nytt subnät). Är det någon som protesterar om jag börjar med det nu? Misstänker att det tar 2-3h att få
+ till allt.

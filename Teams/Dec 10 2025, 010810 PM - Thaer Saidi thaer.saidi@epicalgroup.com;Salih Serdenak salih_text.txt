@@ -1,0 +1,30 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+PS C:\home> tcpping cmndb58.adroot.net:446
+
+
+tcpping cmndb58.adroot.net:446
+
+
+Connected to cmndb58.adroot.net:446, time taken: 46ms
+
+
+Connected to cmndb58.adroot.net:446, time taken: 15ms
+
+
+Connected to cmndb58.adroot.net:446, time taken: 15ms
+
+
+Connected to cmndb58.adroot.net:446, time taken: 15ms
+
+
+Complete: 4/4 successful attempts (100%). Average success time: 22.75ms
+
+
+PS C:\home>

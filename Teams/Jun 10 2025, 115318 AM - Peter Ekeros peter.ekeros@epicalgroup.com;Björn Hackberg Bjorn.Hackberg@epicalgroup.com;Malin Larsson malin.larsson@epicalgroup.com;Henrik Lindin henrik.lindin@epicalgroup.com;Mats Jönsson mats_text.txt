@@ -1,0 +1,44 @@
+From
+	Salih Serdenak
+	To
+	Peter Ekeros; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+
+Henrik Hörnlund
+Johan Lindholm Eliasson I think it'll have to be ordered from Service desk, most likely you need to be added to some NCIP dev group, however I'm unsure which one, maybe Mattias Larsson knows.
+
+
+
+
+
+I wrote this to the servicedesk:
+
+
+ 
+
+
+Hej!
+
+
+
+ 
+
+
+Min användare 
+zadm.SESALSER@ncc.se saknar access till Entra ID vilket ställer till problem när jag ska hantera de App Registrations som jag är owner för.
+
+
+Vet att mina kollegor har access till detta utan problem, så misstänker att jag saknar en grupp eller nåt.
+
+
+
+Exempel på användare som jag vet har access: zadm.SECARJAR@ncc.se.
+
+
+
+Allt gott,
+
+Salih Serdenak

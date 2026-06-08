@@ -1,0 +1,10 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+yeah, so if each loop takes 30 seconds, then the time difference between the first and the last would be about 1.02 minutes, so that increases the changes greatly of the last call failing because of expiry reasons, and in our case, when we have several in
+ a row then it increases even more

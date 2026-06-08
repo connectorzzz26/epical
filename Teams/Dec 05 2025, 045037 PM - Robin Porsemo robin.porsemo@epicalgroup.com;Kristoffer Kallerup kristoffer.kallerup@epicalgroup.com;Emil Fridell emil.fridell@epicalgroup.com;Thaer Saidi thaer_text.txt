@@ -1,0 +1,19 @@
+From
+	Thaer Saidi
+	To
+	Robin Porsemo; Kristoffer Kallerup; Emil Fridell
+	Recipients
+	robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; emil.fridell@epicalgroup.com
+
+
+
+
+
+All objects and arrays now have required field filled with yes or no.
+
+
+Kristoffer Kallerup filter Column L with Blanks to get the list. Let me know if you have questions
+ on Monday.
+
+
+0-sse-d1-546ba6905ae71a0b5603c16b48a3f2af

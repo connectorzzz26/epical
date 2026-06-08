@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+username: ftp_TEM_NCC_qa
+
+
+sshHostAddress: sftp.tem.basware.com

@@ -1,0 +1,9 @@
+From
+	Wael Abdullah
+	To
+	Sjödén Oscar (Ext); Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Rachid Ferenay; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	oscar.sjoden@ncc.se; zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; rachid.ferenay@hrmsoftware.se; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+
+Rachid Ferenay the skip of empty employee extensions done and now we have a happy flow

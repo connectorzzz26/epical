@@ -1,0 +1,21 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+Bara för att dubbelkolla: Source är subnätet för den resource som skickar datat från Corp? Så i CDS fall APIMs subnät? 🙂
+
+
+
+
+
+precis, i dev skulle detta vara 172.19.227.240/28, se 
+Port openings - Overview (visualstudio.com) för status på vad som är beställt eller i bruk

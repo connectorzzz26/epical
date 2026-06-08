@@ -1,0 +1,9 @@
+From
+	Jens Hedin
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Message was cancelled because ProjectPhase was wrong, only Projectphases with Warranty or Production will be handled.

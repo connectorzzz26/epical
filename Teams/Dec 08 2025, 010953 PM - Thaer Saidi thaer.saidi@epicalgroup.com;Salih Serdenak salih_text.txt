@@ -1,0 +1,18 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+this is the connection string:
+
+
+DB2://cmndb58.adroot.net:446/C00C38DR/QLIITTYTES
+
+
+ 
+
+
+should maybe db2:// be excluded?

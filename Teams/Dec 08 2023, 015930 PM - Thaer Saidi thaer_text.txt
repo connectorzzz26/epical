@@ -1,0 +1,12 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Och jag har nog kollat slarvigt och såg bara ordet Dev i Logic Apparna i Test och läste det som Dev-URLen haha sorry för förvirringen
+
+ Men
+ då ÄR det en specifik URL mot Test, men den innehåller också ordet Dev, då hänger jag med!

@@ -1,0 +1,9 @@
+From
+	Lauri Karppinen
+	To
+	Malin Larsson; Nikola Bijelic; Thaer Saidi; Gokulakrishnan Kothandaraman; Ronny Pettersson; Niklas Lundbäck; Larsson Malin (Ext); Peter Ekeros; Odenfelt Kajsa; Foroogh Khan-Gholi; Johan Lindholm  Eliasson; Mattias Larsson; Henrik Wallenberg
+	Recipients
+	malin.larsson@epicalgroup.com; nikola.bijelic@epicalgroup.com; thaer.saidi@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; ronny.pettersson@epicalgroup.com; niklas.lundback@epicalgroup.com; malin.larsson2@ncc.se; peter.ekeros@epicalgroup.com; kajsa.odenfelt@ncc.se; foroogh.khan-gholi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; mattias.larsson@epicalgroup.com; henrik.wallenberg@epicalgroup.com
+
+
+I got TEM bugfix done yesterday. Only small documentation work left for today. So if there is some assignment or if someone needs help with something I'm available.

@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Ser bra ut tycker jag, vet att det förmodligen är många tasks som är N/A med tanke på att SiteService sub är bara passthrough

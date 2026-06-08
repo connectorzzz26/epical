@@ -1,0 +1,17 @@
+From
+	Malin Larsson
+	To
+	Mattias Larsson; Jens Hedin; Ronny Pettersson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen; Nikola Bijelic; Johan Lindholm  Eliasson; Kristoffer Kallerup; Rasmus Elofsson
+	Recipients
+	mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; nikola.bijelic@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; rasmus.elofsson@epicalgroup.com
+
+
+Does someone have little to do? I have some investigation tasks: 
+
+
+User Story 152668:
+ Analyse why we have Successfactors as a source (Regarding NCC Company
+
+
+Task 178603:
+ Remove workflow wf-MAD-SupplierArticleVersion-Transform-V1 and topic subsciption topicsubscription sbts-mad-supplierarticleversion-v1

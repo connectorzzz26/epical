@@ -1,0 +1,34 @@
+From
+	Thaer Saidi
+	To
+	Adam Deblén
+	Recipients
+	adam.deblen@epicalgroup.com
+
+
+We use those details to establish the connection with the DB2
+
+
+
+
+
+ 
+
+
+And then we execute a query like this, Where
+
+
+
+		Library: QLIITTYTES
+
+		Table: CPHL3PT
+
+
+
+
+
+
+
+0-sse-d3-c711be6787fe0d154c4dd89b53dc520d
+
+0-cse-d2-9c40872f9f12322426bcc78443d84a1d

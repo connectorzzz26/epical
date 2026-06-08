@@ -1,0 +1,44 @@
+From
+	Peter Ekeros
+	To
+	Henrik Wallenberg; Björn Hackberg; Malin Larsson; Mats Jönsson; Elisabeth Blom; Thaer Saidi; Nicklas Andersson; Nikola Bijelic; Adam Deblén; Sohail Shaikh; Omid Manai
+	Recipients
+	henrik.wallenberg@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; nicklas.andersson@epicalgroup.com; nikola.bijelic@epicalgroup.com; adam.deblen@epicalgroup.com; sohail.shaikh@epicalgroup.com; omid.manai@epicalgroup.com
+
+
+Good morning!
+
+
+ 
+
+
+Have a question, about combining event flow. Trying to see what solutions we can apply to this big issue we have in Carsmart.
+
+
+(a wall of text, but yeah)
+
+
+ 
+
+
+We have built as we been told, an employee2409 event to Carsmart. Have a few small bugs left, but it runs as intended. We take future updates in some of the fields and apply it to the user in Carsmart. Thats why we need employee2409 event. For some of the
+ future updates they do.
+
+
+ 
+
+
+But, now we have the issue, they update in advance some fields in SF but in Carsmart, for the employee2409 event, we cant get that update the day it will be active. 
+
+
+ 
+
+
+Let say, they update compensation (sub-object for the employee), that should be active 31:th of Mars. The issue is that on the employee2409 event, dont send the message on 31:th of Mars. The message was sent on the day they added this to the employee, which
+ cant be updated in Carsmart becuase it should not be updated before 31:th of Mars.
+
+
+ 
+
+
+Now I wonder, is it a big no no (no) to add a subscriber to the employee2409CE, that send messages to Carsmart->Employee2409? Then we receive the update on the 31:th of Mars, and the data is the same. Sooo... is this even an idea?

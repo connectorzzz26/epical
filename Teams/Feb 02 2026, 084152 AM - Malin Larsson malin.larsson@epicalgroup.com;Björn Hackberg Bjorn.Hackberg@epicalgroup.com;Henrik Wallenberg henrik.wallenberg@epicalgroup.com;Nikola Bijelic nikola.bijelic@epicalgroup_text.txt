@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson; Björn Hackberg; Henrik Wallenberg; Nikola Bijelic
+	Recipients
+	malin.larsson@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; henrik.wallenberg@epicalgroup.com; nikola.bijelic@epicalgroup.com
+
+
+Here are more details
+
+
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_git/ncip-assessment

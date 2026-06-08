@@ -1,0 +1,19 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+
+Peter Ekeros
+Just curious. Is it only my computer that after like 15-30min, my screen (and the 2 extra I have) start to flickering, and now after the vacation, starts to even lag alot? its doing so 1-3 times an hour. After the flickering/lagging (that
+ lasts for 2-3min), everything is fine. I have chec…
+
+
+
+
+
+Do you have a Windows Update pending? I had a couple of updates win update, bios update, lenovo update etc that requires that I had to restart my computer hundreds times when I got back from vacation. When the computer is on pending-mode it shut downs some
+ features.

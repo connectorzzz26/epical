@@ -1,0 +1,27 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi; Wael Abdullah
+	Recipients
+	thaer.saidi@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+wtf... I have debugged with them all week, and nothing came out of that at all. They point me at Postman, and it works great there. Which i feel is not a good answer tho...
+
+
+ 
+
+
+My solution is weird as fuck but I feel I dont want to hang around much longer with this issue:
+
+
+ 
+
+
+Feels horrible:
+
+
+
+
+
+0-sse-d2-4706f769b23ae3b8f2ef88dd32a6a209

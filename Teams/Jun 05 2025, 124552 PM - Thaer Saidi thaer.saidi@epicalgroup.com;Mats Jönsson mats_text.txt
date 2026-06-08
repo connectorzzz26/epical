@@ -1,0 +1,23 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I thought initial load is mandatory when it's a new flow
+
+- No, it's always the client that decides that. In a proper "Integration Request" it's a part of the bundle.
+
+For error handling I'm not sure, I followed the steps provided in another flow.
+
+- Yes we all do different, but then you have to take a discussion with developer...if he/she ask (or you have to deal with it in SIT/E2E tests)
+
+I used a diagram template from the provided flow design patterns (Full event service bus endpoint)
+
+- Yes but there are not only "one fit all" scenarios, sometimes we have to modify to align.
+
+I will change the envelope and use the one you shared.
+
+- Great

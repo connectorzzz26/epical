@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak; Foroogh Khan-Gholi
+	Recipients
+	salih.serdenak@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+Since DeliveryNote and InputApp didn't receive the load I suspected that this one done to the DF and not from DF

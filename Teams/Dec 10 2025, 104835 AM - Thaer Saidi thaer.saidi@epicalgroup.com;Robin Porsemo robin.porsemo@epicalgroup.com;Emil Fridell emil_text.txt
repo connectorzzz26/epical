@@ -1,0 +1,15 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+Hi Thaer,
+
+
+the project wants us to give you more work 
+ We
+ think documentation is a good one, can you help us with updating 
+HRM Adapter - Overview ? And give feedback/update what you think is missing

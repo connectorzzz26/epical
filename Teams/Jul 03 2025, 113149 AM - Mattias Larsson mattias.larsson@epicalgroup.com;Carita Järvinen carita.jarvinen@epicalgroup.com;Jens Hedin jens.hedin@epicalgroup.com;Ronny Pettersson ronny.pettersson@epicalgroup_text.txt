@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Henrik Hörnlund; Malin Larsson; Wael Abdullah; Salih Serdenak; Thaer Saidi
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; malin.larsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Is there a bug on that?

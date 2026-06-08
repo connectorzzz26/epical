@@ -1,0 +1,9 @@
+From
+	19:159a3b8e-b1a2-4327-9278-3286de8de589_51c3b852-a9fb-4591-a648-f7d19e556d1f@unq.gbl.spaces
+	To
+	Lauri Karppinen; Thaer Saidi
+	Recipients
+	lauri.karppinen@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+<addmember><eventtime>1769587316422</eventtime><initiator>8:orgid:51c3b852-a9fb-4591-a648-f7d19e556d1f</initiator><rosterVersion>1769587316110</rosterVersion><target>8:orgid:51c3b852-a9fb-4591-a648-f7d19e556d1f</target><detailedtargetinfo><id>8:orgid:51c3b852-a9fb-4591-a648-f7d19e556d1f</id></detailedtargetinfo><target>8:orgid:159a3b8e-b1a2-4327-9278-3286de8de589</target><detailedtargetinfo><id>8:orgid:159a3b8e-b1a2-4327-9278-3286de8de589</id></detailedtargetinfo></addmember>

@@ -1,0 +1,10 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+vill man ha bättre kryptering är det väl gpg som gäller 
+https://www.gnupg.org/download/

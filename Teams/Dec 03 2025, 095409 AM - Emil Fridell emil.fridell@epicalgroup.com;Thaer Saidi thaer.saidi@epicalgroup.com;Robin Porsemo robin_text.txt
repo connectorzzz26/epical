@@ -1,0 +1,9 @@
+From
+	Robin Porsemo
+	To
+	Emil Fridell; Thaer Saidi
+	Recipients
+	emil.fridell@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+https://nccdevelopment.visualstudio.com/HR%20Core%20Data%20Micro%20service%20development

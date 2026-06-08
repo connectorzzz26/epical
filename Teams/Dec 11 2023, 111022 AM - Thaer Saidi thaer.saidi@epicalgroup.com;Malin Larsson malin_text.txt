@@ -1,0 +1,20 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+Sofie Hero 
+
+
+En fundering kring dokumentationen - kikade på PS som referens. Ska vi inkludera InitialLoad i den event-specifika dokumentationen (Project i det här fallet), så vi har Event + InitialLoad…
+
+
+
+
+
+Initial load på Eventnivå tänker jag.

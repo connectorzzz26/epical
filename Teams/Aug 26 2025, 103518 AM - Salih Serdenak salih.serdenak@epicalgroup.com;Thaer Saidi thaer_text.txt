@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+Yes in deliveryNote I went through the implementation and did the changes even though they weren't there in docs

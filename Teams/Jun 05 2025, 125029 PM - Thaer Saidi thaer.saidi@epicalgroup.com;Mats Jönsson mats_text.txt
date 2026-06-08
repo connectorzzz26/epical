@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+but as I said... much of the stuff in that form, is want we really need and you can also use it as a checklist so you don t forget things that can strike back later in development/testing

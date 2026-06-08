@@ -1,0 +1,20 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Henrik Wallenberg
+När vi skickar från MBB till SB på Online Ramp, vad är det för säkerhet vi kör utöver DNS-whitelisting? managed identity + RBAC?
+
+
+
+
+
+Ja, System Assigned Managed Identity som får behörighet (RBAC) att publicera

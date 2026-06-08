@@ -1,0 +1,39 @@
+From
+	Salih Serdenak
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+I think I ran into a bug using the enrichment manager. FinancialActivity.ID lookup for the number 8 works.
+
+
+
+
+
+ 
+
+
+I instead change the call to path FinancialActivity.Code and value 7363019, but it returns an empty array.
+
+
+ 
+
+
+I tried it with Postman, in my workflow (even with wrapping the value to string) and it doesnt work.
+Wael Abdullah Mattias Larsson
+
+
+ 
+
+
+
+
+
+ 
+
+
+0-sse-d2-52f007b541259f95174769e62b95ad29
+
+0-cse-d4-34771bace303607beb926a9d19109a41

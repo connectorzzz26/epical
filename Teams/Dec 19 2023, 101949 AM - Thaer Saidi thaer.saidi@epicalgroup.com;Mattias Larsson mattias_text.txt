@@ -1,0 +1,21 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Henrik Wallenberg
+har inte min utvecklingsmiljö i ordning för NCC och har ingen koll på var templates osv ligger så har svårt att sätta upp en egen deploy snabbt
+
+
+
+
+
+jag kan fixa en strax ska
+ hämta en son från skolan först bara

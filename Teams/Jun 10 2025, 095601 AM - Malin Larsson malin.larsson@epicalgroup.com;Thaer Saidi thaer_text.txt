@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+In the excel file for the effort estimations I have a score but then I have the "approximate Estimate" which is a fork of 2 values, should I choose the bigger value when adding the effort in the stories ?
+
+
+
+
+
+0-cse-d3-96bdd8cdf9bcbbc986772f1611cd2085

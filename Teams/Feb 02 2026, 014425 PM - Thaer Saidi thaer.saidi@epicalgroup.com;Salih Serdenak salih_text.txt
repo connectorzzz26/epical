@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+ill check in a second, it is for the problem management of the issue between ncip and mad, with the waf rules and apim, as those arent listed in our regular pictures

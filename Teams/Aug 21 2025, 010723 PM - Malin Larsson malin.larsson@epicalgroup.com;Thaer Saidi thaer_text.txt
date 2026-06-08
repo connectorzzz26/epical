@@ -1,0 +1,17 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+
+Malin Larsson
+Can you look at the design created by Sebastian regarding HRM-Compensation-sub, to make sure that there is a Mapping schema and that it seems ok. Since it was so long ago it needs to be looked over.
+
+
+
+
+
+I can't seem to find the mapping sheet for HRM compensation :s

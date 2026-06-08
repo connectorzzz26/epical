@@ -1,0 +1,10 @@
+From
+	Thaer Saidi
+	To
+	Carita Järvinen
+	Recipients
+	carita.jarvinen@epicalgroup.com
+
+
+We are not sure who is maintaining 
+sb-test-cmn-prodportals.servicebus.windows.net

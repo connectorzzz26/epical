@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+yes...it's hard for you to start with this, SA's need to do there part before. We always start with an integration request and it will be the same for this

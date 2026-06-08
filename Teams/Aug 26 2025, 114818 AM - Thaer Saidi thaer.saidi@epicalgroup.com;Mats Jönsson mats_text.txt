@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+It could be like we have it in DKM, on employee2409 we enrich with compensation and on compensation we enrich with employee2409 because DKM needs the same information in both cases

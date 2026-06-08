@@ -1,0 +1,18 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi; Björn Hackberg; Malin Larsson; Niklas Lundbäck; Elisabeth Blom; Rebecca Cyrén
+	Recipients
+	thaer.saidi@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; elisabeth.blom@epicalgroup.com; rebecca.cyren@epicalgroup.com
+
+
+
+Thaer Saidi
+Hey Adam Deblén the title might be a bit confusing, since this is not only related to TrackB to TrackA test envs but more to the data we are storing/using for the different envs/tracks wether it's HRCore or CF
+
+
+
+
+
+Good point, changed the name now. The meeting on Monday is related to Core Finance though, externals from NCC don't know anything about HR Core. So the primary focus in that meeting will be how to solve SIT/UAT testing towards IFS, which has three envs CFG,
+ UAT and PROD

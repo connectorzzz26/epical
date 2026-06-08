@@ -1,0 +1,9 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo; Kristoffer Kallerup
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+2025-12-08T11:36:08.096Z: {"businessobjectid":"T900007852"

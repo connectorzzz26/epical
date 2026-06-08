@@ -1,0 +1,9 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_git/NCI-EnrichmentManager/pullrequest/17869

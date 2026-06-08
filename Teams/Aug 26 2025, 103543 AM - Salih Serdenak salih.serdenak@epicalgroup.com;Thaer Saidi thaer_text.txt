@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+for DeliveryApp and MAD I didn't find the preprocess workflow so I thought there is no enrichment to be done

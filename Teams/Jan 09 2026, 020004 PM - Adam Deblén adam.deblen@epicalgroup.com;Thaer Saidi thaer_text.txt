@@ -1,0 +1,22 @@
+From
+	Thaer Saidi
+	To
+	Adam Deblén
+	Recipients
+	adam.deblen@epicalgroup.com
+
+
+
+
+Adam Deblén 
+
+
+I think this is also faulty:   📷 Image   The level 1 here should be towards IFS CFG (to be the dev sandbox) ie normal dev env I think some changes might be needed here to clarify the…
+
+
+
+
+
+This was mainly related to what we see in HR core
+
+But I guess also applicable in CF as we would prefer to use the test environment from IFS even in our dev environments as it has better data that we can use in our workflows, because data in dev IFS will probably be too messy for our use

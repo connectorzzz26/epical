@@ -1,0 +1,17 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+And the schema of the receiving system is the same as the sending system
+
+
+
+
+
+You mean it is the same as SupplierInsights, the sending system, or the same as the Supplier v3 schema we have in the repos?

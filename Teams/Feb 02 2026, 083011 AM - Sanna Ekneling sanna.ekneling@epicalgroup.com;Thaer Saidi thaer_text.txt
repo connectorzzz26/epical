@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Sanna Ekneling
+	Recipients
+	sanna.ekneling@epicalgroup.com
+
+
+It does actually since they are tightly connected to NCIP implementations

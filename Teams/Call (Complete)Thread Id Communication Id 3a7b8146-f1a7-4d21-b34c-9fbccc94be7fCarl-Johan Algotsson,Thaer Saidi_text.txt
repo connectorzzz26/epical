@@ -1,0 +1,18 @@
+Call (Complete)/Thread Id: /Communication Id: 3a7b8146-f1a7-4d21-b34c-9fbccc94be7f/Carl-Johan Algotsson,Thaer Saidi
+
+Call (Complete)/Thread Id: /Communication Id: 3a7b8146-f1a7-4d21-b34c-9fbccc94be7f/Carl-Johan Algotsson,Thaer Saidi
+	From
+	Carl-Johan Algotsson
+	To
+	Carl-Johan Algotsson; Thaer Saidi
+	Recipients
+	Carl-Johan.Algotsson@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+Start Time (UTC): 1/29/2026 12:27:19 PM
+End Time (UTC): 1/29/2026 12:41:56 PM
+Duration: 00:14:37.1965421
+
+[1/29/2026 12:27:19 PM (UTC)] Carl-Johan.Algotsson@epicalgroup.com joined.
+[1/29/2026 12:41:56 PM (UTC)] Carl-Johan.Algotsson@epicalgroup.com left.
+[1/29/2026 12:27:19 PM (UTC)] thaer.saidi@epicalgroup.com joined.
+[1/29/2026 12:41:56 PM (UTC)] thaer.saidi@epicalgroup.com left.

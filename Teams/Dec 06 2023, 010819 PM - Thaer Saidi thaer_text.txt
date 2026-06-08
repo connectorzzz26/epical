@@ -1,0 +1,21 @@
+From
+	fe857311-116f-419c-9032-ed9625d5bc68@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+Because that's the latest instructions from Juha after I asked him to verify the mapping output, but I think it sounds a bit strange to send the LocalId to the canonical format...so I just wanted to double check what the rest of you think,
+ to avoid having to re-do it again in a few days 😅 For re…
+
+
+
+
+
+it is strange , I agree , we can easily look up the other value using one

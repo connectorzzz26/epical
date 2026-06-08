@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_git/NCI-Ramp-DeliveryNote?path=/Outbound/SupplierUnit/Code/LogicAppResources/logic-DeliveryNote-SupplierUnit-Outbound/Artifacts/Maps/SupplierUnit-transform-v1.liquid

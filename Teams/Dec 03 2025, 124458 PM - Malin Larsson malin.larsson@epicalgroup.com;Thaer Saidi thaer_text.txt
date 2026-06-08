@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+This morning Henrik told us that I need to be more involved in the development/testing, so I had a meeting with the AAs where they shared the code, and grant me access to the dev/test environments and such

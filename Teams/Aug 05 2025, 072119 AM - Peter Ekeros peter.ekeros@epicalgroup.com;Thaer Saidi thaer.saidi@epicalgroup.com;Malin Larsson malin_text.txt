@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Peter Ekeros; Thaer Saidi
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+probably Mats should have worked on Servicenow part (snow) since he has taken over those, but there is good material on those

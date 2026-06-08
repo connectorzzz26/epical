@@ -1,0 +1,13 @@
+From
+	Thaer Saidi
+	To
+	Emil Fridell; Robin Porsemo
+	Recipients
+	emil.fridell@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+Hey guys
+
+
+I went through the HRM adapter solution and I guess I'm ready to get a walkthrough, maybe not very necessary currently since the logic is not that complex but around things like logging and if there are workbooks or such that you're using or planning to
+ have..

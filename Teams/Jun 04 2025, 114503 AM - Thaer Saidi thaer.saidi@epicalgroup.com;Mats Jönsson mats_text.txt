@@ -1,0 +1,10 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Dont forgett to update in ramp design: 
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/6136/Ramp-design

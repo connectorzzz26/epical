@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+Do you remember that tree traversing we had in coolpro for a couple of fields before we turn them to 0s ?

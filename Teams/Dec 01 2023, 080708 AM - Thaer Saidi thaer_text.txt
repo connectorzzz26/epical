@@ -1,0 +1,13 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Om någon vill ha något att pyssla med medan ni väntar på annat så finns det ett storage "stcdsloadempdev" i rg-cds-outbound-dev där jag under Networking tänkt låsa ner accessen till utvalda IP-adresser/utvalda resources för att Logic Appen logic-cds-employee-outbound-dev
+ ska få access. Verkar dock eventuellt finnas en bug just för Logic App standard och Blob connectorn, så vill någon kika på det medan jag felsöker eventflödet och meddelandet vi fick från CDS igår är det fritt fram
+
+ Bara
+ hojta till i så fall så kan jag gå igenom det lite snabbt!

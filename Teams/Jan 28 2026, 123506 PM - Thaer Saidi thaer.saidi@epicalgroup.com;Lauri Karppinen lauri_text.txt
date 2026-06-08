@@ -1,0 +1,9 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+i will update the code. we still might need to change date from system to utc but thats a minor thing now that i have repos ready etc

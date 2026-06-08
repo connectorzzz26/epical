@@ -1,0 +1,27 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Det sa hon inte, hon skrev bara såhär:
+
+
+Hej igen, 
+
+
+ 
+
+
+Nu har vi hittat felet. Skickade ett nytt event, från vår testmiljö, som fick tidsstämpel 17:04:00, lokal tid. Det såg ut att gå fram som det skulle, men verifiera gärna på ert håll. 
+
+
+ 
+
+
+Vänligen,
+
+
+Emelie

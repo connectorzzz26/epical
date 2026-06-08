@@ -1,0 +1,35 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Malin Larsson
+Några i status New, men de kanske är byggda även om de tydligen låg fast i gamla sprintar av någon anledning
+
+
+
+
+
+Hade inte sett dom tidigare, men vi har både infra för LA och Service Bus på plats.
+
+
+ 
+
+
+Har inte kollat om det fanns några speciella förklaringar i tasken, men skulle gissa på att det är klart.
+
+
+ 
+
+
+Som Henrik sa så saknas bara secrets i Key Vault, annars är allt på plats i test.
+
+
+ 
+
+
+Dokumentationen haltar lite, men är på gång

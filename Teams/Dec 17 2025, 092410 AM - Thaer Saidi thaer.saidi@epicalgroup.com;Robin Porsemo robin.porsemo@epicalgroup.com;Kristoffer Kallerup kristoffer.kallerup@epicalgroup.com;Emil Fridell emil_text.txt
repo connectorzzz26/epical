@@ -1,0 +1,9 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo; Kristoffer Kallerup
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+in regards of bug fixing, it is more the project that needs to decide what the expected response time is, so I guess Malin has to manage that

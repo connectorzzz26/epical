@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Peter Ekeros; Wael Abdullah
+	Recipients
+	peter.ekeros@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+-We are not going to change the ramps and such 
+
+-And yes it will probably be manual creation of the database.
+
+-There is not much security concern since we will only copy the IDs and no data will be there in the new DB
+
+-The estimation is more related to the changes that will need to be done on the workflows (The addition of a new one probably) and the creation of a single db that we serve to translate the globalIDs from prod to test

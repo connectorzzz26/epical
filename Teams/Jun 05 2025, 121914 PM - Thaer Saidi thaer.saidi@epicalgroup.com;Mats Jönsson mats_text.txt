@@ -1,0 +1,55 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+some things:
+
+
+ 
+
+
+- Are DKM demanding Inital load on this events?
+
+- Fault handling in different steps (only see in send)?
+
+- It's not really clear that ramp is listning on Adapter SB/Topic (in flow picture it seems to be a part of ramp)?
+
+- Some of the envelope params seems not valid, this what we use today (I think Alex has a "custom made" envelope sent to him, ex securityclassification we dont use in logging. If he wants to send that, you need to convert it into below) Example from succesfactor-compensation-pub:
+
+{
+
+  "BusinessObjectId": "20250101_1_12408",
+
+  "DataSchema": "compensation/1.0/CompensationEventSchema.json",
+
+  "Direction": "Publisher",
+
+  "GlobalBusinessObjectId": "2484",
+
+  "Id": "90bf0dd4-5437-4dc3-9ac2-9d656c6b797f",
+
+  "LocalStatus": 0,
+
+  "Message": "Compensation event received in wf-successFactors-Compensation-Send",
+
+  "Scope": "SuccessFactors",
+
+  "Status": "Received",
+
+  "Subject": "Compensation",
+
+  "Type": "data/update"
+
+}
+
+- Some of the envelope values has to align with NCIP standard ex Type: "data/update" etc but that is something you can check on receiving events and correct.
+
+
+ 
+
+
+Otherwise, looking great....!

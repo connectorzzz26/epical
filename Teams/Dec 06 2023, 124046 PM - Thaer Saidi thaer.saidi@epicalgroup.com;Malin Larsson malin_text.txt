@@ -1,0 +1,21 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+Because that's the latest instructions from Juha after I asked him to verify the mapping output, but I think it sounds a bit strange to send the LocalId to the canonical format...so I just wanted to double check what the rest of you think,
+ to avoid having to re-do it again in a few days 😅 For re…
+
+
+
+
+
+Men det där ser ju ut som att vi skickar värde och ID, men det lokala idt kanske är värdet. Känns som du säger overkill, men kanske värt att checka med Juha om ingen här har koll

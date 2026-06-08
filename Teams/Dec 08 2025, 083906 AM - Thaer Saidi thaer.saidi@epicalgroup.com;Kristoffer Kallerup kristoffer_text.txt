@@ -1,0 +1,9 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I'll try it out locally first then deploy and test the workflow

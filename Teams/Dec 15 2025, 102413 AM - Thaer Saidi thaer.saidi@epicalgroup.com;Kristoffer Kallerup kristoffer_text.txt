@@ -1,0 +1,12 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+So I've setup a bunch of PRs. I'm thinking I'll put in a link in the Depricated wiki pages that you've set up to the legacy branches.
+
+
+Who should I ping regardingg looking into the PRs? Just the open channel maybe?

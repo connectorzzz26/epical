@@ -1,0 +1,19 @@
+From
+	Odenfelt Kajsa
+	To
+	Malin Larsson; Sebastian Pettersson; Henrik Wallenberg; Eric Qvarnström; Carita Järvinen; Björn Hackberg; Henrik Lindin; Jens Hedin; Mattias Larsson; Mats Jönsson; Henrik Hörnlund; Ronny Pettersson; #SE int B-Left (6 pers) Västerås; Berhan Karagöz; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Peter Ekeros
+	Recipients
+	malin.larsson@epicalgroup.com; sebastian.pettersson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; eric.qvarnstrom@epicalgroup.com; carita.jarvinen@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; henrik.lindin@epicalgroup.com; jens.hedin@epicalgroup.com; mattias.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; henrik.hornlund@epicalgroup.com; ronny.pettersson@epicalgroup.com; se_int_bleft@epicalgroup.com; berhan.karagoz@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; peter.ekeros@epicalgroup.com
+
+
+Question is regarding the following Event dataschema eventfiles__project_3_0:
+
+
+ 
+
+
+
+		 Can we interpret a "data/create" event with timestamp X as the actual creation time of the project in PS? Similarly, does a "data/update" event represent the actual update timestamp? Indirectly this would me that the value
+ of createdTimestamp returned by PS API shall match the data/create timestamp, or difference in time shall be quite small. 
+
+		Is it also correct to assume that "data/load" means no update of data, just a snapshot of how data entity is constructed at that timestamp.

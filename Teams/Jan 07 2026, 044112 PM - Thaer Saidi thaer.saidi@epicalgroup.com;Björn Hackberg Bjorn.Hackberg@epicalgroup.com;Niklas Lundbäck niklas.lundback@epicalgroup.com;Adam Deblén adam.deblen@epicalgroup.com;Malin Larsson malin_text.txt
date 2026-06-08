@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi; Björn Hackberg; Niklas Lundbäck; Adam Deblén
+	Recipients
+	thaer.saidi@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com
+
+
+just one uneducated question here. when you use Fabric for mirroring, how will for instance Global IDs be handled, will it be a good enough solution?

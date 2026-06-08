@@ -1,0 +1,25 @@
+From
+	Thaer Saidi
+	To
+	Tom Lehane; Nathalie Kuosa; Yahya Ajwad; Anton Björkman; Christoffer Andersson; Berhan Karagöz; Omid Manai; Jenny Lenhammar; Adam Fredholm; Fredric Travaglia; Marko Ikäheimo
+	Recipients
+	tom.lehane@epicalgroup.com; nathalie.kuosa@epicalgroup.com; yahya.ajwad@epicalgroup.com; Anton.Bjorkman@epicalgroup.com; christoffer.andersson@epicalgroup.com; berhan.karagoz@epicalgroup.com; omid.manai@epicalgroup.com; jenny.lenhammar@epicalgroup.com; adam.fredholm@epicalgroup.com; fredric.travaglia@epicalgroup.com; marko.ikaheimo@epicalgroup.com
+
+
+Here is an example from our daily delivery work showing how we can benefit from AI without changing our ways of working. When setting up a new system, we can include
+Azure Foundry platform alongside Azure Integration Services to support tasks such as:
+
+
+
+		Faster delivery: speeding up complex mappings, generating test payloads, and reducing manual steps.
+
+		Automatic documentation: producing API descriptions, examples, technical notes, and complete wiki pages from implementations.
+
+		Reusable AI agents: a small fleet of agents that perform these tasks on demand: mapping support, test-data generation, documentation creation, and log analysis..
+
+
+
+
+This makes the delivery smoother by offloading repetitive work.
+
+The idea is to start enhancing our existing deliveries with AI while we work toward identifying tangible use cases that can later be part of our formal offering.

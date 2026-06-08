@@ -1,0 +1,34 @@
+From
+	Malin Larsson
+	To
+	Peter Ekeros; Thaer Saidi; Nikola Bijelic; Mattias Larsson; Johan Lindholm  Eliasson; Ronny Pettersson; Lauri Karppinen; Foroogh Khan-Gholi; Gokulakrishnan Kothandaraman; Niklas Lundbäck; Adam Deblén; Rebecca Cyrén
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; mattias.larsson@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; ronny.pettersson@epicalgroup.com; lauri.karppinen@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com; rebecca.cyren@epicalgroup.com
+
+
+Hi team,
+
+
+I’ve received a request from the HR Core project asking whether we can have 
+1–2 people available during the go‑live weekend (21–22 March) to support with verifying the initial loads into the Data Foundation.
+
+
+ 
+
+
+This is needed so that the project can plan that UnAM team can begin their verification in
+“week 2,” on Monday 23 March. This means that the following needs to be completed before then:
+
+
+
+		Position and Employee loads (PP → NCIP)
+
+		Our verification of these
+
+		Position and Employee2409CE (NCIP → SN)
+
+
+
+
+There is a high likelihood that the first Position loads can start already 
+on Tuesday morning, 17/2, which means that we should be able to complete everything within four days. However, if the timeline slips, it would be very helpful to use the weekend as a buffer.

@@ -1,0 +1,9 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Then it's better to require the data to be updated for the CFG env in IFS

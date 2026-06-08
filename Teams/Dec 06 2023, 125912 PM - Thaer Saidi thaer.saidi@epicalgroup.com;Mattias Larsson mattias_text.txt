@@ -1,0 +1,9 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I have updated all NCI-MessagingBackbone-<Event>-Subscribe repos with the new DataFoundation workflow and redeployed them all to dev, the only one that I have deployed to test is Project (which we will test later today)

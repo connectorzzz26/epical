@@ -1,0 +1,9 @@
+From
+	Nikola Bijelic
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Adam will setup a feature in our board so anyone in the team can create a story with improvements/suggestions.

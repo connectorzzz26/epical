@@ -1,0 +1,10 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Min reflektion efter StreamBim testet var att de hade med verksamhetspersoner som kunde jobba i ProjectService applikationen men de hade ingen aning om vilka integrationer som fanns eller hur de fungerade och den mottagande applikationen var beroende av
+ olika statusar som skulle skickas från PS, sedan var det dessutom testmiljö i PS så man fick ta genvägar och var därför osäker på om det då inte skickades några statusuppdateringar eller om det var integrationen som inta kickade igång på PS sidan

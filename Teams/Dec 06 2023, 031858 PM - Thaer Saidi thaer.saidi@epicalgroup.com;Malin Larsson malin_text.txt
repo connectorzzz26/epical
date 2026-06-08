@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Apparently the tests failed due to failed connectivity between Project Service and the integration plattform. So let's do a retake on that tomorrow.

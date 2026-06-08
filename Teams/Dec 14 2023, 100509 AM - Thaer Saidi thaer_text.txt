@@ -1,0 +1,24 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Karam Haroun
+Buggen innebär att om det finns mer än 1 valideringsfel får man inte informationen till rampen, utan bara info om att det finns en lista av fel. Fixen är en ändring på två rader. Så hojta om ni har en som behöver uppdateras innan tester/prodsättning.
+ Just nu är fixen på plats för project i dev och …
+
+
+
+
+
+Jag vet inte om/var det behövs, beror på om någon gjort det utöver det du gjort för Project
+
+ Mattias Larsson vilken
+ version har vi i MBB för CDS?

@@ -1,0 +1,9 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+i will check them. The filename seems to be created in javascript snippet so the naming can be seen from there as well EMP for employee ACC for bankaccount IDN for identity

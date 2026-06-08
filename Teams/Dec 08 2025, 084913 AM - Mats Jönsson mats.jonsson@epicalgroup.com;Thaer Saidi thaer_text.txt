@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+I'm not sure I understand what you mean ?
+
+
+We have multiple arrays that contain EffectiveDate and they are mandatory..

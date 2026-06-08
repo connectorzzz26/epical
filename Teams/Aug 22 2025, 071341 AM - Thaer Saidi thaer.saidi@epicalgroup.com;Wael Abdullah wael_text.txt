@@ -1,0 +1,9 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+or both have the same local id ? so I will ask global id service by sending local id  > get global id on test > lookup in the translation table > replace the test global id with prod global id > store in DF !!

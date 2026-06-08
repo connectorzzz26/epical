@@ -1,0 +1,10 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+ska vi lägga upp nån user story för att beskriva testprocess, eller ska vi vänta på att NCC tar tag i det? Lät lite på Kajsa som att det kommer lösa sig framöver ju. Vi inledde ju lite snack om tester när vi var uppe i Stockholm tidigare i våras men kom
+ inte så mkt längre med det. Kanske borde återuppta dom diskussionerna på nått sätt.

@@ -1,0 +1,12 @@
+From
+	Nicklas Andersson
+	To
+	Henrik Wallenberg; Björn Hackberg; Malin Larsson; Mats Jönsson; Elisabeth Blom; Thaer Saidi; Peter Ekeros; Nikola Bijelic; Adam Deblén; Sohail Shaikh; Omid Manai
+	Recipients
+	henrik.wallenberg@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; nikola.bijelic@epicalgroup.com; adam.deblen@epicalgroup.com; sohail.shaikh@epicalgroup.com; omid.manai@epicalgroup.com
+
+
+We have discussed a bit that there are no clear schemas if the ramp on subscribing side do enrichments and pass on to an adapter. What to expect? How to handle changes in the LIM and updates in ramps in the future. 
+
+
+Could also be if we receive data from an adapter - how does the model look and is the data sent validated in any way?

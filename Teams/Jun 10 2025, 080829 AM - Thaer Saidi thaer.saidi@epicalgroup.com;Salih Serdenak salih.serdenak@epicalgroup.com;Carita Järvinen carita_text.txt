@@ -1,0 +1,15 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi; Salih Serdenak
+	Recipients
+	thaer.saidi@epicalgroup.com; salih.serdenak@epicalgroup.com
+
+
+If you are sending the event to MAD then they need to implement the endpoint.
+
+
+ 
+
+
+Have you asked the architect or developer on the MAD side if they can give you the endpoint where to send the events?

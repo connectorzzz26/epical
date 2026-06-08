@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi; Nikola Bijelic; Salih Serdenak
+	Recipients
+	thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; salih.serdenak@epicalgroup.com
+
+
+in front of our APIM there's an application gateway that is managed by another team

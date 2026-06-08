@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+sorry, quick question, what about queues vs topics, I was told to copy supplierunit but it has queues and topic is a better way to work, should i change or keep the same?

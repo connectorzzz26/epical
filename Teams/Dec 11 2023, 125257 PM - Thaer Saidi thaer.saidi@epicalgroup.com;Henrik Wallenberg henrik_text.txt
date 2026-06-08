@@ -1,0 +1,21 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Christian Jonsson
+Ytterligare, design-uppdateringar och sådant.... ligger var?
+
+
+
+
+
+Vilka designuppdateringar tänker du på? i Wikin under Current Projects ligger alla event, ramp och initial load designer som vi jobbar på just nu. Generell platforms design, mönster osv haltar eftersom vi trycker mot produktion nu. Exempelvis saknar vi beskrivning
+ på subscription mönstret vi just nu utvecklar på.

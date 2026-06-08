@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Johan Lindholm  Eliasson
+	Recipients
+	johan.lindholmeliasson@epicalgroup.com
+
+
+https://apigatewaydev.ncc.info/mad-dev/api/v1/SupplierAgreementPricelists/{id}

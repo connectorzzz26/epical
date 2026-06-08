@@ -1,0 +1,15 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+each event has this topic-Ivalua-[eventname]
+
+
+eg
+
+
+topic-Ivalua-project

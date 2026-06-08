@@ -1,0 +1,9 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+will check later today. But I think the functional requirements should be very basic and link to the docs SA have made, since they are the authors of it

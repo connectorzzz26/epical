@@ -1,0 +1,30 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com
+
+
+
+
+
+I was following the same for V1.2 as existed in V1.0 so I used a full event design however Salih the developer is receiving a ThinEvent
+
+
+
+
+
+
+ 
+
+
+{
+    "id": "1337",
+    "type": "create",
+    "eventName": "SupplierAgreementPricelist",
+    "securityClassification": 2
+}
+
+
+0-cse-d1-90ef15ca576a0031ab50859a17c5382f

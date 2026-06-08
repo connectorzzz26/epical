@@ -1,0 +1,18 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson; Foroogh Khan-Gholi
+	Recipients
+	malin.larsson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+This was the issue Malin mentioned
+
+
+
+
+
+We stopped receiving events between 5th and 9th for some reason
+
+
+0-sse-d4-9cf9e1bed07c62cd457c6dd36a27af76

@@ -1,0 +1,10 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg; Malin Larsson; Niklas Lundbäck; Adam Deblén; Elisabeth Blom; Rebecca Cyrén
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com; elisabeth.blom@epicalgroup.com; rebecca.cyren@epicalgroup.com
+
+
+Hey Adam Deblén the title might be a bit confusing, since this is not only related to TrackB to
+ TrackA test envs but more to the data we are storing/using for the different envs/tracks wether it's HRCore or CF

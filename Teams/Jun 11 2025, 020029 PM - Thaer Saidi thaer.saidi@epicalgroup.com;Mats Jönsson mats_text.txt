@@ -1,0 +1,17 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+I checked with Per regarding the mapping but in the end we don't have any, it's a 1 to 1 mapping that we are going to use in EmployeeCountryEmployeeNumberUpdated, I kept a mapping file just in case 🙂
+
+
+
+
+
+Ok..do you mean on pub or sub?

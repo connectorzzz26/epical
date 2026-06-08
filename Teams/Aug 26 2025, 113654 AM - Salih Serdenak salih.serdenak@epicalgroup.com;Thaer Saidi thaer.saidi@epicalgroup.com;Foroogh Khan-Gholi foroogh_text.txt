@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Salih Serdenak; Thaer Saidi
+	Recipients
+	salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+what about the transform workflow? if the mapping is not needed should we still keep the transform flow? (The transform flow does nothing but this mapping) ?

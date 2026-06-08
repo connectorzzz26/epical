@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+In our discussions for other consumers, on that we always listning on compensation, on that a change on a specific compensation will not trigger an employee event.

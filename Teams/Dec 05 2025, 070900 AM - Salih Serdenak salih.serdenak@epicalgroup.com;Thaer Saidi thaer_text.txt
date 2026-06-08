@@ -1,0 +1,11 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+Yes then even if we have 10 enrichments and all retry 3 times with delay of 30s
+
+We are okay this 15mn which will be the maximum

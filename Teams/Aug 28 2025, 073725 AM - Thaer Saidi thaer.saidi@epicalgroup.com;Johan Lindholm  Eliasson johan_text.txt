@@ -1,0 +1,9 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/7881/Publish-ExternalResource-1.0

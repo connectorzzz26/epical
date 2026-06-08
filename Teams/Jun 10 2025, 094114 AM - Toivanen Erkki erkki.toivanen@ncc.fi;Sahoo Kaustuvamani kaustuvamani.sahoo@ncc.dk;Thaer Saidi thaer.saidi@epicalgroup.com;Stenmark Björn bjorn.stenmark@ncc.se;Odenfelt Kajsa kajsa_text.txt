@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Toivanen Erkki; Sahoo Kaustuvamani; Thaer Saidi; Stenmark Björn; Odenfelt Kajsa; Lundquist Daniel (Ext); Strandberg Fredrik; Björn Hackberg; Salih Serdenak; Johan Lindholm  Eliasson
+	Recipients
+	erkki.toivanen@ncc.fi; kaustuvamani.sahoo@ncc.dk; thaer.saidi@epicalgroup.com; bjorn.stenmark@ncc.se; kajsa.odenfelt@ncc.se; daniel.lundquist@ncc.se; fredrik.strandberg@ncc.se; bjorn.hackberg@epicalgroup.com; salih.serdenak@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com
+
+
+according to developer the MAD Api is not available for calls, so Thaer has been notified.

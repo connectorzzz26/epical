@@ -1,0 +1,20 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Mattias Larsson
+Behöver det verkigen sättas på resursnivå? Räcker det inte med resursgruppen?
+
+
+
+
+
+Är på resursgruppsnivå som det kommer sättas via Common-Yaml Deploy-grejen. Sen så propagerar det automatiskt till resurserna.

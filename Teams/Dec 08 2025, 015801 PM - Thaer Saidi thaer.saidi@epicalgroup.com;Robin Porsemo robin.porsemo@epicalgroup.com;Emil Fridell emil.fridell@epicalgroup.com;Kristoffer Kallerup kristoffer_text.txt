@@ -1,0 +1,9 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi; Robin Porsemo; Emil Fridell
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com; emil.fridell@epicalgroup.com
+
+
+Then I'll put the schema in the repository

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Robin Porsemo; Kristoffer Kallerup; Emil Fridell
+	Recipients
+	robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; emil.fridell@epicalgroup.com
+
+
+You mean if there is no CompensationPayType we should not emit the object?

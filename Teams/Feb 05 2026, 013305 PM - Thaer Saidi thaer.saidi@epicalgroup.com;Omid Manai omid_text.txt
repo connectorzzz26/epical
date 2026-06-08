@@ -1,0 +1,18 @@
+From
+	Omid Manai
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi Thaer,
+
+
+I'm trying to connect to the coolpro database but got some BadGateway errors from connecting to the DB.
+
+
+I saw that the sub-coolpro logic app has also failed with the same error in dev, but it has run successfully in test.
+
+
+Do you remember why it's not working in dev? Or did they do some configurations/whitelisting on their side?

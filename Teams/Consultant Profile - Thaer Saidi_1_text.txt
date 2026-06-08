@@ -1,0 +1,74 @@
+Epical CV
+
+
+Integration Consultant
+Thaer Saidi
+	
+	Integration Consultant
+Thaer Saidi
+E: thaer.saidi@epicalgroup.com
+P: + 46 (0) 708-43 37 76
+Stockholm
+
+	Skills
+Azure Logic Apps
+Azure APIM
+Python
+Azure Functions
+Azure DevOps CI/CD
+Github Actions CI/CD
+Azure OpenAI
+ASP.NET Core
+Kubernetes 
+Docker
+AWS Lambda Node.js
+Azure CosmosDb
+SQL Server
+Bicep
+Terraform.
+Languages
+English: fluent
+French: fluent
+Arabic: native
+
+
+Profile
+Experienced software developer and solution architect with a proven track record of designing, developing, deploying and delivering scalable software solutions.
+Passionate about Integration development / architecture and platform engineering.
+Work experience & projects
+Integration Consultant
+Epical, 2025 – present
+
+Cloud Architect
+Crayon , Paris, 2024 - 2025
+Lead cloud-native solution development mainly in Azure but also GCP,
+AWS, and IBM Cloud, integrating AI to boost app performance and
+scalability, and advanced DevOps for quicker, more reliable deployments.
+Azure Cloud Architect
+Nordcloud, Stockholm,  2023 - 2024
+Expertly enhanced VolvoCars' Inbound Logistics efficiency through
+leveraging IBM cloud environments, OpenShift, and Cloud Native tools.
+Delivered innovative solutions to complex cloud and software challenges
+using advanced software engineering skills.
+Cloud Platforms Architect
+Electrolux , Stockholm, 2017 - 2023
+At Electrolux, I served in several strategic cloud and digital architecture roles, where I enhanced and streamlined EpiServer .NET-based CMS platforms across hybrid infrastructures using Azure, IBM Cloud, and Akamai. I led the development of compliant digital marketing solutions with Angular and .NET Core, and supported global marketing initiatives by ensuring scalability, security, and performance. Additionally, I acted as a team lead in mobility and contributed to intelligent bot systems as a web portals Devops engineer earlier in my tenure.
+Systems Engineer
+TCS , Mumbai, 2016 - 2016
+Led the mobility division as Team Lead and Systems Engineer, developing
+solutions with JavaEE and Ionic Frameworks.
+As a Data Scientist at GESS, focused on intelligent bot systems using
+Dialogflow and IBM Watson..
+
+Education
+Sotfware development and programming engineer, ESPRIT
+2013 – 2016 
+Statistical engineering and information analysis, ESSAI
+2011 – 2013 
+Preparatory of mathematics and physics, University of Tunis El Manar
+2008 – 2011 
+Bachelor degree, Bourguiba pioneer school
+2008 – Click or tap here to enter text.
+
+		2/2
+image1.jpeg

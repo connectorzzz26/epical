@@ -1,0 +1,31 @@
+From
+	Thaer Saidi
+	To
+	Wael Abdullah
+	Recipients
+	wael.abdullah@epicalgroup.com
+
+
+Bug 156213:
+ ContractEnddate is not updated in HRM for temp employees
+
+
+
+		now mapping available 
+
+
+
+
+ 
+
+
+Bug 155851:
+ Gender not updating correct
+
+
+
+		now mapping is available 
+
+
+
+Did you implement those too ?

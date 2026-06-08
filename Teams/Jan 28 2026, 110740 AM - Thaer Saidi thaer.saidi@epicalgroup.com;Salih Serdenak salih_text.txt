@@ -1,0 +1,72 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+almost done with the code and going to do some testing soon, but i merged the code where the one from yesterday (before the change request) had retry and the old one didnt, but for the logic in the liquid i have a question:
+
+
+ 
+
+
+This is the code from yesterday:
+
+
+  {%- for logicalAddress in Employee2409CurrentlyEffective.LogicalAddress -%}
+
+
+    {%- if logicalAddress.LogicalAddressType.ID == 1 -%}
+
+
+      {%- assign latIDOne = logicalAddress.SubscriberNumber -%}
+
+
+    {%- elsif logicalAddress.LogicalAddressType.ID == 3 -%}
+
+
+      {%- assign latIDThree = logicalAddress.SubscriberNumber -%}
+
+
+    {%- endif -%}
+
+
+  {%- endfor -%}
+
+
+ 
+
+
+ 
+
+
+ {%- if latIDOne -%}
+
+
+  "CPHC2A": "{{ latIDOne }}",
+
+
+  {%- else -%}
+
+
+  "CPHC2A": "",
+
+
+  {%- endif -%}:
+
+
+ 
+
+
+this is the code from the backup:
+
+
+  "CPHC2A": "{{ LogicalAddressType1SubscriberNumber }}",
+
+
+ 
+
+
+I assume the one from the backup is the correct one now

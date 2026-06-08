@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg; Malin Larsson; Niklas Lundbäck; Adam Deblén
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com
+
+
+The purpose of this proposal is to create one shared version of the truth, remove data silos, and reduce friction between departments by enabling consistent, transparent access to the same data.

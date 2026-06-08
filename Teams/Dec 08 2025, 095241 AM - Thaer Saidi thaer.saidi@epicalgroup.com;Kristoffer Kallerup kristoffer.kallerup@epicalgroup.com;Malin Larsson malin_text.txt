@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi; Kristoffer Kallerup
+	Recipients
+	thaer.saidi@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+question: We should decomission all events for HRM in dev and test, has this been planned or is this the first you hear of it?

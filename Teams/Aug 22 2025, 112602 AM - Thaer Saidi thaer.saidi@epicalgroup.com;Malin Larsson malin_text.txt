@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+https://dev.azure.com/NccDevelopment/Development%20and%20IT/_backlogs/backlog/HR%20Core/Stories?System.Tags=HRM&System.WorkItemType=Bug&System.State=Active%2CCompleted%2CEvaluate%2CNew%2COnGoing

@@ -1,0 +1,9 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Malin Larsson; Thaer Saidi; Salih Serdenak; Björn Hackberg
+	Recipients
+	malin.larsson@epicalgroup.com; thaer.saidi@epicalgroup.com; salih.serdenak@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com
+
+
+haha we trying to understand how the storage for schemas and the pipeline to load in the new schemas work. Our own documentation about it does not really help much. We need to improve it.

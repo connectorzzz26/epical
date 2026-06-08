@@ -1,0 +1,12 @@
+From
+	5bbfe16e-a26e-444a-8f7f-74ad39f2e80e@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Du hade något annat use-case för det för fyra veckor sedan som jag inte minns 
+
+
+Powershell skulle inte ha något att göra med keyvault secrets som jag ser det, tänkte snarare om vi uppdaterar vår yaml att ta override params - så kan vi använda devops variabler för värden bl.a.

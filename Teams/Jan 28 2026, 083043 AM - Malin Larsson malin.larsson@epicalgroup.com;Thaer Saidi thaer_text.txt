@@ -1,0 +1,251 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+How to use it:
+
+
+ 
+
+
+# Azure DevOps CSV Template - Quick Guide
+
+
+ 
+
+
+## 📋 Template: azdevops_BLANK_TEMPLATE.csv
+
+
+ 
+
+
+This is a minimal 1-row example showing each work item type.
+
+
+ 
+
+
+---
+
+
+ 
+
+
+## 📊 How to Use This Template
+
+
+ 
+
+
+### The 4 rows show:
+
+1. **Row 1:** Epic (highest level)
+
+2. **Row 2:** Feature (under Epic)
+
+3. **Row 3:** Product Backlog Item (under Feature)
+
+4. **Row 4:** Task (under Product Backlog Item)
+
+
+ 
+
+
+---
+
+
+ 
+
+
+## 🎯 Column Rules
+
+
+ 
+
+
+| Column | What to Put | Example |
+
+|--------|-------------|---------|
+
+| **ID** | Leave empty | (Azure DevOps fills this) |
+
+| **Work Item Type** | Epic, Feature, Product Backlog Item, or Task | Task |
+
+| **Title 1** | Epic name only | "E-commerce Platform" |
+
+| **Title 2** | Feature name only | "Shopping Cart" |
+
+| **Title 3** | PBI/Story name only | "As a shopper I want to add items to cart" |
+
+| **Title 4** | Task name only | "Create Add to Cart button" |
+
+| **Description** | Details for any type | "Build the UI component..." |
+
+| **Effort** | Hours for Epic/Feature/PBI | 240 |
+
+| **Remaining Work** | Hours for Task only | 16 |
+
+
+ 
+
+
+---
+
+
+ 
+
+
+## 🏗️ The Pattern
+
+
+ 
+
+
+### Epic Row:
+
+- Title 1: ✅ Fill with epic name
+
+- Title 2, 3, 4: ❌ Leave empty
+
+- Effort: ✅ Optional (total hours)
+
+
+ 
+
+
+### Feature Row:
+
+- Title 1: ❌ Empty
+
+- Title 2: ✅ Fill with feature name
+
+- Title 3, 4: ❌ Leave empty
+
+- Effort: ✅ Optional (total hours)
+
+
+ 
+
+
+### Product Backlog Item Row:
+
+- Title 1, 2: ❌ Empty
+
+- Title 3: ✅ Fill with story name
+
+- Title 4: ❌ Empty
+
+- Effort: ✅ Optional (total hours)
+
+
+ 
+
+
+### Task Row:
+
+- Title 1, 2, 3: ❌ Empty
+
+- Title 4: ✅ Fill with task name
+
+- Remaining Work: ✅ Required (hours)
+
+
+ 
+
+
+---
+
+
+ 
+
+
+## ✅ Quick Example
+
+
+ 
+
+
+```csv
+
+ID,Work Item Type,Title 1,Title 2,Title 3,Title 4,Description,Effort,Remaining Work
+
+,Epic,Build Website,,,,New company website,400,
+
+,Feature,,Homepage,,,Landing page with hero section,80,
+
+,Product Backlog Item,,,As a visitor I want to see the hero banner,,Show value proposition,40,
+
+,Task,,,,Design hero banner,Create mockup in Figma,,8
+
+,Task,,,,Implement hero banner HTML/CSS,Code the banner component,,16
+
+,Task,,,,Add hero banner images,Optimize and upload images,,8
+
+,Task,,,,Test responsive design,Test on mobile/tablet/desktop,,8
+
+```
+
+
+ 
+
+
+---
+
+
+ 
+
+
+## 🎯 To Create Your Own:
+
+
+ 
+
+
+1. Download the blank template
+
+2. Copy the 4 rows for each hierarchy you need
+
+3. Fill in your own titles and descriptions
+
+4. Add hours to Effort (Epic/Feature/PBI) or Remaining Work (Task)
+
+5. Import to Azure DevOps: **Boards** → **Queries** → **Import work items**
+
+
+ 
+
+
+---
+
+
+ 
+
+
+## 💡 Remember:
+
+
+ 
+
+
+- Epic goes in Title 1
+
+- Feature goes in Title 2
+
+- Product Backlog Item goes in Title 3
+
+- Task goes in Title 4
+
+- Only Tasks need "Remaining Work"
+
+- Everything else is optional
+
+
+ 
+
+
+That's it! Simple template, ready to customize.

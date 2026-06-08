@@ -1,0 +1,10 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo; Kristoffer Kallerup
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+Hi, we now want the RAMP to set the sessionId to the physicalperson id (instead of using the hardcoded value
+THERECANBEONLYONE)

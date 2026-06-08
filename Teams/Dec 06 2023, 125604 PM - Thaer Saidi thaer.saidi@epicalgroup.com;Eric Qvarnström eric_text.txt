@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Christmas parties close to Prod deployments. That's a high risk mission

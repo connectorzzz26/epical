@@ -1,0 +1,10 @@
+From
+	Björn Hackberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Karam Haroun , säg at det ska testas när de godkänt det ordinarie eventflödet som används av initial load. Det tester vill vi själva köra i Dev innan det gemensamma testet körs
+ i UAT

@@ -1,0 +1,25 @@
+13/01/2026
+1
+Initiative name: AI-Driven DataOps Optimization
+Track: Delivery innovation
+Problem statement: Data and integration delivery is slowed by manual work, late issue detection, rising costs, and missing documentation, creating operational and support risk.
+Who benefits: Delivery teams, support teams, business users, security, and management.
+Proposed approach (high level): Apply AI within DataOps to assist testing, monitoring, security, cost control, documentation, and analytics.
+What changes in practice: Earlier testing, faster issue resolution, clearer documentation, lower costs, and reduced dependency on individuals.
+Dependencies (data, systems, people, approvals): Existing data platforms, DataOps team involvement, and security approval.
+Risks / open questions: Building trust in AI outputs and defining clear ownership.
+What success looks like (measurable): Faster delivery, fewer incidents, lower costs, faster onboarding, higher data trust.
+Resources needed (time, tools, external help): DataOps capacity, AI tooling, setup time, limited specialist support.
+
+
+©grow. for epical
+
+We are proposing AI-driven DataOps to fix real delivery and operational problems.
+Today, we test too late, troubleshoot manually, pay for unused compute, and depend on key individuals.
+AI helps us test earlier, explain failures faster, protect sensitive data, control cloud cost, and keep documentation up to date.
+The result is faster delivery, lower risk, and systems that are easier to operate long-term.
+1
+
+image1.png
+=====docProps/thumbnail.jpeg=====
+/docProps/thumbnail.jpeg

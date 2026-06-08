@@ -1,0 +1,11 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I think the problem we have on DKM is due to if they, for ex register wrong in PP, in this case there was no FinancialOrganizationUnit in JobAssignment. This is mandatory for DKM, but it was corrected by a new JobAssignment object that was set as acitve
+ and the old was then not active. Problem was that, because one of the JobAssignment object still hasn't FinancialOrganizationUnit , the schema validation failed but DKM only used the new object? So in the overall set up, old "not valid" objects will still
+ be in eventet and causing various problems

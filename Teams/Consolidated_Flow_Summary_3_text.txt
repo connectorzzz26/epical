@@ -1,0 +1,104 @@
+HRM Flows
+	Flow Name	Trigger Event	Primary Entity	Purpose	Key Enrichments	Processing Type	Retry/Logging
+	Compensation	Compensation 2.0	Employee2409	Update salary and compensation info in HRM	Company, BankAccount, Identity2409, Position2411	Logic Apps	Yes
+	EmployeeHired	EmployeeHired	Employee2409	Create new employment record in HRM	Person, Employment, Manager, User	Azure Functions	Yes
+	EmployeeRehired	EmployeeRehired	Employee2409	Re-create employment record for rehired employee	Same as EmployeeHired	Azure Functions	Yes
+	EmploymentTerminated	EmploymentTerminated	Employee2409	Terminate employment in HRM	Employment Info	Azure Functions	Standard Function Retry
+	Employee2409CurrentlyEffective	Employee2409CurrentlyEffective	Employee2409	Update employee data snapshot in HRM	Employment Details	Logic Apps	Standard Logging
+	Employee2409WithBankAccountCurrentlyEffective	Employee2409WithBankAccountCurrentlyEffective	Employee2409	Update bank and salary details in HRM	BankAccount	Logic Apps	Yes
+
+_x000D_&1#&"Calibri"&12&K000000 Internal	
+
+
+IFS Event Flows
+	Flow	Event	Trigger Type	Core Step	Notes
+	Publish-Cost-Center	CostCenter	Service Bus	Receive → Transform → Send	Enrich with 8 Global IDs; 2 API calls; standard ramp setup
+	Publish-Payment-Recipient (On Hold)	PaymentRecipient	Service Bus (Planned)	Receive → Transform → Send	Similar to CostCenter; reuses ramp infra; status on hold
+	Publish-Project-Account	ProjectAccount	Service Bus	Receive → Transform → Send	3 API calls, 6+ enrichments, standard transformation steps
+	Publish-Project-Account-Activity	ProjectAccountActivity	Service Bus	Receive → Transform → Send	3 API calls; enrich 3 Global IDs; follows standard pattern
+	Publish-Project-SubAccount	ProjectSubAccount	Service Bus	Receive → Transform → Send	3 Global ID enrichments; reuses shared ramp components
+	Publish-Various-IFS-RefData	Various RefData	Service Bus	Receive → GlobalId Lookup → Generic Transform → Send	Handles multiple refdata types dynamically in shared logic
+	IFS-GLTransactions-File-Transfer	GLTransactions (File-Based)	File Polling	Pick File → Drop File → Log	Every 15 min; pick-and-drop file transfer logic
+	IFS-Nomentia-Payments	Nomentia Payments	File-Based (SFTP)	Transfer via SFTP	SFTP with credentials; basic file-based transfer
+
+_x000D_&1#&"Calibri"&12&K000000 Internal	
+
+
+IFS File Transfers
+	Flow	Process Type	Trigger	Polling Frequency	Notes
+	IFS-Nomentia-Payments	File Transfer	Pick from IFS → Drop to Nomentia	Every 15 minutes	SFTP integration; used for payment file transfer to bank via Nomentia
+	IFS-Nomentia-CashForecast	File Transfer	Weekly: AR/AP Open Balances	Every 15 minutes	Transfers open balance reports from IFS to Nomentia
+	BTX-IFS-SupplierInvoice	File Transfer	Pick Finvoice XML from BTX → Drop to NCC SFTP	Every 15 minutes	CGI-managed service; handles invoices from suppliers to IFS
+	IT2-IFS-CurrencyRates	File Transfer	Pick currency rate files from IT2 → Drop to IFS	Every 15 minutes	Handles 4 quote currencies (SEK, EUR, DKK, NOK); basic auth
+
+_x000D_&1#&"Calibri"&12&K000000 Internal	
+
+
+Unit4 Subscriptions
+	Flow	Event Type	Status	Trigger Type	Core Step	Notes
+	Subscribe-Compensation	Compensation	Active	Service Bus Subscription	Receive → Enrich → Transform → Send	Handles historical, current, future compensation events for NO; filters on country code
+	Subscribe-Employee2409	Employee2409 (Current/Future)	Active	Service Bus Subscription	Receive → Enrich → Transform → Send	Delivers employee data for NO; filters based on employment
+	Subscribe-Employee2409CurrentlyEffective	Employee2409CurrentlyEffective	Deprecated	Service Bus Subscription	Receive → Enrich → Transform → Send	Deprecated snapshot feed for employee status; replaced by newer model
+	Subscribe-Employee2409WithBankAccount	Employee2409WithBankAccount (Current/Future)	Active	Service Bus Subscription	Receive → Enrich → Transform → Send	Handles bank info for payroll in NO
+	Subscribe-Employee2409WithBankAccountCurrentlyEffective	Employee2409WithBankAccountCurrentlyEffective	Deprecated	Service Bus Subscription	Receive → Enrich → Transform → Send	Deprecated; current/future version used instead
+	Subscribe-Identity2409	Identity2409	Active	Service Bus Subscription	Receive → Enrich → Transform → Send	Identity details for employees; connected to Unit4
+	Subscribe-PhysicalPerson2409	PhysicalPerson2409	Deprecated	Service Bus Subscription	Receive → Enrich → Transform → Send	Deprecated; replaced by Identity2409 and Employee2409
+
+_x000D_&1#&"Calibri"&12&K000000 Internal	
+
+
+SuccessFactor
+	Flow	Event Type	Status	Trigger	Data Scope	Notes
+	Publish-Compensation	Compensation	Active	SuccessFactors	All data (historical, current, future)	Canonical event sent to ramps; logic TBD
+	Publish-CompensationCurrentlyEffective	CompensationCurrentlyEffective	Active	SuccessFactors	Only currently effective data	Published every time effective date gets valid
+	Publish-Employee2409	Employee2409	Active	SuccessFactors	All data via compound API	Core employee data from SF
+	Publish-Employee2409CurrentlyEffective	Employee2409CurrentlyEffective	Active	SuccessFactors	Only currently effective data	Sent when effective date is reached
+	Publish-Employee2409WithBankAccount	Employee2409WithBankAccount	Active	SuccessFactors MicroService	All future/current bank info	Used for payroll; canonical publish planned
+	Publish-Employee2409WithBankAccountCurrentlyEffective	Employee2409WithBankAccountCurrentlyEffective	Active	SuccessFactors	Only currently effective data	Filtered, effective only; published on change
+	Publish-EmployeeHired	EmployeeHired	Active	PeoplePortal Adapter	New hires	Near-canonical format, enriched with DF & GlobalId
+	Publish-EmployeeRehired	EmployeeRehired	Active	PeoplePortal Adapter	Rehires	Application business event; same logic as hired
+	Publish-EmployeeStatus	EmployeeStatus	Active	Recurring Logic App	Workplace info deltas	Not maintained by SF in the long term
+	Publish-EmploymentTerminated	EmploymentTerminated	Active	SuccessFactors	Single canonical event from compound API	One-time event to notify termination; no DF subscribe
+	Publish-EmploymentTerminationReason2409	EmploymentTerminationReason2409	Active	Polling (Logic App)	Deltas via polling	Mimer is the only consumer
+	Publish-EmploymentType2409	EmploymentType2409	Active	Polling (Logic App)	Deltas via polling	Non-event-based publishing; sent to Mimer
+	Publish-FunctionalArea	FunctionalArea	Active	Polling (Logic App)	JobFunction mapping from SF	Used in JobCluster event
+	Publish-Job	Job	Active	Polling (Logic App)	Depends on JobCluster & FunctionalArea	Included in Job Catalog
+	Publish-JobCluster	JobCluster	Active	Polling (Logic App)	Workplace data	Used in Job events
+	Publish-OrganizationalUnit2409	OrganizationalUnit2409	Active	Polling (Logic App)	Current and future org unit updates	Includes effective dated logic
+	Publish-OrganizationalUnit2409CurrentlyEffective	OrganizationalUnit2409CurrentlyEffective	Active	Polling on effective date	Only currently effective unit	No historic or future states
+	Publish-PhysicalPersonRequest	PhysicalPersonRequest	Active	MicroService	Requested by PeoplePortal/UnAM	Precedes HiredEmployee event
+	Publish-PhysicalPersonUpdated	PhysicalPersonUpdated	Active	MicroService	Same as PhysicalPersonRequest + GlobalId	Used for updates
+	Publish-Position2411CurrentlyEffective	Position2411CurrentlyEffective	Active	Polling Workflow	Effective state only	Only publishes current state; design based on option 4 for simplification
+	Publish-Workplace	Workplace	Active	Recurring Logic App	All states (past, current, future)	Preprocessing step required to trigger publish
+	Publish-WorkplaceCurrentlyEffective	WorkplaceCurrentlyEffective	Active	Recurring Logic App	Currently effective only	Preprocessed from SuccessFactors
+	Subscribe-FinancialActivity	FinancialActivity	Active	Service Bus Subscription	Filtered by activities in SuccessFactors	Dependent on FinancialOrganizationUnit
+	Subscribe-FinancialOrganizationUnit	FinancialOrganizationUnit	Active	Service Bus Subscription	Only level 8 cost centers in SF companies	Replaces old OrganizationUnit
+	Subscribe-Identity2409	Identity2409	Active	Service Bus Subscription	Onboardee and Employee updates	Updates username/business email based on onboarding module
+	Subscribe-PhysicalPersonRegistered	PhysicalPersonRegistered	Active	Service Bus Subscription	Response to PhysicalPersonRequest	Required for creating HiredEmployee event
+
+_x000D_&1#&"Calibri"&12&K000000 Internal	
+
+
+ServiceNow
+	Flow	Event Type	Status	Trigger	Data Scope	Notes
+	Publish-Application	Application	Active	ServiceNow Ramp	Applications in ServiceNow	Publishes app info using Logic Apps
+	Publish-ApplicationRole	ApplicationRole	Active	ServiceNow Ramp	Roles related to Applications	Uses GlobalID lookup
+	Publish-Identity2409	Identity2409	Active	ServiceNow Ramp	Identity info for physical persons	Missing refdata for NationalIdentityType
+	Publish-PhysicalPerson2409	PhysicalPerson2409	Active	ServiceNow Ramp	Physical person details	Shared between UnAM and Identity flows
+	Publish-PhysicalPersonRegistered	PhysicalPersonRegistered	Active	ServiceNow Ramp	Registered people info	Uses draw.io documented API flow
+	Subscribe-AccessRequest	AccessRequest	Active	Service Bus	Only CREATE operations	Used by ClearSky via ServiceNow
+	Subscribe-Company	Company	Active	Service Bus	GR-mastered company data	Includes initial load support
+	Subscribe-Employee2409CurrentlyEffective	Employee2409	Active	Service Bus	Currently effective employees	UnAM is master; from SF
+	Subscribe-EmployeeHired	HiredEmployee2409	Active	Service Bus	Create operations for new employees	Triggers creation in ServiceNow
+	Subscribe-NCCCompany	NCCCompany	Active	Service Bus	Subset of Company (GR mastered)	Used in ServiceNow ramp; requires APIM key
+	Subscribe-OrganizationalUnit2409	OrganizationalUnit2409	Deprecated	Service Bus	All org units from SF	Replaced by 'CurrentlyEffective' variant
+	Subscribe-OrganizationalUnit2409CurrentlyEffective	OrganizationalUnit2409CurrentlyEffective	Active	Service Bus	Current state only	Renamed for clarity, same data as old
+	Subscribe-PhysicalPersonRequest	PhysicalPersonRequest	Active	Service Bus	Person creation requests	Triggers PhysicalPersonRegistered event
+	Subscribe-PhysicalPersonUpdated	PhysicalPersonUpdated	Active	Service Bus	Physical person updates	Updates trigger PhysicalPerson2409 publish
+	Subscribe-Position2411	Position2411	Active	Service Bus	Position data from SF	UnAM system uses this via ServiceNow ramp
+	Subscribe-Project	Project	Active	Service Bus	Project creation and updates	Linked to UAM and ClearSky
+	Subscribe-ProjectRole	ProjectRole	Active	Service Bus	Roles within projects	Supports assignment logic
+	Subscribe-Site	Site	Active	Service Bus	Site definitions	Used by ServiceNow/UAM
+	Subscribe-WorkplaceCurrentlyEffective	Workplace	Active	Service Bus	Currently effective workplaces	Filtered for ServiceNow use
+
+_x000D_&1#&"Calibri"&12&K000000 Internal

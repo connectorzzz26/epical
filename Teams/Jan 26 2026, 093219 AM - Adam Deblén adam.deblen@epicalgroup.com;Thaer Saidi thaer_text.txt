@@ -1,0 +1,13 @@
+From
+	Thaer Saidi
+	To
+	Adam Deblén
+	Recipients
+	adam.deblen@epicalgroup.com
+
+
+Here is the Corp ramp for reference
+
+
+rg-coolpro-inbound-test
+ - Microsoft Azure

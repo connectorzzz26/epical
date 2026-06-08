@@ -1,0 +1,222 @@
+From
+	Wael Abdullah
+	To
+	Sjödén Oscar (Ext); Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Rachid Ferenay; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	oscar.sjoden@ncc.se; zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; rachid.ferenay@hrmsoftware.se; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+
+{
+
+
+      "companyId": 
+"4005",
+
+
+      "startDate": 
+"2025-05-16",
+
+
+      "endDate": 
+null,
+
+
+      "agreementId": 
+20,
+
+
+      "employmentForm": 
+"EMPTEMP",
+
+
+      "employmentDegree": 
+1,
+
+
+      "fullTimeSalary": 
+0,
+
+
+      "hourSalary": 
+null,
+
+
+      "timeReportAgreementId": 
+20400520100580,
+
+
+      "salaryReportAgreementId": 
+1,
+
+
+      "timeEvaluationAgreementId": 
+2,
+
+
+      "scheduleId": 
+12,
+
+
+      "fullWeekTime": 
+40,
+
+
+      "weekWorkTime": 
+40,
+
+
+      "workDaysPerWeek": 
+null,
+
+
+      "endReason": 
+null,
+
+
+      "workPlace": 
+"296",
+
+
+      "organizationId": 
+"2048",
+
+
+      "post": "20100580",
+
+
+      "position": 
+null,
+
+
+      "managerId": 
+"753",
+
+
+      "holidayAgreementId": 
+1,
+
+
+      "holidaysDaysRight": 
+28,
+
+
+      "category": 
+"MONTHLY",
+
+
+      "salaryForm": 
+"MON",
+
+
+      "function": 
+null,
+
+
+      "overTimeBlock": 
+true,
+
+
+      "travelTimeBlock": 
+null,
+
+
+      "obTimeBlock": 
+null,
+
+
+      "experienceAmount": 
+2,
+
+
+      "accounts": [
+
+
+        {
+
+
+          "mainAccount": 
+true,
+
+
+          "percent": 
+100,
+
+
+          "accountValues": [
+
+
+            {
+
+
+              "id": 
+2,
+
+
+              "account": 
+"14003473"
+
+
+            },
+
+
+            {
+
+
+              "id": 
+9,
+
+
+              "account": 
+"1"
+
+
+            },
+
+
+            {
+
+
+              "id": 
+10,
+
+
+              "account": 
+"1122"
+
+
+            }
+
+
+          ]
+
+
+        }
+
+
+      ],
+
+
+      "actorsAsPerson": [],
+
+
+      "actors": [
+
+
+        {
+
+
+          "personId": 
+"211",
+
+
+          "actorId": 
+"692475a"
+
+
+        }
+
+
+      ]
+
+
+    }

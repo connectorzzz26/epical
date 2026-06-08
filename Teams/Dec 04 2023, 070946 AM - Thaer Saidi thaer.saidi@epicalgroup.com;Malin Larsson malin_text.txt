@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Just noticed that Kajsa has opened upp the column "resolved" for us, so if something is resolved, but not ready for closure we can use the resolved column to show progress.

@@ -1,0 +1,10 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Okej. Ja vi behöver ju förbereda prodsättningen också, med vissa grejer som behöver gå via Service Desk som vi pratade om på mötet igår och de har väl 24h SLA, så då borde vi nog få till ett möte idag/imorgon och gå igenom allt vi behöver göra för respektive
+ Ramp om vi ska hinna vara redo från vår sida.

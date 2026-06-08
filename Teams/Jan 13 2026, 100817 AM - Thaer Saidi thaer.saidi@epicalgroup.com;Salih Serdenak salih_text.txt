@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+i noticed that i hadn't added v2 triggers/sb-complete v2 to them, so maybe i can do that now when i have little to do

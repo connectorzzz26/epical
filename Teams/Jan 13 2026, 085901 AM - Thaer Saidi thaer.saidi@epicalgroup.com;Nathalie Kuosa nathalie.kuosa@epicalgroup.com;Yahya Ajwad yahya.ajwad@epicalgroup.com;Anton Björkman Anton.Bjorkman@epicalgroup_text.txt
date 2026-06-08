@@ -1,0 +1,9 @@
+From
+	Tom Lehane
+	To
+	Thaer Saidi; Nathalie Kuosa; Yahya Ajwad; Anton Björkman; Christoffer Andersson; Berhan Karagöz; Omid Manai; Jenny Lenhammar; Adam Fredholm; Fredric Travaglia; Marko Ikäheimo; Ari-Pekka Dufva; Jenna Munk Hemberg; Magnus Strömer; Magnus Fälth; Märit Sareyko
+	Recipients
+	thaer.saidi@epicalgroup.com; nathalie.kuosa@epicalgroup.com; yahya.ajwad@epicalgroup.com; Anton.Bjorkman@epicalgroup.com; christoffer.andersson@epicalgroup.com; berhan.karagoz@epicalgroup.com; omid.manai@epicalgroup.com; jenny.lenhammar@epicalgroup.com; adam.fredholm@epicalgroup.com; fredric.travaglia@epicalgroup.com; marko.ikaheimo@epicalgroup.com; ari-pekka.dufva@epicalgroup.com; jenna.munkhemberg@epicalgroup.com; magnus.stromer@epicalgroup.com; magnus.falth@epicalgroup.com; marit.sareyko@epicalgroup.com
+
+
+{\"scopeId\":\"9267925c-1b3c-4881-8cd2-c993e9a3da64\",\"storageId\":\"22b81e6a-84c4-4a50-a109-6f3902a73106@f0f294b8-404d-442a-aa32-15f390295a6a\",\"callId\":\"9267925c-1b3c-4881-8cd2-c993e9a3da64\",\"iCalUid\":\"040000008200E00074C5B7101A82E0080000000074EFD361A369DC01000000000000000010000000EA4C819C113EAD469F4A2AD097AF9C54\",\"exchangeId\":\"\",\"meetingTenantId\":\"f0f294b8-404d-442a-aa32-15f390295a6a\",\"modernGroupId\":null,\"meetingOrganizerId\":\"8:orgid:22b81e6a-84c4-4a50-a109-6f3902a73106\",\"isDeleted\":false,\"originatorParticipantId\":\"27554ab0-bb33-4548-8544-a660222d2c71\",\"isExportedToOdsp\":true}

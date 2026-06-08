@@ -1,0 +1,9 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi; Wael Abdullah
+	Recipients
+	thaer.saidi@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+Just only a detail, but drag the pink box all the way down over the new logic app, just to indicate the new app is in the shared space. And give it a name to. logic-ppglobalId-shared-[env] or something

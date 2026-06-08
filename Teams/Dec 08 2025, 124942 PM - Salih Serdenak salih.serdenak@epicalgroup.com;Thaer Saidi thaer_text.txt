@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+
+
+
+We need to remove that ensure subnet
+
+
+0-cse-d3-7177235a132720b6dde52f71e6caa570

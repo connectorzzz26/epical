@@ -1,0 +1,18 @@
+Call (Complete)/Thread Id: /Communication Id: d10bc242-d549-4c03-83ce-1da24fc2aabb/Nikola Bijelic,Thaer Saidi
+
+Call (Complete)/Thread Id: /Communication Id: d10bc242-d549-4c03-83ce-1da24fc2aabb/Nikola Bijelic,Thaer Saidi
+	From
+	Nikola Bijelic
+	To
+	Nikola Bijelic; Thaer Saidi
+	Recipients
+	nikola.bijelic@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+Start Time (UTC): 1/9/2026 9:44:37 AM
+End Time (UTC): 1/9/2026 10:14:49 AM
+Duration: 00:30:12.1770506
+
+[1/9/2026 9:44:37 AM (UTC)] nikola.bijelic@epicalgroup.com joined.
+[1/9/2026 10:14:49 AM (UTC)] nikola.bijelic@epicalgroup.com left.
+[1/9/2026 9:44:37 AM (UTC)] thaer.saidi@epicalgroup.com joined.
+[1/9/2026 10:14:49 AM (UTC)] thaer.saidi@epicalgroup.com left.

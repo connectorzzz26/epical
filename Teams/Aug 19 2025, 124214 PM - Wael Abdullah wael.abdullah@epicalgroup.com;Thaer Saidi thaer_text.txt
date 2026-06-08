@@ -1,0 +1,22 @@
+From
+	Thaer Saidi
+	To
+	Wael Abdullah
+	Recipients
+	wael.abdullah@epicalgroup.com
+
+
+
+
+Wael Abdullah 
+
+
+regarding employee currently effective .... it is the same mapping for employee hired but with little differences , so my opinion is to keep it in a separate mapping file   We need also to review…
+
+
+
+
+
+Yes sure
+
+We make sure we have all points covered for employeeHired and then we move to the other events

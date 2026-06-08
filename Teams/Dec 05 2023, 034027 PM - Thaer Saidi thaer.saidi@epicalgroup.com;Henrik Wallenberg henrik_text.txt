@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Lets request it for prod also for now in my opinion, we don't have anyone involved in this from the CDS Side so I think it would be a mess guiding someone doing that at this point

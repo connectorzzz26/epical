@@ -1,0 +1,9 @@
+From
+	fe5bd309-d7ae-4afd-8dbb-a9c9da681fd7@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Jag har fått en invite till ett project service test möte, där vi även ska testa dam. Har vi någon plan om hur vi ska testa project service och vad vi behöver ha med för folk på det mötet? Just nu är det jag och Jens som är inbjudna till det

@@ -1,0 +1,24 @@
+From
+	Thaer Saidi
+	To
+	Christer Nordlander
+	Recipients
+	christer.nordlander@epicalgroup.com
+
+
+Hey Christer
+
+I hope everything is going good 😊 
+
+
+
+I thing we have some issue related to Digital trust for our customer NCC, that I already raised on multiple occasions but it feels like the integration team wants it to still be contained within our team even though we don’t have the skills to deal with such
+ issues.
+
+
+
+I need some advice from you, knowing your experience and all, on how I can deal with such a dilemma 😅
+
+
+
+FYI: I couldn’t even sleep last night knowing that we might give the ok to go to production today.

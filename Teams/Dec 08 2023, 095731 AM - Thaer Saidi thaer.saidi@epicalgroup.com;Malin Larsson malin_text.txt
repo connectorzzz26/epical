@@ -1,0 +1,18 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+tjo, en fråga från Daniel som jag inte kan svara på men mycket väl kan skapa en feature på som de är välkomna att prioritera i sånt fall: 
+
+
+Jag har en önskan om en funktion, som kanske redan finns.
+
+
+Jag skulle vilja få konfigurationsinformation exporterad från vår integrationsbuss vilka system som konsumerar och vilka system som producerar vilka event. Finns det något sätt att få tag i den informationen från integrationsplattformen?
+
+
+Syftet med informationen är att importera den in i Sparx igen och därför alltid ha en up-to-date relation mellan våra system och våra events.

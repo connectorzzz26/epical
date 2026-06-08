@@ -1,0 +1,20 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+Just double checking - we're supposed to use the https endpoint for APIM in our templates we're setting up now, right? For Dev, Test and Prod? 🙂
+
+
+
+
+
+We will not go live with the http way so I would say yes

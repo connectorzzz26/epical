@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+När vi skickar från MBB till SB på Online Ramp, vad är det för säkerhet vi kör utöver DNS-whitelisting? managed identity + RBAC?

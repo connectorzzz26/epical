@@ -1,0 +1,23 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+Bug 156213: ContractEnddate is not updated in HRM for temp employees now mapping available Bug 155851: Gender not updating correct now mapping is available Did you implement those too ?
+
+
+
+
+
+First one it was not a bug " something like a change he wants to discuss "
+
+
+ 
+
+
+Second one no ! it was a change also and we just wait until the mapping sheet updated .... it was updated yes

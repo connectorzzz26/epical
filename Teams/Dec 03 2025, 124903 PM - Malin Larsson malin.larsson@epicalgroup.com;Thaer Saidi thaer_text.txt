@@ -1,0 +1,17 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+
+Malin Larsson
+But I wanted also to check if you have made any kind of plan for HRM Decomission of events that we should remove from test.
+
+
+
+
+
+Yes kind of, I wrote some comments in the AzDevOps user story and created subtasks, something simple

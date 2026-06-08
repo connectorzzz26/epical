@@ -1,0 +1,20 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Eric Qvarnström
+Har någon stött på detta förut? APIet som jag anropar tar emot flera query parametrar med samma KEY. När jag gör detta i den Swagger som jag blivit given så ser anropet ut såhär: https://ncc-dc.digizuite.app/digizuitecore/legacyservice/api/assets/201?MetaFieldItemGuids=7e6fcd79-7c79-495d-8c92-9a2…
+
+
+
+
+
+Har inte stött på just det, men har du testat att editera i code och spara därifrån? Ibland kan man "hacka" designern den vägen

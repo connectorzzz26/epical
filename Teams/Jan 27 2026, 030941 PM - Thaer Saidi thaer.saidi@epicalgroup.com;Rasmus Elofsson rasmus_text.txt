@@ -1,0 +1,40 @@
+From
+	Rasmus Elofsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Now both EmpStatus and HomeAddress is populated.
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+{
+  "Employees": [
+    {
+      "EmployeeId": "1003267",
+      "Surname": "Ängström",
+      "Firstname": "Åsa",
+      "GradeDescription": "Ferie Worker - BC",
+      "StatusDescription": "NCC Employee",
+      "NationalId": "",
+      "CostCenter": "11001700",
+      "DateOfBirth": "1995-05-06",
+      "EntryIntoService": "",
+      "AppointedToGrade": "2025-12-01",
+      "Delete": "false",
+      "EmpStatus": "1001578",
+      "HomeAddress": "margareta.tjader@ncc.se"
+    }
+  ]
+}

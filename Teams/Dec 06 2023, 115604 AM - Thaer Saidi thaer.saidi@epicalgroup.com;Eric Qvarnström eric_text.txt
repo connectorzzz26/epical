@@ -1,0 +1,21 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+I asked during the NCC-days a few months back which ones we should use as default, and NCC were going to look into it and get back to us. Don't know what's happened after that
+
+
+
+
+
+I took the task and involved Kajsa, 
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_sprints/taskboard/NCC%20Integration%20Development%20Team/Cmn-Integration/IDT%20-%202023.Q4.5?workitem=72297, but never got a final answer on that

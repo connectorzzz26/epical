@@ -1,0 +1,9 @@
+From
+	Robin Porsemo
+	To
+	Emil Fridell; Thaer Saidi
+	Recipients
+	emil.fridell@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Pushed some changes to feature/update-hrm-docs

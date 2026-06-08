@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+https://portal.azure.com/#@ncconline.onmicrosoft.com/resource/subscriptions/2e5d2617-4127-411e-b1ff-5139b43662c6/resourceGroups/rg-dev-cmn-nci-apim/providers/Microsoft.ApiManagement/service/apim-dev-cmn-nci/apim-apis

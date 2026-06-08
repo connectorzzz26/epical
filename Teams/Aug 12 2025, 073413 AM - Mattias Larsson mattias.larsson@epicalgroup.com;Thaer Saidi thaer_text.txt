@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Mattias Larsson
+	Recipients
+	mattias.larsson@epicalgroup.com
+
+
+Why I can't see the code in the repo ?
+
+
+Who created the mapping file for you ?
+
+
+Why does he call the event hiredEmployee and not the reverse like it should employeeHired ?

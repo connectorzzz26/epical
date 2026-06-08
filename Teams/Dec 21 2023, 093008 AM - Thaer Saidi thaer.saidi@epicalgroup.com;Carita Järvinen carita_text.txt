@@ -1,0 +1,22 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Eric Qvarnström
+Är nog jag som är skyldig till shared i Key Vault och Service Bus 🙂 Tror att jag satte det på RefData just för att det var en shared resurs.
+
+
+
+
+
+tar delat ansvar 
+ Vi
+ pratade om att det var delade resurser och bra att vara tydlig med det att de tillhör rampen och inte eventet

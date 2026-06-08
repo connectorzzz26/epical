@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Malin Larsson; Thaer Saidi
+	Recipients
+	malin.larsson@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+we have a lot of events failed in wf-DeliveryNote-PurchaseDelivery-Send flow I think 36 of them were sent today

@@ -1,0 +1,17 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Henrik Wallenberg
+Det låter bra, och som en viss säkerhetsrisk som jag är förvånad över att dom vill köra 😄
+
+
+
+
+
+Vi kommer fortfarande behöva en appreg som vi använder för autentisering mot API, så en sådan "systemanvändare" behöver vi fundera på

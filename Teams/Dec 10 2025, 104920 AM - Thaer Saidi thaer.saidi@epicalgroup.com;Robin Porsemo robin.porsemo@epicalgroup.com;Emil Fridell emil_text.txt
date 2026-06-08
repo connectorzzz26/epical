@@ -1,0 +1,10 @@
+From
+	Emil Fridell
+	To
+	Thaer Saidi; Robin Porsemo
+	Recipients
+	thaer.saidi@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+it is doc as code, repo is here 
+Shared.Docs - Repos

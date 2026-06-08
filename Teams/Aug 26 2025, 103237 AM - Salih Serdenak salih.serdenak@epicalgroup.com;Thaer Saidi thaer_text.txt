@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+I wasn't aware when I did the design as they told me that it will be similar to v2 and I didn't check the implementation, only the docs

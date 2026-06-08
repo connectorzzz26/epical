@@ -1,0 +1,45 @@
+From
+	Wael Abdullah
+	To
+	Peter Ekeros; Björn Hackberg; Sebastian Pettersson; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Salih Serdenak; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; sebastian.pettersson@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; salih.serdenak@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+On the same topic ... the max throughput 
+
+
+
+Jens Hedin
+false alarm 🙂.. working now 👍
+
+
+
+
+
+Not false ... I think I know the reason ....we have a problem in one of events when it doing enrichment:
+
+
+ 
+
+
+Only one usage of each socket address (protocol/network address/port) is normally permitted. (cosno-datafoundation-test.documents.azure.com:443)
+
+
+ 
+
+
+So I checked the CosmosDb testing throughput and I found it is 400 so I thought to increase it a little bit and see if that would solve the problem, and yes that solved the problem so I reverted back to 400 until I ask you and it seems it went down in the
+ moment when I clicked save
+
+
+ 
+
+
+
+
+
+ 
+
+
+0-cse-d4-ff95a2f7b8eb13a32a93476e2be8a83c

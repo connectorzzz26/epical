@@ -1,0 +1,9 @@
+From
+	Robin Porsemo
+	To
+	Emil Fridell; Thaer Saidi
+	Recipients
+	emil.fridell@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Ah. Ok, requirements/risk handling will be handled by  Björn Hackberg I guess.

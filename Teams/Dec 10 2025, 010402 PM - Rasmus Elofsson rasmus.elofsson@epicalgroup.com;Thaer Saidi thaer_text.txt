@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Rasmus Elofsson
+	Recipients
+	rasmus.elofsson@epicalgroup.com
+
+
+Also I was reviewing Synergi implementation and I'm wondering why are you adding those 2 empty fields ?
+
+
+
+
+
+0-sse-d4-cdb8120b3dcce35a605578263df1ea42

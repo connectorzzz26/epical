@@ -1,0 +1,144 @@
+Fw: Strategic Assessment, GDPR Article 15 Request, and DataOps Growth Opportunity
+
+Fw: Strategic Assessment, GDPR Article 15 Request, and DataOps Growth Opportunity
+	From
+	Thaer Saidi
+	To
+	Wael Abdullah
+	Recipients
+	wael.abdullah@epicalgroup.com
+
+
+
+FYI Because you are my friend 😉 
+
+
+
+
+
+
+
+// Thaer 
+
+
+
+From: Thaer Saidi
+
+Sent: Tuesday, January 27, 2026 5:58:47 AM
+
+To: Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>
+
+Cc: Nathalie Kuosa <nathalie.kuosa@epicalgroup.com>; Jenna Munk Hemberg <jenna.munkhemberg@epicalgroup.com>; Magnus Strömer <magnus.stromer@epicalgroup.com>
+
+Subject: Strategic Assessment, GDPR Article 15 Request, and DataOps Growth Opportunity
+ 
+
+
+
+
+
+Dear CJ,
+
+
+
+
+
+
+
+I’ve been analysing and assessing potential outcomes following the discussions during the recent AI workshop, particularly around the Copilot for Sales initiative, I have been assessing how we can enable opportunity targeting at scale while maintaining strong
+ data protection and regulatory compliance.
+
+
+
+
+
+
+
+From my work on recent large scale client implementations and discussions with the AI group, it is clear that we are still early in operationalizing GDPR compliance within new AI driven workflows. High performing AI agents require broad and realistic data access,
+ but this must be paired with effective masking, minimization, and governance controls to avoid regulatory exposure.
+
+
+
+
+
+
+
+As part of the DataOps and AI governance capability I am developing, I would like to perform a concrete, real world assessment of our current internal data handling. To establish a clear compliance baseline, I am formally submitting a Data Subject Access Request
+ under Article 15 of the General Data Protection Regulation (GDPR).
+
+
+
+
+
+
+
+I am aware that we currently do not have a dedicated Data Protection Officer. Given that, I suggest this request be coordinated via the CISO function or the most appropriate security and compliance owner.
+
+
+
+
+
+
+
+Specifically, I request a copy of all personal data the company holds relating to me. This includes HR and personnel records, email and internal communications, system logs, audit trails and access records, collaboration platforms, tickets, messaging tools,
+ and any structured or unstructured datasets containing my personal data.
+
+
+
+
+
+
+
+By reviewing my own data subject file, I can directly assess the volume and nature of unstructured data that AI systems would realistically ingest, and identify concrete gaps in masking, retention, and access control. This is critical to ensure that the DataOps
+ proposal I am finalizing is both high performing and fully GDPR compliant.
+
+
+
+
+
+
+
+Beyond internal value, I believe this exercise and its resulting implementation would be a strong candidate to be packaged as an enterprise grade offering. We already have the necessary skillsets distributed across our teams, including AI, DataOps, security,
+ compliance, and delivery, to execute this at scale for large enterprises facing the same challenges.
+
+
+
+
+
+
+
+We have been asked to contribute to growth, and this is one way of doing it right, by turning a real internal compliance and AI challenge into a repeatable and credible offering built on proven internal execution.
+
+
+
+
+
+
+I am confident in these recommendations because they are grounded
+ in direct, hands on experience. In my previous role as an AI Architect at Crayon, now SoftwareOne, I worked with the same class of AI and productivity solutions. Despite strong tooling, the implementation was done in silos by teams, with limited data governance
+ and no end to end DataOps view. The result was poor adoption and weak ROI, not because the technology was lacking, but because it was implemented without proper data, compliance, and operational design. Earlier, at Electrolux, I worked as a Digital Marketing
+ Business Analyst on GDPR compliance, helping implement data protection and consent mechanisms across all consumer facing websites in Europe. In parallel, since 2016, I have led teams building enterprise chatbots connected to internal knowledge bases, ERPs,
+ and operational systems. Across these roles, the recurring pattern is clear: AI succeeds only when data governance, compliance, and architecture are designed together from the start, not bolted on later.
+
+
+
+Please provide the requested data in a structured, commonly used electronic format within the statutory one month timeframe.
+
+
+
+
+
+
+!!!Towards a future we can all trust!!!
+
+
+
+
+
+
+
+
+Best regards,  
+
+
+Thaer Saidi

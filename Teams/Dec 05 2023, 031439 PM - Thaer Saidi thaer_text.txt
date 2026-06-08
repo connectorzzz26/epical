@@ -1,0 +1,12 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Has anyone requested ownership of the CDS-Ramp AppRegistration for Test yet or should I create a ticket? 
+
+
+Also on that note, do we know anything about how accesses are planned for Prod? Are we supposed to have access to create ClientSecrets and set up API Permissions etc as we do in Dev and Test (i.e. should I include the AppReg for Prod in the ticket as well)?

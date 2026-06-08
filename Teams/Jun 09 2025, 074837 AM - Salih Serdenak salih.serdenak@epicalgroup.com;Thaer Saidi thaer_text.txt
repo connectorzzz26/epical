@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+DeliveryNote takes the "original" canonical format (Pascal case) while MasterAricleData propably has their own format in their system that are case sensitive and needs the event in camel case

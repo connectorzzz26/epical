@@ -1,0 +1,21 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+Hey! I wanted to double check that I'm using the correct GlobalIdService URL in Test for CDS so I checked a few of the other shared Logic Apps in Test, and they are using the Dev-endpoint for GlobalIdService. Is that on purpose/something
+ that should be done in CDS as well or could we use the Test-e…
+
+
+
+
+
+Vilka kollade du och som hade fel? Tänkte om jag missat, men försökt vara nogrann

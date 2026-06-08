@@ -1,0 +1,17 @@
+From
+	Rasmus Elofsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+We would need to introduce custom retries/delays for all enrichments on both events -TEM Identity2409 -Synergi Employee2409CurrentlyEffective You can follow the way it was implemented in HRM/Employee2409
+
+
+
+
+
+Yes, in this message

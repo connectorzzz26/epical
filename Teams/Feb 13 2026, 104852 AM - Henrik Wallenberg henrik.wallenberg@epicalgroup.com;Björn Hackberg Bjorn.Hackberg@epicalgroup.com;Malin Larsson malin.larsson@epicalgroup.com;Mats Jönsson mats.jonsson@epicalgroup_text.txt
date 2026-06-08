@@ -1,0 +1,18 @@
+From
+	Omid Manai
+	To
+	Henrik Wallenberg; Björn Hackberg; Malin Larsson; Mats Jönsson; Elisabeth Blom; Thaer Saidi; Peter Ekeros; Nicklas Andersson; Nikola Bijelic; Adam Deblén; Sohail Shaikh
+	Recipients
+	henrik.wallenberg@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; nicklas.andersson@epicalgroup.com; nikola.bijelic@epicalgroup.com; adam.deblen@epicalgroup.com; sohail.shaikh@epicalgroup.com
+
+
+
+Adam Deblén
+Hi guys! Architectural forum today, is there anything you want to bring up? I have one that I know has bubbled up this week, that Juha has decided on - enrichment in subscriber instead of publisher. But do we have anything else we feel
+ like we need to discuss?
+
+
+
+
+
+A quick discussion about having the filtering on datachemaversion for versioned schemas, to set it either in the query filters of MBB or Online subscriptions

@@ -1,0 +1,13 @@
+From
+	Jens Hedin
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Nya api länken verkar inte ha något med swaggerlänken att göra.  Swaggerlänken jag hade var
+
+https://wa-test-cmn-projectservice.ase02.ncc.info/api/v2.1/swagger/index.html men api:et finns under
+
+https://apigatewaydev.ncc.info/projectservice-api-dev/api/v2.2/

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Johan Lindholm  Eliasson
+	Recipients
+	johan.lindholmeliasson@epicalgroup.com
+
+
+So I can ask them for a full event payload to test

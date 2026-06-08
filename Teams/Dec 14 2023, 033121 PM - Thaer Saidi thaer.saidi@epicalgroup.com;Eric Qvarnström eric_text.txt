@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+GlobalID Subscription Keys för Prod ligger i kv-nci-shared-dev. I väntan på att KeyVaults för alla ramper är uppe så behövde jag lägga dom någonstans

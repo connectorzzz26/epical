@@ -1,0 +1,9 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I could also look at logic-deliverynote-supplierunit-outbound-test for inspiration?

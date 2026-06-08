@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+MAd initialload failar kodmässigt, men jag har fixat det, men tänker att jag kör det i samband med att de får upp sin backend, så att de kan ta emot, då körningen tar lång tid

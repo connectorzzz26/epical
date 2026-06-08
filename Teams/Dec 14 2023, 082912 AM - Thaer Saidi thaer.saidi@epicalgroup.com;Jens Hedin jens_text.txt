@@ -1,0 +1,17 @@
+From
+	Jens Hedin
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Sofie Hero
+Kom på att denna eventuellt fallit mellan stolarna. Är det någon som uppdaterat de functions som ska upp i Prod? Annars behöver vi nog få upp dem i Test asap så att vi testar versionen som ska upp i prod sedan.
+
+
+
+
+
+även InitialLoad behöver mergas och deployas.... (projectservice)

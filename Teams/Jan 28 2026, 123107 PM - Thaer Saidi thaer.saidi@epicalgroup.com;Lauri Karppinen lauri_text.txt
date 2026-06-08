@@ -1,0 +1,18 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+ok so we should change for identity like this:
+
+
+Identity2409
+
+var globalID = workflowContext.trigger.outputs.body.contentData.globalbusinessobjectid;
+
+->
+
+var globalID = workflowContext.trigger.outputs.body.contentData.data.Employee.NCCUserID;

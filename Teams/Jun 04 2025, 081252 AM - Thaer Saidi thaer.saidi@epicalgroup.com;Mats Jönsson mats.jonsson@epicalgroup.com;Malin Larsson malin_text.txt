@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi; Mats Jönsson
+	Recipients
+	thaer.saidi@epicalgroup.com; mats.jonsson@epicalgroup.com
+
+
+great. Good to do both pub and sub. first publisher from DK-Middleman

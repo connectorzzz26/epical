@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I got as far as sending in a message to MAD, since the data format changed I picked Supplier.ID as the ID to use vs the MAD side, but I get an 500 error - I am thinking their dev server isnt working properly. Who on their side can I contact?

@@ -1,0 +1,13 @@
+From
+	Thaer Saidi
+	To
+	Peter Ekeros
+	Recipients
+	peter.ekeros@epicalgroup.com
+
+
+Hey Peter
+
+
+
+I think I finalised the design but there was not much to do, it’s almost similar to v1 except 1 field change

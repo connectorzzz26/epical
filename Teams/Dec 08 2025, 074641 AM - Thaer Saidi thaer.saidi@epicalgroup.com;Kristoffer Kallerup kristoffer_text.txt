@@ -1,0 +1,9 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Row 198 in the mapping, FinancialActivity.FinancialOrganizationUnit.InternalCompanyID. are you sure that isn't Required?

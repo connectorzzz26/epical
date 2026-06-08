@@ -1,0 +1,21 @@
+From
+	Henrik Hörnlund
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Malin Larsson in successfactors it's possible to create HireEmployees with missing data that makes
+ the integration fail.
+
+
+Oscar(SA) is driving a discussion for limiting that in SF and I've discussed it with Simon regarding a more advanced data validation on the pub ramp as a second option if we arent able to mitigate it enough in SF, the second option will drive time. As it
+ is now i tihnk it's very hard for Zain to do any proper SIT testing since it's hard for him to create proper testing cases in SF.
+
+
+ 
+
+
+But as Wael said, EmployeeHired is coming along, but we need to perform additional testing to validate the functionality. Regarding other events they should be similar to Employee Hired and could probably be started but we've been holding back to solve the
+ issues in EmployeeHired first so we dont duplicate errors.

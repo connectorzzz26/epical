@@ -1,0 +1,27 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Nästan alla är owner här i gruppen för
+
+
+ar-test-cmn-integration-apim
+
+
+ar-prod-cmn-integration-apim
+
+
+ 
+
+
+Tror det är Jens, Christian, Ellinor och jag som inte är det. Behöver ha AppRoles inlagda.
+
+
+ 
+
+
+Kan någon lägga till mig som owner åtminstone i test om jag inte är betrodd i prod?

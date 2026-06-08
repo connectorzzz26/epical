@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com
+
+
+Also not sure if we should initiate Initial loads in any of these cases - but that is to be found out,

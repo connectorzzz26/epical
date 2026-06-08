@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Nikola Bijelic
+	Recipients
+	nikola.bijelic@epicalgroup.com
+
+
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_git/ncip-assessment

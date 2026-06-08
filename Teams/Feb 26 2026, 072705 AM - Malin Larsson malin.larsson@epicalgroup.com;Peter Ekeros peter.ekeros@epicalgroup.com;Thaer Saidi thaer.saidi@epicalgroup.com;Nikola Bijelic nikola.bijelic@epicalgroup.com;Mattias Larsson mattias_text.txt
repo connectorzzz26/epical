@@ -1,0 +1,9 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Malin Larsson; Peter Ekeros; Thaer Saidi; Nikola Bijelic; Mattias Larsson; Ronny Pettersson; Lauri Karppinen; Foroogh Khan-Gholi; Gokulakrishnan Kothandaraman; Niklas Lundbäck; Adam Deblén; Rebecca Cyrén
+	Recipients
+	malin.larsson@epicalgroup.com; peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; mattias.larsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; lauri.karppinen@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com; rebecca.cyren@epicalgroup.com
+
+
+Did a Win Update last night that took long time to finish. And now when I try to boot my computer it just crashes into this everytime. Dont do the big update if you use the Thinkpad.

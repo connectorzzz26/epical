@@ -1,0 +1,28 @@
+From
+	Thaer Saidi
+	To
+	Tom Lehane; Nathalie Kuosa; Yahya Ajwad; Anton Björkman; Christoffer Andersson; Berhan Karagöz; Omid Manai; Jenny Lenhammar; Adam Fredholm; Fredric Travaglia; Marko Ikäheimo; 28:fd931076-bbfb-4a38-a85c-1f0fb5b61bee; Jenna Munk Hemberg; Magnus Fälth
+	Recipients
+	tom.lehane@epicalgroup.com; nathalie.kuosa@epicalgroup.com; yahya.ajwad@epicalgroup.com; Anton.Bjorkman@epicalgroup.com; christoffer.andersson@epicalgroup.com; berhan.karagoz@epicalgroup.com; omid.manai@epicalgroup.com; jenny.lenhammar@epicalgroup.com; adam.fredholm@epicalgroup.com; fredric.travaglia@epicalgroup.com; marko.ikaheimo@epicalgroup.com; jenna.munkhemberg@epicalgroup.com; magnus.falth@epicalgroup.com
+
+
+Hi Team,
+
+
+Based on my experience with the NCC projects and recent challenges we've faced in scaling delivery, I’ve drafted a list of usecases for
+"AI-Driven DataOps."
+
+
+The goal isn't just to "use AI," but to apply it specifically to the plumbing, fixing the bottlenecks in testing, documentation, and error handling that slow us down.
+
+
+I’d love to hear which of these 10 areas you think would give us the biggest immediate win.
+
+
+
+
+
+ 
+
+
+0-sse-d2-36efcf49b6c07f8a3a579da6311ab1c6

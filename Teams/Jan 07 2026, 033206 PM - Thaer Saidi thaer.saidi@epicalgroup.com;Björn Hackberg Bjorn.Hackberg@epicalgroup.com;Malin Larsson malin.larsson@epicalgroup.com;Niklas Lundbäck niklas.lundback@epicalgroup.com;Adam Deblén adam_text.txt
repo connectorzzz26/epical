@@ -1,0 +1,15 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi; Björn Hackberg; Malin Larsson; Niklas Lundbäck
+	Recipients
+	thaer.saidi@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com
+
+
+
+
+
+Yes I know we can't do SIT tests in dev, but NCC CM has said how we should configure the envs now at least. 
+
+
+0-sse-d1-bbe5bfa84453c6c067b9e2e0b4369a70

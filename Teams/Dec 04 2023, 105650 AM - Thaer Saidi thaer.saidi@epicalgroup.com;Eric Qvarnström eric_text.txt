@@ -1,0 +1,18 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Sofie Hero
+Du kan ju testa att bara köra kommatecken mellan värdena för att slippa skriva ut Key på varje, med lite tur accepterar de det
+
+
+
+
+
+Testat lite olika saker som detta, men får då att "Validation Error, could not find
+MetaFieldItemGuids with the value "blabla". Så får bli såhär

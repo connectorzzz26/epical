@@ -1,0 +1,20 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+Ah det har gått nästan hela vägen, verkar krascha i "wf-StreamBIM-Project-Send" som ska skicka det till StreamBim
+
+
+
+
+
+Tittade också, visst är det StreamBim som returnerar felmeddelande

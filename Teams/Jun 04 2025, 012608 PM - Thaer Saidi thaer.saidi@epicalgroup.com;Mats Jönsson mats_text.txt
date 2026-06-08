@@ -1,0 +1,17 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+I wonder from where I can get the Event payload that is getting published from DK Middelman, who can provide such payload ?
+
+
+
+
+
+It will be Alex who can help you on that but, as it is a "simple event" you can always mock it

@@ -1,0 +1,17 @@
+From
+	Thaer Saidi
+	To
+	Kristoffer Kallerup
+	Recipients
+	kristoffer.kallerup@epicalgroup.com
+
+
+
+Kristoffer Kallerup
+I have a question about the decomision, It's done in dev and test. but some of this will be deployed again if the pipelines are run. Should I break out the code into some feature branch for storage so we don't accidentally deploy it again?
+
+
+
+
+
+I knew it when I saw that they started merging some of the events into main

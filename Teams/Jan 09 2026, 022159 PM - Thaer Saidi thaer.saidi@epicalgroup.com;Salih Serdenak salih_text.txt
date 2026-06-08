@@ -1,0 +1,23 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+For reference the code is deleted since we didnt need it, but I also made it easy to find in case:
+
+
+Commit
+ ba408ac6: removing backup, transform fixes - Repos
+
+
+ 
+
+
+The main code was here in the preprocess:
+
+
+backed_up_flow
+ - Microsoft Azure

@@ -1,0 +1,10 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi; Nikola Bijelic
+	Recipients
+	thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com
+
+
+Basically the overview picture quite correctly states: [Send] -> [MasterArticleData], but it really doesn't cover what happens inbetween those components. WAF rules first, then APIM, what subnets, anything else? Is that something we know or have an overview
+ picture of?

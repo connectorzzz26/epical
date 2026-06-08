@@ -1,0 +1,17 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+That is where the calls are currently going and the logic seems to be the same. So hopefully I wont have to change a thing and that the authorization also works. To be fully clear, the calls are going to
+
+https://apigatewaydev.ncc.info/mad-dev/api/v1/DespatchUnits/{globalid} 
+
+
+ 
+
+
+Is there a timeline?

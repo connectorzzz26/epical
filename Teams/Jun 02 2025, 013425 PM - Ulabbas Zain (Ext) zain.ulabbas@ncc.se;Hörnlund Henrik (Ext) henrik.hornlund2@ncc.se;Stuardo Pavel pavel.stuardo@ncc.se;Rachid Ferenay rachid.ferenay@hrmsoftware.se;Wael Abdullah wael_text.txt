@@ -1,0 +1,13 @@
+From
+	Sjödén Oscar (Ext)
+	To
+	Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Rachid Ferenay; Wael Abdullah; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; rachid.ferenay@hrmsoftware.se; wael.abdullah@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+Map-EmployeeHired-HRM-Post-Extensions.xlsx
+
+
+
+Is HRMExtension a specific attribute, or do you mean the Extensions in general? (Map-EmployeeHired-HRM-Post-Extensions.xlsx)
+ There are many extension values in this API, including Car allowance and such..

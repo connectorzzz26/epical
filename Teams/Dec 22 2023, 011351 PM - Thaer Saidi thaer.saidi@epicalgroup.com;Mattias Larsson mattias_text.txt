@@ -1,0 +1,22 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Christian Jonsson
+Ställde denna fråga till Ellinor nyss då jag såg att hon hållit på med organizationunit i mbb.... Men om någon annan vet svaret direkt så skulle det hjälpa utan att jag jagar henne med femhundra frågor 😄 📷
+
+
+
+
+
+Om det är en subscriber till OrganizationUnit eventet ska det ligga i 
+
+NCI-MessagingBackbone-OrganizationUnit-Subscribe

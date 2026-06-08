@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson
+	Recipients
+	malin.larsson@epicalgroup.com
+
+
+Since the compensation is always embedded in the employee2409 event and it's mapped there already
+
+
+We don't have a subscriber for compensation seperately from the employee events we can't do a mapping for Compensation

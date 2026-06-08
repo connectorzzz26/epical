@@ -1,0 +1,47 @@
+From
+	Malin Larsson
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com
+
+
+You should all have access to the HR Core "Bug Board" now. this is the place where we update status and reassign to Zain. Please verify this link:
+
+
+https://dev.azure.com/NccDevelopment/Development%20and%20IT/_backlogs/backlog/HR%20Core/Stories?System.WorkItemType=Bug&System.State=Active%2CCompleted%2CEvaluate%2CNew%2COnGoing
+
+
+ 
+
+
+We have agreed that all bugs should first be passed by Integration Architects
+
+
+ 
+
+
+We have also agreed on a priority so that it is clear what to do when: 
+
+
+
+		Green track critical errors Prio 1
+
+		Green track Prio 1
+
+		Green Track minor Bug Prio 1
+
+		Yellow track Prio 1
+
+		Prio 2
+
+
+
+
+Once a day we will have a short test-daily (either at 830 or 1630) where me and integration architechs are invited so we can keep updated.
+
+
+ 
+
+
+Unless it is "Green track Critical Errors" Zain will batch Bugs, so that we don't get Bug reports when he finds them but instead 1-2 times a day.

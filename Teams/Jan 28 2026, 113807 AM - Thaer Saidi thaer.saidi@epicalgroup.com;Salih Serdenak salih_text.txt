@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+hm, that is not how it was previously in the backup - in the backup the values that i looked up while traversing ended up in CPHC2A, CPHC4A

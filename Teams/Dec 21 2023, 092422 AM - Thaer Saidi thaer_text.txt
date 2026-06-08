@@ -1,0 +1,10 @@
+From
+	5bbfe16e-a26e-444a-8f7f-74ad39f2e80e@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Fråga, hörde att ny standard för namngivning för keyvault var kv-[namn]-shared-[environment]. Lämnar 9 tecken för "namn" då tecken storlek på kv är 3-24. Har vi tänkt på det (är det ett problem? Vi kommer nog behöva förkorta en del namn
+ annars)?

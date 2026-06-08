@@ -1,0 +1,9 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hey Thaer! Do you know any integration that have a PreProcess wf with all the new logging etc?

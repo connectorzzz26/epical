@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg; Malin Larsson; Niklas Lundbäck; Adam Deblén
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com
+
+
+From experience in a shared uncoordinated environment, data collisions are guaranteed.
+
+
+Fabric helps us filter out the noise so we don't spend budget fixing Data Issues disguised as Code Bugs.

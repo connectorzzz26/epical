@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg; Malin Larsson; Niklas Lundbäck; Adam Deblén
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com
+
+
+Yes, fully agree. I propose we just enable the 'Mirroring' feature as a PoC for this phase.
+
+
+It requires zero code changes to the Logic Apps but gives us the immediate 'Audit Trail' we need to survive the uncoordinated testing chaos.

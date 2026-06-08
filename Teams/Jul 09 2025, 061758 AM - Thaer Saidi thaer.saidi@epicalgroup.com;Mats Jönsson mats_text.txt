@@ -1,0 +1,10 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Good morning, If you are done with designs, please update Ncc/HrCore site (HR
+ Core) with mappings, estimates and other artifacts and link them so everyone in our team has access.

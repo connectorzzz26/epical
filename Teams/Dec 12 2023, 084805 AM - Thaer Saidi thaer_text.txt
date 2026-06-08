@@ -1,0 +1,24 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Christian Jonsson
+Just det, fick aldrig svar från Eric Qvarnström eller Mattias Larsson - powershell/bash deployment scripts i bicep.... fortfarande aktuellt? Keyvault secrets, något vi är nöjda med manuellt eller ska vi lägga tid på att lösa det med ci/cd
+ (utan att spara våra secrets i kod)? Fick intrycket a…
+
+
+
+
+
+Jag tror det får bli något vi samlar upp och utvärderar med allt annat vi stött på senaste tiden, nån gång i Januari eller så
+
+ Så
+ länge vi dokumenterar vilka KV Secrets som ska skapas upp per Ramp/flöde klarar vi oss ju tills vidare

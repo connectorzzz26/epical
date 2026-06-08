@@ -1,0 +1,9 @@
+From
+	Niklas Lundbäck
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Then this is more or less treated as if it would have been our production system? I think this is really good. Knowing how much work it is to get correct test data.

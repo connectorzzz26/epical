@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Lauri Karppinen
+	Recipients
+	lauri.karppinen@epicalgroup.com
+
+
+but then we are getting the blobalbusinessobjectid from employeeCE and that's Employee.ID

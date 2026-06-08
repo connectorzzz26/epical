@@ -1,0 +1,18 @@
+From
+	Thaer Saidi
+	To
+	Peter Ekeros; Wael Abdullah
+	Recipients
+	peter.ekeros@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+
+Wael Abdullah
+I got your point regarding bad data quality of global IDs on testing but don't understand exactly the step of translation " do you mean lookup using local ID of specific event(s) in the new translation table and then get the global ID
+ , update the employee hired event for example which sent back t…
+
+
+
+
+
+The step of translation is to get the right production globalID for each test globalID we have in the event object

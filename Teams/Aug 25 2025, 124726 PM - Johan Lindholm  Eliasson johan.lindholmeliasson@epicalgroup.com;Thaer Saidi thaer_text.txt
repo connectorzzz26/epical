@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Johan Lindholm  Eliasson
+	Recipients
+	johan.lindholmeliasson@epicalgroup.com
+
+
+No mapping is needed in the Transform workflow

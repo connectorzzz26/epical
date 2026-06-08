@@ -1,0 +1,21 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Eric Qvarnström
+God morgon! Detta är de tags som Kajsa sagt att vi ska ha på våra resurser: Environment ServiceName AccountingUnitServiceManagerServiceOwner Bäst vore väl om vi "tvingade" detta genom att sätta det som required parameters vid bicep deploy?
+ Tänker mig då att vår Common-Yaml - Bicep Deployment …
+
+
+
+
+
+Behöver det verkigen sättas på resursnivå? Räcker det inte med resursgruppen?

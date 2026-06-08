@@ -1,0 +1,72 @@
+From
+	Wael Abdullah
+	To
+	Sjödén Oscar (Ext); Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Rachid Ferenay; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	oscar.sjoden@ncc.se; zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; rachid.ferenay@hrmsoftware.se; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+
+
+Rachid Ferenay (External)
+You can scip the extensionpart if empty
+
+
+
+
+
+I talked to Oscar and he explained to me that we depend on two different properties to build up the request message that we use to post to HRM extensions.....
+
+
+ 
+
+
+ RotationRange from Employee2409.Employment2409[0].EmploymentEffective[0].RotationRange
+
+
+ IsEligibleCar inCompensation.IsEligibleCar
+
+
+ 
+
+
+ 
+
+
+
+
+
+		"cus_turomrade": "",
+		 
+		mapped in legacy solution
+
+No translation anticipated
+		"RotationRange": "Group A",
+		Employee2409.Employment2409[0].EmploymentEffective[0].RotationRange
+		RotationRange
+		string
+		0
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+		"ratttillformansbil": false,
+		map
+		 
+		"IsEligibleCar": false,
+		Compensation.IsEligibleCar
+		IsEligibleCar

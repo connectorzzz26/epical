@@ -1,0 +1,18 @@
+Call (Complete)/Thread Id: /Communication Id: df043753-6982-4324-9e35-377be3647a67/Adam Deblén,Thaer Saidi
+
+Call (Complete)/Thread Id: /Communication Id: df043753-6982-4324-9e35-377be3647a67/Adam Deblén,Thaer Saidi
+	From
+	Adam Deblén
+	To
+	Adam Deblén; Thaer Saidi
+	Recipients
+	adam.deblen@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+Start Time (UTC): 1/26/2026 9:18:01 AM
+End Time (UTC): 1/26/2026 9:25:58 AM
+Duration: 00:07:57.1142505
+
+[1/26/2026 9:18:01 AM (UTC)] adam.deblen@epicalgroup.com joined.
+[1/26/2026 9:25:58 AM (UTC)] adam.deblen@epicalgroup.com left.
+[1/26/2026 9:18:01 AM (UTC)] thaer.saidi@epicalgroup.com joined.
+[1/26/2026 9:25:58 AM (UTC)] thaer.saidi@epicalgroup.com left.

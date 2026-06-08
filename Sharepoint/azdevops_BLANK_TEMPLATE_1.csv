@@ -1,0 +1,5 @@
+ID,Work Item Type,Title 1,Title 2,Title 3,Title 4,Description,Effort,Remaining Work
+,Epic,My Epic Title,,,,Description of what this epic delivers and why it's important.,240,
+,Feature,,My Feature Title,,,Description of the feature and how it supports the epic.,120,
+,Product Backlog Item,,,My User Story Title,,As a [user type] I want [goal] so that [benefit],60,
+,Task,,,,My Task Title,Detailed description of the work to be done for this task,,16

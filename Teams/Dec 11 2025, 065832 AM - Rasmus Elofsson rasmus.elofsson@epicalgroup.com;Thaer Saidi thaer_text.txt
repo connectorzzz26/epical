@@ -1,0 +1,20 @@
+From
+	Thaer Saidi
+	To
+	Rasmus Elofsson
+	Recipients
+	rasmus.elofsson@epicalgroup.com
+
+
+
+
+Rasmus Elofsson 
+
+
+Was looking at this bug but noticed something else instead. https://nccdevelopment.visualstudio.com/Development%20and%20IT/_workitems/edit/176098   Dataschema should be identity2409, no? 😆…
+
+
+
+
+
+Yes actually

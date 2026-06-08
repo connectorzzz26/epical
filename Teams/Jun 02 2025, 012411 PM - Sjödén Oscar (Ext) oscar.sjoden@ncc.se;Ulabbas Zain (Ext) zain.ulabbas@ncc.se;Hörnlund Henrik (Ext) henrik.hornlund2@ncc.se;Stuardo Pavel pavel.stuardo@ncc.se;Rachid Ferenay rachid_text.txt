@@ -1,0 +1,15 @@
+From
+	Wael Abdullah
+	To
+	Sjödén Oscar (Ext); Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Rachid Ferenay; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	oscar.sjoden@ncc.se; zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; rachid.ferenay@hrmsoftware.se; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+
+Hello again .... the handling of empty end date have been done then I received another same error but this time for  WorkDaysPerWeek because it returned "" not like empty integer so that one fixed also to accept "" 
+
+
+ 
+
+
+We have another error in the step where we create new extension in HRM.... the received message from succuss factor doesn't include HRMExtension in EmployeeEffective

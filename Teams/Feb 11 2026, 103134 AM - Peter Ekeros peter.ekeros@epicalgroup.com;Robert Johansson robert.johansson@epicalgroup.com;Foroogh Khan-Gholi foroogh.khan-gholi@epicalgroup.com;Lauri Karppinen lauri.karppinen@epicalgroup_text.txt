@@ -1,0 +1,18 @@
+From
+	Adam Deblén
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Faris Elsir; Nikola Bijelic; Rasmus Elofsson; Kristoffer Kallerup; Sohail Shaikh; Omid Manai; Oscar Larsson; Caroline Wallbäck; Rebecca Cyrén; Niklas Lundbäck; Gokulakrishnan Kothandaraman; Nour Almajni; Wael Hasan; Ludvig Modin; Jesper Björkwing; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; faris.elsir@epicalgroup.com; nikola.bijelic@epicalgroup.com; rasmus.elofsson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; sohail.shaikh@epicalgroup.com; omid.manai@epicalgroup.com; oscar.larsson@epicalgroup.com; caroline.wallback@epicalgroup.com; rebecca.cyren@epicalgroup.com; niklas.lundback@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com; nour.almajni@epicalgroup.com; wael.hasan@epicalgroup.com; ludvig.modin@epicalgroup.com; jesper.bjorkwing@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Everyone
+
+
+Release date for Core Finance R2 has been pushed forward to October -26 instead of early May -26. This is to make headroom for proper cutover activites, SIT/UAT testing phases. 
+
+
+ 
+
+
+Core Finance work will still be going in the same pace as it has with the same expected target dates, the pushback on release date is more catered toward a proper testing/release phase.

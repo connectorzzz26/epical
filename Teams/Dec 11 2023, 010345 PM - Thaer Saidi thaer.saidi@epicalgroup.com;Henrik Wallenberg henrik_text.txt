@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+det som vi just nu hoppar över är det som jag brukar referera till som "integration test" som ligger mellan Unit Test och UAT i mitt huvud

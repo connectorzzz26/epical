@@ -1,0 +1,22 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+Carita Järvinen 
+
+
+Vore bra att veta när man behöver skapa App Role i någon så man vet vem man kan fråga 🙂
+
+
+
+
+
+Kollar du i entra ID så kan du se alla owners där 
+ Finns
+ ingen anledning att försöka ha en uppdaterat lista i wikin?

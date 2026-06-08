@@ -1,0 +1,10 @@
+From
+	Wael Abdullah
+	To
+	Peter Ekeros; Thaer Saidi
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+I got your point regarding bad data quality of  global IDs on testing but don't understand exactly the step of translation " do you mean lookup using local ID of specific event(s) in the new translation table and then get the global ID , update the employee
+ hired event for example which sent back to HRM ?

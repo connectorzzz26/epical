@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Malin Larsson; Thaer Saidi
+	Recipients
+	malin.larsson@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+and if the messages had received topic subscription for the receive flow we would have seen them

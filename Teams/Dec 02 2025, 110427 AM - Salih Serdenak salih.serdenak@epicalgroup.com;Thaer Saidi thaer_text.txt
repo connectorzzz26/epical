@@ -1,0 +1,11 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+Most probably because they don’t have an IP to allow,
+
+Natting needs to be setup from NCC side so that they have a fixed IP that will send the traffic

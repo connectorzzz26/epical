@@ -1,0 +1,10 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Länkarna ska finnas här i 
+ https://ncconline.sharepoint.com/sites/ProjectServiceportal/Developers%20info/Forms/AllItems.aspx?id=%2Fsites%2FProjectServiceportal%2FDevelopers%20info%2FNCC%20Project%20Service%20API%20%2D%20Technical%20documentation%2Epdf&parent=%2Fsites%2FProjectServiceportal%2FDevelopers%20info

@@ -1,0 +1,20 @@
+From
+	Wael Abdullah
+	To
+	Malin Larsson; Carita Järvinen; Thaer Saidi; Elisabeth Blom; Jens Hedin; Salih Serdenak; Robert Johansson; Olli Takala; Lauri Karppinen; Ronny Pettersson; Henrik Lindin; Henrik Hörnlund; Peter Ekeros; Björn Hackberg; Mats Jönsson; Odenfelt Kajsa; Foroogh Khan-Gholi; Johan Lindholm  Eliasson; Mattias Larsson; Henrik Wallenberg; Nicklas Andersson; Larsson Malin (Ext); Nikola Bijelic
+	Recipients
+	malin.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; thaer.saidi@epicalgroup.com; elisabeth.blom@epicalgroup.com; jens.hedin@epicalgroup.com; salih.serdenak@epicalgroup.com; robert.johansson@epicalgroup.com; olli.takala@epicalgroup.com; lauri.karppinen@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.lindin@epicalgroup.com; henrik.hornlund@epicalgroup.com; peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; mats.jonsson@epicalgroup.com; kajsa.odenfelt@ncc.se; foroogh.khan-gholi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; mattias.larsson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; nicklas.andersson@epicalgroup.com; malin.larsson2@ncc.se; nikola.bijelic@epicalgroup.com
+
+
+I have a problem in my 
+
+
+
+Thaer Saidi
+https://nccdevelopment.visualstudio.com/7c75cd62-66a2-469d-beae-f5caa8197c14/_workitems/edit/158254 Hey Wael Abdullah Here is the bug I mentioned and I believe this has higher priority than employeeHired bugs we have
+
+
+
+
+
+I solved it yesterday and sent it back to Zain .... mentioned that to him in the chat

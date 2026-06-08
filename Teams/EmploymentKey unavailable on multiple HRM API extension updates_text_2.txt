@@ -1,0 +1,76 @@
+EmploymentKey unavailable on multiple HRM API extension updates
+
+EmploymentKey unavailable on multiple HRM API extension updates
+	From
+	Thaer Saidi
+	To
+	Wael Abdullah
+	Recipients
+	wael.abdullah@epicalgroup.com
+
+
+
+We have multiple bugs where I find that the 3rd POST API call to extensions is missing the employmentKey and I would like to better understand if that's part of the implementation to handle 404s like that or not..
+
+
+
+
+
+
+
+I already pinged you in a couple of the bugs but better to have a short call to understand this better.
+
+
+
+
+
+________________________________________________________________________________
+
+
+Microsoft Teams
+Need help?
+
+
+Join
+ the meeting now
+
+
+Meeting ID: 380 043 323 476 6
+
+
+
+Passcode: qd7kT6Bi
+
+
+
+
+
+
+
+
+Dial in by phone 
+
+
++46 8 502
+ 413 57,,379190964# Sweden, Stockholm
+
+
+Find a local number
+
+
+Phone conference ID: 
+379 190 964#
+
+
+
+For organizers: Meeting
+ options |
+Reset
+ dial-in PIN
+
+
+
+
+
+
+________________________________________________________________________________

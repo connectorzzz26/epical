@@ -1,0 +1,29 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+Screenshot 2023-12-11 at 10.22.49.png
+
+
+
+
+
+
+
+Jens Hedin
+Hej, finns det någon inbyggd versionshantering i wikin?
+
+
+
+
+
+Det finns det 
+ Tryck
+ på revisions så ser du ändringar etc.
+
+
+
+0-sse-d4-e9145d563f19d2526f4b241677feabbb

@@ -1,0 +1,16 @@
+From
+	Björn Hackberg
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Hej !!! Jag fick följande från Hans (tror efternamnet är Rosander):                                               "Hej Björn. Hans heter jag och jobbar med Portals och Supplier Insight. Det finns några Service bussar som hanterar events från Ivalua och från
+ och med igår så hamnar eventen på en annan SB än vad de gjorde i fredags och då stämmer inte vår konfiguration och vi kan inte plocka upp eventen.
+
+
+Jag har försökt kontakta Wael men han har inte svarat och ser frånvarande ut på NCC-teams så jag fick ditt namn av Kaustu. Har du möjlighet att hjälpa mig?
+
+
+Er Dev-miljö stängs av på fredagarna och ska behöva startas på måndag morgon. Kan det vara så att det missats när Carita gick på semester?"

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Emil Fridell; Robin Porsemo
+	Recipients
+	emil.fridell@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+FYI: if you didn't notice the documentation is done and PR waiting for approval, let me know if there are things to change there or if it can be closed.

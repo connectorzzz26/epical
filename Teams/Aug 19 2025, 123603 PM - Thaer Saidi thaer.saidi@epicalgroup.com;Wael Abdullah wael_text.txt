@@ -1,0 +1,15 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+regarding employee currently effective .... it is the same mapping for employee hired but with little differences , so my opinion is to keep it in a separate mapping file
+
+
+ 
+
+
+We need also to review the employee rehired sheet to fix it like hired one

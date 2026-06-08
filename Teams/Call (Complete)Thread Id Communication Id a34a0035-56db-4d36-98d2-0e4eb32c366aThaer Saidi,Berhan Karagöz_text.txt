@@ -1,0 +1,18 @@
+Call (Complete)/Thread Id: /Communication Id: a34a0035-56db-4d36-98d2-0e4eb32c366a/Thaer Saidi,Berhan Karagöz
+
+Call (Complete)/Thread Id: /Communication Id: a34a0035-56db-4d36-98d2-0e4eb32c366a/Thaer Saidi,Berhan Karagöz
+	From
+	Thaer Saidi
+	To
+	Thaer Saidi; Berhan Karagöz
+	Recipients
+	thaer.saidi@epicalgroup.com; berhan.karagoz@epicalgroup.com
+
+Start Time (UTC): 1/19/2026 9:01:23 AM
+End Time (UTC): 1/19/2026 10:05:57 AM
+Duration: 01:04:33.9333119
+
+[1/19/2026 9:01:23 AM (UTC)] thaer.saidi@epicalgroup.com joined.
+[1/19/2026 10:05:57 AM (UTC)] thaer.saidi@epicalgroup.com left.
+[1/19/2026 9:01:23 AM (UTC)] berhan.karagoz@epicalgroup.com joined.
+[1/19/2026 10:05:57 AM (UTC)] berhan.karagoz@epicalgroup.com left.

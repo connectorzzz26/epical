@@ -1,0 +1,15 @@
+From
+	Nikola Bijelic
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi man, let me know if you want me to look into anything regarding the identity initial load.
+
+
+ 
+
+
+I know that UnAM did some "cloning" from prod to test on their side which might have led to issues with globalIDs.

@@ -1,0 +1,17 @@
+From
+	Wael Abdullah
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Henrik Hörnlund; Malin Larsson; Mats Jönsson; Salih Serdenak; Thaer Saidi
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+
+Mats Jönsson
+Hi, there is a bug on DK Middleman that has to be solved: https://dev.azure.com/NccDevelopment/Development%20and%20IT/_workitems/edit/154367. I can assist with more information, just ping me, regardless of who takes it.
+
+
+
+
+
+I can take it if I done with the enrichment manager bug Today

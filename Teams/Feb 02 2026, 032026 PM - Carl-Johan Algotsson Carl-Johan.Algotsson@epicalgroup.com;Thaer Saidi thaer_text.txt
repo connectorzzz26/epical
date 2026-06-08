@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Carl-Johan Algotsson
+	Recipients
+	Carl-Johan.Algotsson@epicalgroup.com
+
+
+We have a decision for go no go to production, and I'm trying to make a case for the NO GO

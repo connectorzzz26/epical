@@ -1,0 +1,326 @@
+Fw: AI Workshop - Strategic Briefing: Using the “Patient Zero” Audit to Drive DataOps & AI Sales
+
+Fw: AI Workshop - Strategic Briefing: Using the “Patient Zero” Audit to Drive DataOps & AI Sales
+	From
+	Thaer Saidi
+	To
+	Ons Allouche
+	Recipients
+	ons.allouche@se.ey.com
+
+
+
+Fyi
+
+
+
+
+
+
+
+
+
+
+
+// Thaer 
+
+
+
+
+
+From: Thaer Saidi <thaer.saidi@epicalgroup.com>
+
+Sent: Thursday, January 29, 2026 8:40:43 AM
+
+To: Tom Lehane <tom.lehane@epicalgroup.com>; Adam Fredholm <adam.fredholm@epicalgroup.com>; Nathalie Kuosa <nathalie.kuosa@epicalgroup.com>; Fredric Travaglia <fredric.travaglia@epicalgroup.com>; Jenny Lenhammar <jenny.lenhammar@epicalgroup.com>; Omid
+ Manai <omid.manai@epicalgroup.com>; Yahya Ajwad <yahya.ajwad@epicalgroup.com>; Anton Björkman <Anton.Bjorkman@epicalgroup.com>; Berhan Karagöz <berhan.karagoz@epicalgroup.com>; Marko Ikäheimo <marko.ikaheimo@epicalgroup.com>; Christoffer Andersson <christoffer.andersson@epicalgroup.com>
+
+Cc: Ari-Pekka Dufva <ari-pekka.dufva@epicalgroup.com>; Jenna Munk Hemberg <jenna.munkhemberg@epicalgroup.com>; Magnus Strömer <magnus.stromer@epicalgroup.com>; Magnus Fälth <magnus.falth@epicalgroup.com>; Märit Sareyko <marit.sareyko@epicalgroup.com>
+
+Subject: AI Workshop - Strategic Briefing: Using the “Patient Zero” Audit to Drive DataOps & AI Sales
+ 
+
+
+
+
+
+Hi Team,
+
+
+
+
+
+
+
+To support the launch of our DataOps, AI governance, and data masking offerings,Apart from the request to Epical, I have initiated formal GDPR Article 15 (Right of Access) requests across six organizations:
+
+
+
+
+
+
+
+TCS  
+
+
+IBM  
+
+
+Nordcloud  
+
+
+Volvo Cars  
+
+
+Electrolux  
+
+
+Crayon  
+
+
+
+
+
+
+
+This is deliberate and strategic.
+
+
+
+
+
+
+
+This is not a personal admin exercise. It is a real-world data maturity stress test. I am using my own identity and employment data as a traceable asset moving through enterprise data systems to expose where data architectures fail in practice.
+
+
+
+
+
+
+
+The core idea is simple: treat identity as a data asset.  
+
+
+If an organization cannot reliably link multiple corporate emails, reconcile records across regions or subsidiaries, or retrieve unstructured data such as chats and project material, then their data foundation is not ready for AI. GDPR forces them to prove
+ this under legal pressure.
+
+
+
+
+
+
+
+What we are testing:
+
+
+
+
+
+
+
+Legacy Industrials (Volvo, Electrolux)  
+
+
+Focus: dark data  
+
+
+Strong structured data, weak control of unstructured and operational data  
+
+
+Our play: make dark data visible, governed, and safe for AI use
+
+
+
+
+
+
+
+Global Integrators and Enterprise Hubs (IBM, TCS)  
+
+
+Focus: identity fragmentation  
+
+
+Data split across geographies, domains, and delivery units  
+
+
+Our play: federated governance and cross-entity identity unification
+
+
+
+
+
+
+
+Cloud-Native Acquisition (Nordcloud, part of IBM)  
+
+
+Focus: post-merger integration integrity  
+
+
+Question: does data flow cleanly between subsidiary and parent, or does compliance break during M&A  
+
+
+Our play: ensure data continuity, lineage, and compliance during integrations
+
+
+
+
+
+
+
+Cloud Natives and Asset Managers (Crayon)  
+
+
+Focus: metadata and lineage precision  
+
+
+Risk: delivery speed outpaces governance  
+
+
+Our play: automated metadata tagging, lineage tracking, and real-time masking
+
+
+
+
+
+
+
+The outcome of this work will be a proprietary Epical Data Maturity Scorecard, benchmarking companies on clear criteria such as response time, completeness, data quality, identity consistency, and coverage of unstructured data.
+
+
+
+
+
+
+
+This gives us a strong sales message:  
+
+
+If a company cannot accurately fulfill a basic employee data request, their AI investments are already at risk.
+
+
+
+
+
+
+
+I am acting as “Patient Zero” to surface systemic weaknesses in real enterprise data architectures. I will share findings as the 30-day statutory deadlines expire.
+
+
+
+
+
+
+Next step:
+
+
+Would you like me to create the Maturity Scorecard template now so we have
+ clear KPIs ready when responses start arriving?
+
+
+
+
+
+
+
+Please forward this to anyone who should be included in this discussion.
+
+
+
+
+
+
+
+
+Best regards,  
+
+
+Thaer Saidi 
+
+
+
+From: Tom Lehane
+
+Sent: Wednesday, December 10, 2025 8:05:49 AM
+
+To: Tom Lehane <tom.lehane@epicalgroup.com>; Adam Fredholm <adam.fredholm@epicalgroup.com>; Nathalie Kuosa <nathalie.kuosa@epicalgroup.com>; Fredric Travaglia <fredric.travaglia@epicalgroup.com>; Jenny Lenhammar <jenny.lenhammar@epicalgroup.com>; Thaer
+ Saidi <thaer.saidi@epicalgroup.com>; Omid Manai <omid.manai@epicalgroup.com>; Yahya Ajwad <yahya.ajwad@epicalgroup.com>; Anton Björkman <Anton.Bjorkman@epicalgroup.com>; Berhan Karagöz <berhan.karagoz@epicalgroup.com>; Marko Ikäheimo <marko.ikaheimo@epicalgroup.com>;
+ Christoffer Andersson <christoffer.andersson@epicalgroup.com>
+
+Cc: Ari-Pekka Dufva <ari-pekka.dufva@epicalgroup.com>; Jenna Munk Hemberg <jenna.munkhemberg@epicalgroup.com>; Magnus Strömer <magnus.stromer@epicalgroup.com>; Magnus Fälth <magnus.falth@epicalgroup.com>; Märit Sareyko <marit.sareyko@epicalgroup.com>
+
+Subject: AI Workshop
+
+When: Tuesday, January 13, 2026 10:00 AM-3:00 PM.
+
+Where: Gothenburg Office
+ 
+
+
+
+
+Agenda/more info to follow.
+
+
+
+
+
+________________________________________________________________________________
+
+Microsoft Teams
+
+Need help? 
+
+Join
+ the meeting now 
+
+Meeting ID:
+337 644 866 438 59
+
+
+Passcode:
+3vd3MA3Y
+
+
+
+
+
+
+
+
+Dial in by phone
+
+
++46 8 502 413 57,,517981368#
+Sweden, Stockholm
+
+
+Find
+ a local number 
+
+
+
+Phone conference ID:
+517 981 368#
+
+
+For organisers:
+Meeting
+ options | 
+Reset dial-in PIN 
+
+
+
+
+
+
+________________________________________________________________________________
+
+
+
+
+
+
+Internal

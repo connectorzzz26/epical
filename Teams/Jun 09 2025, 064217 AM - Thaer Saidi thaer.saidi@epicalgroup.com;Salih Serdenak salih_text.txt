@@ -1,0 +1,72 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+This is mine with the search and replace to DespatchUnit:
+
+
+{%- assign DespatchUnit = content.data.DespatchUnit -%}
+
+
+ 
+
+
+{
+
+
+    "id": {{ DespatchUnit.ID }},
+
+
+ 
+
+
+    {% if DespatchUnit.ChangeDate == '' or DespatchUnit.ChangeDate == nil -%}
+
+
+    {% else -%}
+
+
+    "changeDate": "{{ DespatchUnit.ChangeDate }}",
+
+
+    {% endif -%}
+
+
+ 
+
+
+    {% if DespatchUnit.GLN == '' or DespatchUnit.GLN == nil -%}
+
+
+    {% else -%}
+
+
+    "gln": "{{ DespatchUnit.GLN }}",
+
+
+    {% endif -%}
+
+
+   
+
+
+    "name": "{{ DespatchUnit.Name }}",
+
+
+    "supplier": {
+
+
+        "id": {{ DespatchUnit.Supplier.ID }},
+
+
+        "legalRegistrationName": "{{ DespatchUnit.Supplier.LegalRegistrationName | Replace: '\\', '\\' | Replace: '"', '\"' | Replace: '\r', '\r' | Replace: '\n', '\n'}}"
+
+
+    }
+
+
+}

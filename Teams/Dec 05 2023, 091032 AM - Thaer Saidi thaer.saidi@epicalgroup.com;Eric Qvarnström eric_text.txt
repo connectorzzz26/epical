@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+APIM ligger nere just nu i Dev & Test. Anledning okänd, men Simon är på det

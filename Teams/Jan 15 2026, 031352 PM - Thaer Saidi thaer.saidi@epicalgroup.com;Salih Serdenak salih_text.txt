@@ -1,0 +1,20 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Thaer Saidi
+But after reflection, maybe you are right whatever the current way is
+
+
+
+
+
+not sure about the current way, but I saw the same situation in Gemensamt Register in prod, and they have a bug where they are not deleting them
+
+ so
+ probably a good idea to do so

@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Henrik Wallenberg; Björn Hackberg; Mats Jönsson; Henrik Hörnlund; Elisabeth Blom; Thaer Saidi; Peter Ekeros; Berhan Karagöz
+	Recipients
+	henrik.wallenberg@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; mats.jonsson@epicalgroup.com; henrik.hornlund@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; berhan.karagoz@epicalgroup.com
+
+
+I will not have the possibility to create fun Features and user stories, but you can copy or create the needed Feature/US/Tasks manually

@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+the thindata is used to fetch more data, in that data I can check for the existance of supplierUnit, if it exists I assume it is version 1.0, otherwise 1.2. Not the best way to do it, but I think it works

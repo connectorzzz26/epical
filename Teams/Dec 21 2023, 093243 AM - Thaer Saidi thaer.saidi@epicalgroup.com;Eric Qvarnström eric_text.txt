@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Det viktiga är väl att alla har samma prefix och suffix? dvs: kv-[RAMP]-[ENV]

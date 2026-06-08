@@ -1,0 +1,10 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi, If you have time I have a task for you to look at a redesign for ServiceNow subscriber to NCC Company. They have an older version (from other system) but it needs to be updated. No details in the User Story but I think I can advise and maybe Mattias
+ can assist a bit as well

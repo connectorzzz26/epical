@@ -1,0 +1,10 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+We are also going to have some publishers for CoolPro, which is new in the CF delivery, they wanted to set the pattern before the integration requests arrive together with our IA / Juha etc. I asked if they wanted an integration architect that was also involved
+ in the HR Core solution and they would gladly have that. Would you be able to assist our IAs in such a meeting you think?

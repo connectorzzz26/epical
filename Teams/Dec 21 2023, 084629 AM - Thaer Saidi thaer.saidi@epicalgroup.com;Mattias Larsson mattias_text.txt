@@ -1,0 +1,20 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Mattias Larsson
+Just nu kan vi inte se input/output i Logic App runs (corp) och vi tror det har med utökningen av nätverken att göra. Jag har reggat en incident (och pingat Simon direkt).
+
+
+
+
+
+Nu ska detta vara löst och vi kan se intput/output och Storage contents igen i corp LZ, jag har verifierat i dev och test att det fungerar för mig. 
+
+
+Det var NCC Network som behövde öppna portar i EU West så vi blev utsläppta till Sweden Central

@@ -1,0 +1,9 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+det är helt rätt att någon på NCC verifierar att mappningen gått rätt till när vi väl har vettigt data att köra genom integrationen

@@ -1,0 +1,18 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Malin Larsson
+Hej, De verkar testa lite AdHoc, men jag kan meddela att vi gör det idag? eller imorgiin?
+
+
+
+
+
+Ändringen tog ca 3-4h, men inväntar portöppningar i Test, och dom kan väl ta 1-2 dagar beroende på hur allt klaffar  Så
+ ändrar jag nu står vi utan en fungerande testmiljö tills dess att portöppningarna är på plats.

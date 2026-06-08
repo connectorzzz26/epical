@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+the thin event that we handled from pub side has been a event only containing a reference, that we need to loook up in next step

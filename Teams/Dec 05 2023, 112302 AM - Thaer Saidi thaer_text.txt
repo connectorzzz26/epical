@@ -1,0 +1,25 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Malin Larsson
+Tester StreamBim Vi behöver bemanna tester både för StreamBim imorgon. Jag skulle säga att vi behöver någon med kunskap inom ProjectService/Data Foundation samt StreamBim imorgon, Jens är med, men Sofie eller Erik kanske kan vara lämpliga
+ för "den andra sidan"?
+
+
+
+
+
+Jag kan vara med om det behövs, men tror det är vettigare att ta med Eric som varit med och deployat allt till test och kört igenom det där med Jens?
+
+ Men
+ behöver ni mig är det bara att hojta till. Vad säger du 
+Eric Qvarnström?

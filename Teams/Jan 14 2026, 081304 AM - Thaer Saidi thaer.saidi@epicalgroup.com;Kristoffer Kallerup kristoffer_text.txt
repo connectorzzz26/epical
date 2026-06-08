@@ -1,0 +1,21 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I don't follow... 
+
+
+
+
+
+I don't see any mandatory or non-mandatory in the wiki for enrichments.
+
+
+Number 8 is optional if some value is missing but not otherwise right?
+
+
+0-sse-d1-c13965dd2bcf041678ee9601374df2e0

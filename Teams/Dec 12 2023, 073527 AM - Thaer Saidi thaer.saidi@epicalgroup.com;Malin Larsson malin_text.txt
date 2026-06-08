@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+vi pratade om måndag-tisdag nästa vecka, men då måste vi ju ha även ProjectService i produktion. och ha testat inital load.

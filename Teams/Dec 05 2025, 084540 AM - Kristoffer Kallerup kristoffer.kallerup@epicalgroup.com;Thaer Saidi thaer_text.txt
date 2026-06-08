@@ -1,0 +1,18 @@
+From
+	Thaer Saidi
+	To
+	Kristoffer Kallerup
+	Recipients
+	kristoffer.kallerup@epicalgroup.com
+
+
+I've added 2 new fields to HRM mapping: 71 and 73
+
+
+
+
+
+And assigned you the tickets for the fix.
+
+
+0-cse-d3-4831ea77fee43842b63be2960a57ca3d

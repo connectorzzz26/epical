@@ -1,0 +1,195 @@
+FW: Daily test stand up
+
+FW: Daily test stand up
+	From
+	Saidi Thaer (Ext)
+	To
+	Thaer Saidi; Boman Simon (Ext); Nielsen Jan Damlund; Jørgensen Per Anders; Triebe Alexander (Ext); Alexander Triebe; Rebecca Cyrén; Sjödén Oscar (Ext); Stein Tobias (Ext); Larsson Malin (Ext); Fridell Emil (Ext); Odenfelt Kajsa; Mahmood Ahsan (Ext); Nilsson Leif (Ext); Saidi Thaer (Ext); Emelie Lindblad; Ekeros Peter (Ext); Sanna Ekneling; Ryhänen Juha (Ext); Ulabbas Zain (Ext); Hasan Wael (Ext); Malin Larsson; Kranz Sari; Vaktel Thomas; Hackberg Björn (Ext); Sjöström Mats (Ext); Emil Fridell; Hansson Katrin; Jönsson Mats (Ext); Vesth Patrik (Ext); Robin Seybold; Sandberg Johan; Askar Bashar; Sølvsten Henrik (Ext); Wester Kristian; Lindblad Emelie (Ext); Porsemo Robin (Ext); Brättemark Niklas (Ext); Pettersson Ronny (Ext)
+	Cc
+	Cyrén Rebecca (Ext); Stenbacka Joakim (Ext)
+	Recipients
+	thaer.saidi@epicalgroup.com; simon.boman@ncc.se; jdn@ncc.dk; pjg@ncc.dk; alexander.triebe@ncc.se; alexander.triebe@epicalgroup.com; rebecca.cyren@epicalgroup.com; oscar.sjoden@ncc.se; tobias.stein@ncc.se; malin.larsson2@ncc.se; emil.fridell@ncc.se; kajsa.odenfelt@ncc.se; ahsan.mahmood@ncc.se; leif.nilsson2@ncc.se; thaer.saidi@ncc.se; emelie.lindblad@epicalgroup.com; peter.ekeros@ncc.se; sanna.ekneling@epicalgroup.com; Juha.Ryhanen@ncc.fi; zain.ulabbas@ncc.se; wael.hasan@ncc.se; malin.larsson@epicalgroup.com; sari.kranz@ncc.fi; thomas.vaktel@ncc.no; bjorn.hackberg@ncc.se; mats.sjostrom@ncc.se; emil.fridell@epicalgroup.com; katrin.hansson@ncc.se; mats.jonsson3@ncc.se; patrik.vesth@ncc.se; robin.seybold@epicalgroup.com; johan.sandberg@ncc.se; bashar.askar@ncc.se; zext.ophs@ncc.dk; kristian.wester@ncc.se; emelie.lindblad@ncc.se; robin.porsemo@ncc.se; niklas.brattemark2@ncc.se; ronny.pettersson5@ncc.se; rebecca.cyren@ncc.se; joakim.stenbacka@ncc.se
+
+
+
+ 
+
+
+
+
+From: Broström Olivia (Ext) <olivia.brostrom@ncc.se>
+
+Sent: Monday, November 3, 2025 7:30:17 AM (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+
+To: Broström Olivia (Ext) <olivia.brostrom@ncc.se>; Boman Simon (Ext) <simon.boman@ncc.se>; Nielsen Jan Damlund <jdn@ncc.dk>; Jørgensen Per Anders <pjg@ncc.dk>; Triebe Alexander (Ext) <alexander.triebe@ncc.se>; alexander.triebe@epicalgroup.com <alexander.triebe@epicalgroup.com>;
+ Rebecca Cyrén <rebecca.cyren@epicalgroup.com>; Sjödén Oscar (Ext) <oscar.sjoden@ncc.se>; Stein Tobias (Ext) <tobias.stein@ncc.se>; Larsson Malin (Ext) <malin.larsson2@ncc.se>; Fridell Emil (Ext) <emil.fridell@ncc.se>; Odenfelt Kajsa <kajsa.odenfelt@ncc.se>;
+ Mahmood Ahsan (Ext) <ahsan.mahmood@ncc.se>; Nilsson Leif (Ext) <leif.nilsson2@ncc.se>; Saidi Thaer (Ext) <thaer.saidi@ncc.se>; Emelie Lindblad <emelie.lindblad@epicalgroup.com>; Ekeros Peter (Ext) <peter.ekeros@ncc.se>; Sanna Ekneling <sanna.ekneling@epicalgroup.com>;
+ Ryhänen Juha (Ext) <Juha.Ryhanen@ncc.fi>; Ulabbas Zain (Ext) <zain.ulabbas@ncc.se>; Hasan Wael (Ext) <wael.hasan@ncc.se>; Malin Larsson <malin.larsson@epicalgroup.com>; Kranz Sari <sari.kranz@ncc.fi>; Vaktel Thomas <thomas.vaktel@ncc.no>; Hackberg Björn (Ext)
+ <bjorn.hackberg@ncc.se>; Sjöström Mats (Ext) <mats.sjostrom@ncc.se>; Emil Fridell <emil.fridell@epicalgroup.com>; Hansson Katrin <katrin.hansson@ncc.se>; Jönsson Mats (Ext) <mats.jonsson3@ncc.se>; Vesth Patrik (Ext) <patrik.vesth@ncc.se>; Robin Seybold <robin.seybold@epicalgroup.com>;
+ Sandberg Johan <johan.sandberg@ncc.se>; Askar Bashar <bashar.askar@ncc.se>; Sølvsten Henrik (Ext) <Zext.OPhs@ncc.dk>; Wester Kristian <kristian.wester@ncc.se>; Lindblad Emelie (Ext) <emelie.lindblad@ncc.se>; Porsemo Robin (Ext) <robin.porsemo@ncc.se>; Brättemark
+ Niklas (Ext) <niklas.brattemark2@ncc.se>; Pettersson Ronny (Ext) <ronny.pettersson5@ncc.se>
+
+Cc: Cyrén Rebecca (Ext) <rebecca.cyren@ncc.se>; Stenbacka Joakim (Ext) <joakim.stenbacka@ncc.se>
+
+Subject: Daily test stand up
+
+When: Wednesday, January 28, 2026 8:30 AM-8:45 AM.
+
+Where: Microsoft Teams-möte
+
+
+
+
+
+
+Hello,
+
+
+ 
+
+
+
+As we are moving into a more intensive test period we will start having daily test stand ups starting 7th of January.
+
+
+ 
+
+
+
+Purpose: Crunch the BUG-LOG doing:
+
+
+
+		
+Fast coordinations of present topics
+
+		
+Prioritizations
+
+		
+Allocations (SA's, IA's, AA's)
+
+		
+Bug-progress
+
+		
+Coodination with Change Control Board related issues
+
+
+
+
+
+ 
+
+
+
+We will be using DevOps to support the entire test process - going through this on each daily meeting.
+
+
+ 
+
+
+
+________________________________________________________________________________
+
+
+
+
+
+Microsoft Teams
+Behöver
+ du hjälp?
+
+
+
+
+
+Anslut
+ till mötet nu
+
+
+
+
+
+Mötes-ID:
+378 262 847 422 05
+
+
+
+
+
+
+Lösenord:
+2QV2YM7n
+
+
+
+
+
+
+
+
+
+
+
+Ring in via telefon
+
+
+
+
+
++46
+ 8 535 263 75,,312815948#
+Sverige, Stockholm
+
+
+
+
+
+Hitta
+ ett lokalt telefonnummer
+
+
+
+
+
+Telefonkonferens-ID:
+312 815 948#
+
+
+
+
+
+För organisatörer:
+Mötesalternativ
+|
+Återställ
+ PIN-kod för uppringning
+
+
+
+This is a Microsoft Teams meeting hosted by NCC
+
+
+
+
+
+________________________________________________________________________________
+
+
+
+
+
+
+
+NCC Company Open - Public
+
+
+
+
+
+
+
+
+
+NCC Company Open - Public

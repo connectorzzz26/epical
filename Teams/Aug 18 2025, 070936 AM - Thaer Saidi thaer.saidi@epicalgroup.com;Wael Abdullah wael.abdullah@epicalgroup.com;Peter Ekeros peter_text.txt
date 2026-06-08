@@ -1,0 +1,28 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi; Wael Abdullah
+	Recipients
+	thaer.saidi@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+Hi all!
+
+
+ 
+
+
+Hope your vacation was nice! 
+
+
+ 
+
+
+About HRM, it is OK if you want to take it Thaer. Check with Wael where we are I guess. 
+
+
+ 
+
+
+I developed the employmentTerminated sub-event, and there is still a bug, where the endDate does not update correctly sometimes. This bug have I escalated to the HRM developers due to we send in correct data, but still it does not update correctly. So you
+ know

@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Carita said I was wrong in my interpretation, basically... After fetching the data I should sent it to both transforms, so version 1 and v1.2 will be created and send onwards... and it makes much more sense...

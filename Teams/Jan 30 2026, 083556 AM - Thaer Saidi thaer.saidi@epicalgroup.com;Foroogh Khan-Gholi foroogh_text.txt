@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+initialload is setting type to data/load in publish flow

@@ -1,0 +1,17 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+
+Salih Serdenak
+yeah, that is what i dont get, why do i need to provide the servername when there is a connectionstring
+
+
+
+
+
+Yeah odd

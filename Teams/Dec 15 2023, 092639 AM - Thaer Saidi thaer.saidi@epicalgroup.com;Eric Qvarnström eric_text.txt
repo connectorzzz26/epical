@@ -1,0 +1,22 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+GlobalID Service i Prod har blivit laddad med:
+
+
+
+		EmployeeStatus (2st Ids)
+
+		LogicalAddressType (2st Ids)
+
+		GeoArea (1202st Ids)
+
+
+
+
+Dessa är de enda RefData Entities som vi behöver inför den planerade prodsättningen, eller hur?

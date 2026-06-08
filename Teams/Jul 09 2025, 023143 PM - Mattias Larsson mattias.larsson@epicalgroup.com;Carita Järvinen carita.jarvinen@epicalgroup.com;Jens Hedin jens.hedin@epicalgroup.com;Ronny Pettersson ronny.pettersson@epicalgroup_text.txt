@@ -1,0 +1,18 @@
+From
+	Wael Abdullah
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Henrik Hörnlund; Malin Larsson; Mats Jönsson; Salih Serdenak; Thaer Saidi
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+
+Wael Abdullah
+I can take it if I done with the enrichment manager bug Today
+
+
+
+
+
+Mats Jönsson most likely I will not be able to solve this bug tomorrow as I planned.... I am still
+ working in enrichment manager bug at the same time the problem of success factors solved that prevented unit testing team from running HRM test scenarios , so I have to work with Zain after enrichment manager bug be solved!

@@ -1,0 +1,10 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hi, a question about HRM, do you know if HRM wants all information in effectiveDate array's and how do you handle mandatory information on those objects to adapter? We got an issue on friday on DKM that worries me on that they got missing information in
+ an historical object that in general was mandatory but they didn't use it. DKM was only interested in current, but it failed in schema validation.

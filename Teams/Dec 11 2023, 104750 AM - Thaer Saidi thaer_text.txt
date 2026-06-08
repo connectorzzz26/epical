@@ -1,0 +1,24 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+En fundering kring dokumentationen - kikade på PS som referens. Ska vi inkludera InitialLoad i den event-specifika dokumentationen (Project i det här fallet), så vi har Event + InitialLoad på en och samma sida? 
+
+
+ 
+
+
+Nu ligger det så här, men då hamnar alla InitialLoads från ProjectService i det här fallet på samma sida medan själva eventen ligger separat. Vad tycker vi blir smidigast?
+
+
+
+
+
+ 
+
+
+0-cse-d3-65913296d12421285d9bfb8bbabf3242

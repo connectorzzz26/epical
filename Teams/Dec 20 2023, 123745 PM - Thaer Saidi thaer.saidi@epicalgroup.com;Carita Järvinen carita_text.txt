@@ -1,0 +1,9 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+en del av testningen måste ju vara att kontrollera datainnehållet också och inte bara att det kommer fram

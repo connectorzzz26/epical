@@ -1,0 +1,25 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Regarding TEM and Employee2409CE, 
+Bug 176825 TEM FL - Incorrect Small area code,
+
+
+The specs says:
+
+
+SmallareaCode_FIN
+
+
+use Event.Employee2409.JobAssignment[0].Position2411.PositionEffective[0].OrganizationalUnit2409.ID to enrich with DF.OrganizationalUnit2409.Code
+
+
+ 
+
+
+So just to be clear, we should do another enrichment? Because this is new for this event.

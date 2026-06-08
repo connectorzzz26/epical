@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Robin Porsemo; Kristoffer Kallerup; Emil Fridell
+	Recipients
+	robin.porsemo@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; emil.fridell@epicalgroup.com
+
+
+Hey Kristoffer Kallerup, 
+
+
+Let's add back the schema validation before sending the message to the Adapter queue..

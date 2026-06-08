@@ -1,0 +1,34 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I already did the changes but i noticed one thing. In specification it says for all filenames
+CountryCode_GlobalUserID_".... in javascript code we get NCCUserID for employeece and employeewithbancacc but identity gets globalbusinessid. Is there a reason for this or should we make some change to this aswell?
+
+
+ 
+
+
+Employee2409CE
+
+var NCCUserID = workflowContext.trigger.outputs.body.contentData.data.Employee.NCCUserID;
+
+
+ 
+
+
+Employee2409WithBankAccount
+
+var globalID = workflowContext.trigger.outputs.body.contentData.data.Employee.NCCUserID;
+
+
+ 
+
+
+Identity2409
+
+var globalID = workflowContext.trigger.outputs.body.contentData.globalbusinessobjectid;

@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Foroogh Khan-Gholi; Thaer Saidi
+	Recipients
+	foroogh.khan-gholi@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Foroogh: yeah, I saw that deliveryapp didnt work in dev, but their environment wasnt setup, and there were other things not setup before, but it works fine in test - where I am running it.

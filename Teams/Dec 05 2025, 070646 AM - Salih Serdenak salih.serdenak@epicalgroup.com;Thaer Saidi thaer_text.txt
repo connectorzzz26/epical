@@ -1,0 +1,11 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+I still don’t get it, 
+
+Let’s start slow, what is the ttl of the mbb token?

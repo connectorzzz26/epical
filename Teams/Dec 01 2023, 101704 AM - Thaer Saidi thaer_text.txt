@@ -1,0 +1,10 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I don't know the details of it, but I know Mattias added logic to the DF-workflow for Project after we found out we will receive events in the incorrect order from PS, to make sure it doesn't crash if we get an Update before a Create for example. Not sure
+ if that's relevant to the question here, sounds like it could be? But it's still only one item/event in Cosmos per project at one time

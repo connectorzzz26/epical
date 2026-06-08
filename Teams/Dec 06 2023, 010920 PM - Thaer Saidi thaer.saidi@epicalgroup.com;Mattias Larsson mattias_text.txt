@@ -1,0 +1,20 @@
+From
+	Mattias Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Sofie Hero
+I've sent a few Employee events to MBB in Dev with the new mapping, if anyone wants to double check that the subscribers can still process it. It shouldn't make a difference, hopefully, but might be good to verify 🙂
+
+
+
+
+
+DF works

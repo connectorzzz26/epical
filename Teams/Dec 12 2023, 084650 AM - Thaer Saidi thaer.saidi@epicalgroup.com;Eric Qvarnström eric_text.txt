@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Hade iofs ett use-case för powershell i biceps tidigare när jag behövde en delay. Men det löste jag genom att splitta bicep'en i 2 och körde mer eller mindre 2 deploys.

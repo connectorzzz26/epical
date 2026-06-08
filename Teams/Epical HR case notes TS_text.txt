@@ -1,0 +1,52 @@
+Friday 6 February 2026
+Case notes 
+Employee: Thaer Saidi, Consultant (TS)
+Manager: Carl-Johan Algotsson, Team Manager (CJA)
+HR: Noora Vilonen, Senior People Advisor (NV)
+
+Background 
+Employee TS is employed as an IT-Consultant (Architect) at Epical since May 2025.
+In his role, the employee is working in client projects, responsible for designing and planning technical solutions, such as system integrations or cloud architecture, guiding and designing projects from start to implementation. 
+Description of events 
+Employee TS has on Monday 2/2 raised concerns with the Team Manager (CJA) and several other project colleagues at Epical regarding lacking GDPR compliance in a project Epical is delivering to client. TS has, in addition to this, without internal authorization, raised his own analysis och the delivery shortcomings he experiences directly with the client, both verbally and in writing.  
+TS has additionally during the same evening gotten in touch with Epical CEO (Märit Sareyko) and board member (Anssi Lehikoinen) raised other security concerns via email. 
+TS has the following day, early Tuesday morning (3/2), further continued to contact Epical middle management as well as HR on the topic. During the same day TS has through email to his manager stated that he has been a part of starting the activist group “anonymous”. Epical has due to this chosen to revoke both internal and client access for the employee to mitigate any possible future security risks the company could face due to this claim. 
+Meeting Friday 6/2
+CJA has on the 5/2 asked TS to meet CJA and NV at the office to discuss the case, but as TS has stated that he was ill, the meeting was postponed until further notice.  
+Despite of the aforementioned, TS came to the office on Friday 6/2 around 10am, demanded to discuss the matter with HR (NV). TS conduct has been perceived as unpredictable and somewhat aggressive in the situation by HR.  
+A meeting was set up right away. Present in the meeting were NV and CJA via Teams link. An additional colleague from HR was asked to be present for documenting and safety purposes. 
+ The purpose of the meeting was to give TS a chance to explain his view of the situation and the actions TS have taken the past few days. 
+Further, Epical wanted to explain how we as the employer view the situation and TS’ conduct as well as the risks it has posed to the company.
+ 
+In the meeting TS has expressed the following: 
+· TS have stated that he has been a part of starting the group “Anonymous”
+· TS has raised concerns and what he views as shortcomings/flaws in the project Epical is delivering to its client (GDPR related compliance issues)
+· TS have raised his concerns with Epical colleagues as well as his closest manager Carl-Johan, who TS feel have not acted on his concerns or raised them forward
+· As TS has felt that his concerns have not been addressed, TS have chosen to share his concerns directly with the client, by sharing an own analysis through the client’s “playground” used by developers
+ 
+In the meeting Epical has expressed the following: 
+ TS has stated that he has been a part of starting the group “Anonymous”, which poses a possible security risk to Epical’s work environment  
+· TS has shared unauthorized analysis of alleged shortcomings in Epical’s delivery to client project and advised to not go-live prior to addressing the issues
+· We have informed you that Epical encourages employees to raise issues or shortcomings at the workplace processes, but have emphasis the importance of following correct process internally prior to acting on anything on own initiative
+· We also have informed TS that the analysis TS has shared with company management is sensitive and Epical specific and by emailing it forward outside Epical environment is a violation of our information security policies as well as the confidentiality clauses in your employment contract
+· Our view is that TS conduct has been disloyal and something that risks jeopardizing our relationship with our client and further endangers the security of our working environment. 
+· As response to TS actions, we have revoked TS accesses both to Epical environment as well as client environment.
+ We have in the meeting and in writing through email aligned that TS understands the reason why Epical has been forced to take action and revoke TS accesses to the systems and is now required to conduct an internal investigation on the matter at hand. 
+As TS is currently sick, we have asked TS to email us a sick leave certificate from the doctor, as per normal process, latest by Monday 9 February 2026, which he also has provided. 
+ Additionally, we have informed TS that after the completion of the investigation, Epical will contact TS regarding next steps and any possible employment related consequences that may arise depending on the outcome of the investigation.
+
+Information meeting Monday 16/2
+TS was called to an additional meeting by CJA together with NV to inform about the outcome of the investigation and the next steps in the process. 
+In the beginning of the meeting CJA has informed TS that the investigation has resulted in the conclusion that we cannot see how TS employment could continue in light of the events and the employees conduct. The reason stated is a broken trust to the employee. 
+TS does not agree with the decision and states that he has not done anything wrong, but to raise shortcomings in the client project delivery. He additional is of the opinion that he has not shared any sensitive information outside Epical or to the client that could harm the client. 
+TS has additionally stated new information, unknown to NV and CJA, that the Head of DT at Epical has been aware of him raising the shortcomings and additionally encouraged him to share these further. As CJA and NV have not been aware of this information, they have stated that they will consider the information going forward in the process.
+CJA and NV has stated that the employer does not agree with his view of what has happened. 
+NV has asked TS to provide the employer with information of a union membership where TS has informed us that he is a member of “Unionen”.
+TS has requested to talk to Epical legal representative. 
+NV has described the next steps in the process, which will be to consult Epical legal team and initiate a dialogue with the Union in alignment with the local legislation. 
+During this time, the employee is on paid leave and his accesses will remain revoked, which NV has stated is a common procedure during an ongoing investigation. 
+TS has been asked if there is something he would like to add before the conclusion of the meeting. TS wanted to add the following:
+· Shared code in developers playground as Epical provides no platform to share code in
+· TS wants the employer to share the policies he has allegedly broken 
+· Email that was sent to Epical CEO did not include sensitive information
+CJA and NV have informed that the employer will be in touch with the employee as soon as they have more news.

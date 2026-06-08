@@ -1,0 +1,18 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+
+
+
+for now to remove any confusion
+
+
+But I got it from the v2 implementation of deliveryNote subscriber :s
+
+
+0-sse-d3-2e481e3c24ee48a330d77a057044d7d3

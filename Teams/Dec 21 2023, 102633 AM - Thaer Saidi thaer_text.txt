@@ -1,0 +1,10 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+En liten heads up, märkte nu när vi kom till MBB-bitarna för ProjectStatus och kikade på de andra repon vi har att ordet "Project" verkar ha följt med till andra MBB-Shared-repon, i namn på solution-filer, .csproj, classer osv. Är inget som syns direkt i
+ portalen men kan nog vara bra att justera när det finns tid

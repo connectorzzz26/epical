@@ -1,0 +1,9 @@
+From
+	Björn Hackberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+i have seen data/load but we talked about initial load...

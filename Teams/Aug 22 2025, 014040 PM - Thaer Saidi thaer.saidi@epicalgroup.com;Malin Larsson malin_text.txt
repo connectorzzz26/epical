@@ -1,0 +1,28 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Purpose: We are heading into a lot of testing. We have some feedback from test team that can help to improve going forward.
+
+
+Topics:
+
+
+
+		Rotation of experienced developers
+
+		Wiretap issues 
+
+		Missing mapping spec
+
+		Mapping sheet not updated regularly  
+
+		Wrong solution made/wrongly entered in mapping sheet/wrong mapping spec 
+
+		Unavailability of developer to fix bug because working on another priority consumer 
+
+		No regular updates on bug fixes

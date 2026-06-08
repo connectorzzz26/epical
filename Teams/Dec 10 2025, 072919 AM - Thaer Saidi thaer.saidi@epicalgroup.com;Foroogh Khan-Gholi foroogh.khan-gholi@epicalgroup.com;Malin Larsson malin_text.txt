@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi; Foroogh Khan-Gholi
+	Recipients
+	thaer.saidi@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+hi, it seems there is an issue in DeliveryNotes ramp in prod, they have sent over 900 PD events and according to Thaer nothing has been received, what can you see?

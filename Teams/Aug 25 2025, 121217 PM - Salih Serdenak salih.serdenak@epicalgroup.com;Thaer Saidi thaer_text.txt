@@ -1,0 +1,20 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+
+
+Thaer Saidi 
+
+
+And the schema of the receiving system is the same as the sending system
+
+
+
+
+
+It’s the same schema as the one in the repo supplier v3

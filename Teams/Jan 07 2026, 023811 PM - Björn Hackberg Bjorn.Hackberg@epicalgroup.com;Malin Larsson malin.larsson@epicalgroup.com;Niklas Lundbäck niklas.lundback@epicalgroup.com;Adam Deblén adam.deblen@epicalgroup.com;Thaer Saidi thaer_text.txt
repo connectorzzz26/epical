@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg; Malin Larsson; Niklas Lundbäck; Adam Deblén
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com; adam.deblen@epicalgroup.com
+
+
+Regarding the single Track A environment: We can virtualize the SIT destination using Fabric.
+
+
+Essentially, we route SIT traffic into a Fabric Lakehouse (simulating Track A) while keeping UAT traffic pointed at the real system. 
+
+
+This gives us the strict isolation we need for UAT without blocking the developers in SIT.

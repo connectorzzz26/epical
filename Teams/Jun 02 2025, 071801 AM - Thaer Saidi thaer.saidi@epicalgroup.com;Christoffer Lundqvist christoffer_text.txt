@@ -1,0 +1,9 @@
+From
+	Christoffer Lundqvist
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+yes the bank holidays (Thursday, Friday) should just be 0 anyway so you don't have to be worried about that, so that last 100 Regular Time can be removed since it's no hours reported on it

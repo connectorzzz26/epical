@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Good morning, I was looking at the liquid for SupplierUnit and there it maps to camelCase keys instead of PascalCase as in the excel, can you confirm which one is correct?

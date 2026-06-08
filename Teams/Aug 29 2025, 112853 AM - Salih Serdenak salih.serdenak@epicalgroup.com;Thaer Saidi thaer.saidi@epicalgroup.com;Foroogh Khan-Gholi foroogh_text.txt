@@ -1,0 +1,10 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Salih Serdenak; Thaer Saidi
+	Recipients
+	salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+I assume it is to subscribing system since it was done in  inbound subscribe flow. Right
+Salih Serdenak? Or am I missunderstanding the question?

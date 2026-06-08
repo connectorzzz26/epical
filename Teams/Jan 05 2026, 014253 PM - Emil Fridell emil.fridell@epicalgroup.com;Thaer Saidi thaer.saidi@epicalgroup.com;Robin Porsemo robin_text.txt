@@ -1,0 +1,9 @@
+From
+	Robin Porsemo
+	To
+	Emil Fridell; Thaer Saidi
+	Recipients
+	emil.fridell@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Yes the current/default config for wiretap is good to document. The retention period is going to change to 30 days when Emil has approved my PR

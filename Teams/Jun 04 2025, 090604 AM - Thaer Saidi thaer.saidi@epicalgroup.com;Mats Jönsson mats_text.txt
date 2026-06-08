@@ -1,0 +1,12 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+sorry.. a lot of meeting...you can start check the schema: 
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_git/NCI-MessagingBackbone-SchemaRepository?path=/Schemas/EmployeeCountryEmployeeNumberUpdated/1.0/EmployeeCountryEmployeeNumberUpdatedEventSchema.json and current Wiki documentation for DK Middleman.sub:
+
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/6134/DK-Middleman

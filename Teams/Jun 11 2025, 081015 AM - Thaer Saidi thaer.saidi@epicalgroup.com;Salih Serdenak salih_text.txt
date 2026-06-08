@@ -1,0 +1,20 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+the events I get in has no information of which version it is, they look like this:
+
+
+
+
+
+{
+    "id": "1337",
+    "type": "create",
+    "eventName": "SupplierAgreementPricelist",
+    "securityClassification": 2
+}

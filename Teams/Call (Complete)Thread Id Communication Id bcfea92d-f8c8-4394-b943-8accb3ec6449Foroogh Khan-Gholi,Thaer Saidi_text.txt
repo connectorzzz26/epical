@@ -1,0 +1,18 @@
+Call (Complete)/Thread Id: /Communication Id: bcfea92d-f8c8-4394-b943-8accb3ec6449/Foroogh Khan-Gholi,Thaer Saidi
+
+Call (Complete)/Thread Id: /Communication Id: bcfea92d-f8c8-4394-b943-8accb3ec6449/Foroogh Khan-Gholi,Thaer Saidi
+	From
+	Foroogh Khan-Gholi
+	To
+	Foroogh Khan-Gholi; Thaer Saidi
+	Recipients
+	foroogh.khan-gholi@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+Start Time (UTC): 1/27/2026 9:15:22 AM
+End Time (UTC): 1/27/2026 9:19:55 AM
+Duration: 00:04:33.1375784
+
+[1/27/2026 9:15:22 AM (UTC)] foroogh.khan-gholi@epicalgroup.com joined.
+[1/27/2026 9:19:55 AM (UTC)] foroogh.khan-gholi@epicalgroup.com left.
+[1/27/2026 9:15:22 AM (UTC)] thaer.saidi@epicalgroup.com joined.
+[1/27/2026 9:19:55 AM (UTC)] thaer.saidi@epicalgroup.com left.

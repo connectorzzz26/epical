@@ -1,0 +1,15 @@
+From
+	Thaer Saidi
+	To
+	Johan Lindholm  Eliasson
+	Recipients
+	johan.lindholmeliasson@epicalgroup.com
+
+
+from the MAD team: 
+
+
+unfortunately the devops servers are down and we can not build to our environments. after we build we should be able to make a request to APIM to update themselves to the latest swagger and after that this schema validation issue would be passed. 
+
+
+we have an incident open for the devops team to manage the build servers. will keep you updated.

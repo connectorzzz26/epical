@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Carita Järvinen
+	Recipients
+	carita.jarvinen@epicalgroup.com
+
+
+I saw that you were the one to update the SupplierAgreementPriceList publisher last and I wonder if you could make a call to the apim endpoint.
+
+
+I'm working on the 1.2 version and I want to see the response body

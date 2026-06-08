@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Or is there a need to keep them in test? Remember that Ronny wanted us to keep mepco events in test due to have some support when developing

@@ -1,0 +1,10 @@
+From
+	Lauri Karppinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+now we are picking the value for identity in the same way than others: 
+var NCCUserID = workflowContext.trigger.outputs.body.contentData.data.Employee.NCCUserID;

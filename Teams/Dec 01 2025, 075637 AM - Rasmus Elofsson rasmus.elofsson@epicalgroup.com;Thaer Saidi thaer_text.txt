@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Rasmus Elofsson
+	Recipients
+	rasmus.elofsson@epicalgroup.com
+
+
+Did I say that we need to do custom retries for Synergi as well ?

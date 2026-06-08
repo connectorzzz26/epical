@@ -1,0 +1,77 @@
+From
+	Henrik Lindin
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Faris Elsir; Nikola Bijelic; Rasmus Elofsson; Kristoffer Kallerup; Adam Deblén; Sohail Shaikh; Omid Manai; Oscar Larsson; Caroline Wallbäck; Rebecca Cyrén; Niklas Lundbäck; Björn Hackberg; Malin Larsson; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; faris.elsir@epicalgroup.com; nikola.bijelic@epicalgroup.com; rasmus.elofsson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; adam.deblen@epicalgroup.com; sohail.shaikh@epicalgroup.com; omid.manai@epicalgroup.com; oscar.larsson@epicalgroup.com; caroline.wallback@epicalgroup.com; rebecca.cyren@epicalgroup.com; niklas.lundback@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Morning, regarding logging with the V2 version we will need to make sure we send valid JSON payloads from the logic apps (or funcs) to the event hub, otherwise the log points will not be transfered to the custom table i the the log analytics workspace.
+
+
+ 
+
+
+The current solution with the logging is fire and forget from the logging apps perspective so you cannot really see this unless verifying that the logs appears in the table.
+
+
+ 
+
+
+The solution simplified
+
+
+ 
+
+
+LA sends log via HTTP connector => eventhub ns/eventhub <= function app parses log object and sends it to log analytics via a data collection endoint that maps all props to their table equiv. For retry reasons and resillience there is a service bus queue
+ where log objects will end up to be resent but these invalid json messages will be stored on the dlq, in test there are currently 53000+ of those so we will need to empty this, but we will need to adjust the logging apps beforehand. 
+
+
+ 
+
+
+This is a sample i found in the dlq of the backing service bus queue. It seems like the " has been left out on the string props
+
+
+{
+
+  "CanonicalEventName": Job,
+
+  "CanonicalEventVersion": ,
+
+  "CanonicalEventSchemaPath": ,
+
+  "GlobalBusinessObjectID": ,
+
+  "PublishingBusinessObjectID": ,
+
+  "Ramp": SuccessFactors,
+
+  "System": Successfactors,
+
+  "TransactionID": b83cc3af-520c-4d46-acb0-606e28185654,
+
+  "EventDataReceivedTimeStamp": 2026-01-08T07:03:28.0789873Z,
+
+  "LoggingTimeStamp": 2026-01-08T07:03:30.4228387Z,
+
+  "WorkflowTimeStamp": 2026-01-08T07:03:27.9195367Z,
+
+  "Status": 10,
+
+  "LogPointID": 339,
+
+  "LoggingWorkFlow": wf-SuccessFactors-Job-PreProcess-GetLastModified,
+
+  "LoggingLogicApp": logic-successfactors-job-outbound-test,
+
+  "WorkFlowRunID": /workflows/wf-SuccessFactors-Job-PreProcess-GetLastModified/runs/08584337510775580491161397805CU00,
+
+  "Message": "No updated Jobs were found since last run",
+
+  "EventType": data/update,
+
+  "EventSecurityClassification": 2
+
+}.

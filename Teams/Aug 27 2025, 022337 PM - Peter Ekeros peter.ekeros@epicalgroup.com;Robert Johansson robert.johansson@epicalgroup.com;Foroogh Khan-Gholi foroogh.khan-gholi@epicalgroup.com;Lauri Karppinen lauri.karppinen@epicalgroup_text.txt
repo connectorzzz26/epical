@@ -1,0 +1,18 @@
+From
+	Salih Serdenak
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+Sorry for the swedish, but i started typing it in Swedish 
+ Har
+ fått lite återkoppling på Siteintro-Customercontract. Initialload på 540 meddelanden, av de filtreras alla förutom 1 bort. Den enda som kommer in i deras app är vill de inte ha för den är inte i status aktiv. De skickade på 1 som de anser ska vara korrekt,
+ men i ett av berikningsstegen går det åt skogen, och då avbryts flödet. Antingen är det fel på datat i ena berikningen som används för att slå upp data i en annan, eller så är det fel i den andra där datat saknas. 
+
+
+ 
+
+
+Vem är ansvarig för testdatat och vem kan jag kontakta? Gäller financialorganizationunit och company.

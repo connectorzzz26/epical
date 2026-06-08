@@ -1,0 +1,39 @@
+From
+	Jens Hedin
+	To
+	Peter Ekeros; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Johan Lindholm  Eliasson; Henrik Wallenberg; Mattias Larsson; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+I was'nt aware of this but do you see any errors in dev for this? there is a logicapp that runs every five minutes but output is this 
+
+
+ 
+
+
+{
+
+
+    "statusCode": 200,
+
+
+    "headers": {
+
+
+...
+
+
+    },
+
+
+    "body": "I'm good!"
+
+
+}
+
+
+ 
+
+
+... so it seems its ok?!

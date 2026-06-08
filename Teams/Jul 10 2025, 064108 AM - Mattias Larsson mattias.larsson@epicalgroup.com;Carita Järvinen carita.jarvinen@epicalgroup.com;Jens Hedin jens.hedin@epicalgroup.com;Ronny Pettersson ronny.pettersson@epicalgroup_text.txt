@@ -1,0 +1,10 @@
+From
+	Mats Jönsson
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Henrik Hörnlund; Malin Larsson; Wael Abdullah; Salih Serdenak; Thaer Saidi
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; malin.larsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Good morning, I have created some tasks, related to performed SIT tests, in feature "Bugs Q2" so we can keep track of them in our sprint. The process of handle this bugs in another devops board is not optimal and those could be a show stopper in further
+ SIT testing, Right now there are 2 tasks linked to the other board.

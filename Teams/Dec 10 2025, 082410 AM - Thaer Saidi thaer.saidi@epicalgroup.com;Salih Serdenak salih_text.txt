@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+regarding the bug you found, I would say the same problem exists for all enrichments, so I am fixing that, I looked into this when I was working with it last but must have made a mistake

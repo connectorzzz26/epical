@@ -1,0 +1,11 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I think you have to have a meeting with DKM solution arch: 
+Per-Anders Jörgensson on this. There will be a mapping part to discuss and to decide if the ramp should update in SF through OData API (se other SF subscribers) or it should be done by the adapter That is between ramp and SF. I also noticed that it lacks on
+ contact information, is not always the same as Ramp design.

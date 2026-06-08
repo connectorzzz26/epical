@@ -1,0 +1,59 @@
+From
+	Berhan Karagöz
+	To
+	Tom Lehane; Thaer Saidi; Nathalie Kuosa; Yahya Ajwad; Anton Björkman; Christoffer Andersson; Omid Manai; Jenny Lenhammar; Adam Fredholm; Fredric Travaglia; Marko Ikäheimo
+	Recipients
+	tom.lehane@epicalgroup.com; thaer.saidi@epicalgroup.com; nathalie.kuosa@epicalgroup.com; yahya.ajwad@epicalgroup.com; Anton.Bjorkman@epicalgroup.com; christoffer.andersson@epicalgroup.com; omid.manai@epicalgroup.com; jenny.lenhammar@epicalgroup.com; adam.fredholm@epicalgroup.com; fredric.travaglia@epicalgroup.com; marko.ikaheimo@epicalgroup.com
+
+
+ 
+
+
+ 
+
+
+Per offering area, there could be ai capabilities but we need to start with a good defined problem as Yahya mentioned for integration/BizTalk  - that is one project already.
+
+
+ 
+
+
+I am sure there are other areas that have interesting challenges our colleagues see daily.
+
+
+ 
+
+
+Perhaps that is the topic for the survey, which could be all about defining problems 
+
+
+
+		 for our consultants in their work or 
+
+		their customers having problems with something.
+
+
+
+
+ 
+
+
+About the better offerings with ai, involving more areas than integration.
+
+
+ 
+
+
+where do I find this in sharepoint?
+
+
+The offerings of Epical?
+
+
+ 
+
+
+
+
+
+0-sse-d2-17fed9c5515d48bbe5c35cf58f76a591

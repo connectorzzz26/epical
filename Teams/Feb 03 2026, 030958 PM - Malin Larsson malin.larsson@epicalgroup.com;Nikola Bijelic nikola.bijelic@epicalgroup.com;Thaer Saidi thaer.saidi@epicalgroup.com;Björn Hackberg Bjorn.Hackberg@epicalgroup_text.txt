@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Malin Larsson; Nikola Bijelic; Thaer Saidi; Björn Hackberg; Carl-Johan Algotsson; Tomas Jinneklint
+	Recipients
+	malin.larsson@epicalgroup.com; nikola.bijelic@epicalgroup.com; thaer.saidi@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; Carl-Johan.Algotsson@epicalgroup.com; tomas.jinneklint@epicalgroup.com
+
+
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_git/ncip-assessment?path=/Assessment/00_Su…

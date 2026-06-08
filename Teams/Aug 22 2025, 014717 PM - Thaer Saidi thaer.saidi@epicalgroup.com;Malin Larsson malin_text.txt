@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+https://dev.azure.com/NccDevelopment/Development%20and%20IT/_boards/board/t/HR%20Core/Stories?text=hrm&workitem=123863

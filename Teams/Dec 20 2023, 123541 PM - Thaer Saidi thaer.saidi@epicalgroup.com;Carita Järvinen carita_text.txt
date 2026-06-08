@@ -1,0 +1,9 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+men är inte det en del av testningen att mappningsspecifikationen är rätt tolkad och att rätt saker hamnar i rätt fält?

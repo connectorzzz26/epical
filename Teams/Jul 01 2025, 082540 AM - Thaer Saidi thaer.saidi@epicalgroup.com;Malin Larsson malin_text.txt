@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Well I assume that they will not need identity if they haven't ordered it. BankAccount is new so I will create those as soon as possible

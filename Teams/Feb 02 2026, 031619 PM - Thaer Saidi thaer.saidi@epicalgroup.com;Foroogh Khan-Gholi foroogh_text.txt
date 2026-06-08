@@ -1,0 +1,21 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+yes but we connect to their service bus:
+
+
+"NCCPortalsServiceBus": {
+
+
+        "type": "String",
+
+
+        "value": "@appsetting('NCCPortalsServiceBus')"
+
+
+    },

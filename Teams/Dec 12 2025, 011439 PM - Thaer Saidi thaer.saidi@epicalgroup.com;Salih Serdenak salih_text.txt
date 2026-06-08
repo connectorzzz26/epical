@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Dotliquid is not working as it should, so I added a javascript that shortens certain fields to make sure they are no longer than needed. I have done this for a few fields, should I do it for all of them?

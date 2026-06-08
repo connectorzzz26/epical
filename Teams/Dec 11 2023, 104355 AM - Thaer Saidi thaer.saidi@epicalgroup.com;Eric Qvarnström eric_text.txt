@@ -1,0 +1,10 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Jag kommer i Dev att flytta en Private Endpoint som tillhör kv-dev-cmn-nci-apim.
+Där i ligger certifikatet för APIM, så om några avbrott förekommer i APIM i Dev så vet ni varför

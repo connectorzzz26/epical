@@ -1,0 +1,10 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Håller med, Kajsa snackade ju idag om att varje projekt skulle ha en test manager framöver som styr det här. En sak vi skulle kunna göra för att förenkla för en test manager är att tillsammans med en sådan person från NCC försöka beskriva vilka tester som
+ kan/ska göras i samband med integrationer. Så att det både för oss och projekten finns en tydlighet från början

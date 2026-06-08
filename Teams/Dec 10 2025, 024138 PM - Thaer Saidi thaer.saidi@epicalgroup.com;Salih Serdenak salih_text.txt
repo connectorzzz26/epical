@@ -1,0 +1,12 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I am getting a different response, indicating that the data is wrong. This was expected, while working on it I see:
+
+
+CPHBNA, Numeric, Length 5... but it is based on IDs which are like 1002047, those that are length limited, how should they be shortened?

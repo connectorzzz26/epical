@@ -1,0 +1,9 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Yes we talked about it today on the build meeting a bit - and we concluded that we have the information we need to test out the connection

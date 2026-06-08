@@ -1,0 +1,21 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Karam Haroun
+Om det är okej så ska jag ta dagen för att försöka skapa en liite mer generisk funktion där vi tar bort eventnamnet ifrån solutionnamnet csproj och namespace i koden. Så att den går att copy pastea ifrån ett centralt repo som inte är project.
+ Sen får nån annan göra nåt smartare som bygger på det nä…
+
+
+
+
+
+Låter som en bra idé!

@@ -1,0 +1,26 @@
+From
+	Malin Larsson
+	To
+	Peter Ekeros; Thaer Saidi; Nikola Bijelic; Mattias Larsson; Johan Lindholm  Eliasson; Ronny Pettersson; Lauri Karppinen; Foroogh Khan-Gholi; Gokulakrishnan Kothandaraman
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com; nikola.bijelic@epicalgroup.com; mattias.larsson@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; ronny.pettersson@epicalgroup.com; lauri.karppinen@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; gokulakrishnan.kothandaraman@epicalgroup.com
+
+
+I will go to the doctor tomorrow morning for some exiting withdrawel of blood, so will miss the daily. Please write in the chat what you are doing tomorrow. 
+
+
+ 
+
+
+Wael will start with development for CCM-ProjectRole-Sub. 
+
+
+ 
+
+
+Sprint is updated (not completely since we have 100 different features for HR Core. But still.
+
+
+
+
+Architects need to look into connection details for consumers in HR Core, so that we can start updating with that information.

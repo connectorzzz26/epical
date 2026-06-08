@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+yes, we havent landed perfectly with having both data/create and data/update as types on the envelope, since we are striving for upsert in all places

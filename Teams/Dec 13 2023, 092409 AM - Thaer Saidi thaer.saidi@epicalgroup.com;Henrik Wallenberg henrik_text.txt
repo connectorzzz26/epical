@@ -1,0 +1,10 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Sofie Hero du  nämnde vid något tillfälle att app registreringar behöver göra uppdateringar i
+ manifest för att stödja token v2 eller nått sånt. Är det nått vi behöver fånga upp i nån task inför prodsättning?

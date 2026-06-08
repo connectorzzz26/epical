@@ -1,0 +1,22 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Karam Haroun
+Men jag håller med Sofie som i tidigare diskussioner sagt att PS borde testas separat för att se att allt stämmer där och all data mappats på rätt sätt till DF innan vi testar flöden mellan 2 system. PS rampen kan ju ha buggar i dessa
+ tester utan att vi märker något eftersom att DAM bara tittar p…
+
+
+
+
+
+Ja jag tror det blir enklast att testa PS -> DF och se att det funkar, med vilka test cases de från Project Service kan tycka är relevanta så vi ser att de events de förväntar sig faktiskt skickas och processas okej. När det är OKat kan man testa subscribers
+ och använda sig av re-submit på körningarna från PS -> DF testningen.

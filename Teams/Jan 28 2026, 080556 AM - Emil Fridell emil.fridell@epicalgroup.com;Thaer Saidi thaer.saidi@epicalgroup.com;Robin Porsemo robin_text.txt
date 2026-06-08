@@ -1,0 +1,9 @@
+From
+	Robin Porsemo
+	To
+	Emil Fridell; Thaer Saidi
+	Recipients
+	emil.fridell@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Yes, I pushed my changes to the branch some time ago so I'm fine with how it is now. Probably will be new requirements when we hand over parts of the docs to CAP but that will to be sorted when we know what they require.

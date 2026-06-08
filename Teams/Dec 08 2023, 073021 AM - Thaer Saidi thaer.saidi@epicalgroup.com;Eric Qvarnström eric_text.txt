@@ -1,0 +1,21 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Malin Larsson
+great to hear. Have we heard if it was received in StreamBim as well?
+
+
+
+
+
+I had a look in the streambim workflow and did see that the message got canceled in the Receive workflow. Don't know the logic behind it, so I guess it's for
+Jens to investigate

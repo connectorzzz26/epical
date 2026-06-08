@@ -1,0 +1,10 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Karam Haroun har du något uppsatt lokalt så att du snabbt skulle kunna testköra funktionen med
+ schemat och denna filen bara för att se att det lirar?

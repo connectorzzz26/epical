@@ -1,0 +1,9 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Strange the data is bad when we like pushed these events you mentioned, 3-5 times in December. Just to test how fast we can do the load. So these events should be ok.

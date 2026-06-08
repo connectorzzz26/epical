@@ -1,0 +1,15 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Här finns en kort guide om vad som måste göras för att börja göra deploys med rätt tags:  https://dev.azure.com/NccDevelopment/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/2605/Deployments?anchor=update-deployment-file 
+
+
+ 
+
+
+Så nu får vi väl börja gå över succesivt till detta

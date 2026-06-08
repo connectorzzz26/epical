@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Johan Lindholm  Eliasson
+	Recipients
+	johan.lindholmeliasson@epicalgroup.com
+
+
+So if you want to have a look at some code check that because we don’t have anything yet for ExternalResource

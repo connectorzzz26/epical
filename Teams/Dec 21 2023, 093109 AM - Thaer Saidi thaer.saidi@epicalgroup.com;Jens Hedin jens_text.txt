@@ -1,0 +1,9 @@
+From
+	Jens Hedin
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+frågan är om vi inte borde göra om och göra rätt. Ta bort shared från kv och sb... ?

@@ -1,0 +1,10 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Björn Hackberg Sebastian Pettersson vet
+ inte om ni vill ha en task för att reda ut hur ni ska logga, eller det kanske är löst generellt i ramp designen

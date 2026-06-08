@@ -1,0 +1,17 @@
+From
+	Thaer Saidi
+	To
+	Carita Järvinen; Salih Serdenak
+	Recipients
+	carita.jarvinen@epicalgroup.com; salih.serdenak@epicalgroup.com
+
+
+Hey Carita,
+
+
+Salih is working on the DespatchUnit subscriber, a copy of SupplierUnit,
+
+
+Normally he will use the api management endpoint for MAD like in supplierUnit however in the supplierUnit we have an endpoint:
+
+https://apigatewaydev.ncc.info/mad-test/api/v1/SupplierUnits

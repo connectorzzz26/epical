@@ -1,0 +1,10 @@
+From
+	Adam Deblén
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+No worries, just let me know and I can reassign. I think they just want to know how the implementation works and if there are any actions that needs to be taken "ahead of time" so we are not waiting for any network configurations etc when it's 1 week until
+ release

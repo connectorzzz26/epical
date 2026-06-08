@@ -1,0 +1,19 @@
+From
+	Henrik Hörnlund
+	To
+	Mattias Larsson; Carita Järvinen; Jens Hedin; Ronny Pettersson; Malin Larsson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi
+	Recipients
+	mattias.larsson@epicalgroup.com; carita.jarvinen@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Om det ska förlängas mer än 1 år så kommer det sannolikt ställe till lite problem även  ivår ände.
+
+
+Det är begränsat till 1 år då vi annars riskerar att slå i taket för hur stort ett meddelande får vara på servicebussen.
+
+
+ 
+
+
+Om det ska bli större så finns två alternativ servicebus premium (2500kr/månad/ramp för alla som subbar på det eventet) eller byta arkitektur och sluta jobba med servicebus i de eventen och gå över till blobar(filer) det är en ganska stökig ändring för vår
+ del

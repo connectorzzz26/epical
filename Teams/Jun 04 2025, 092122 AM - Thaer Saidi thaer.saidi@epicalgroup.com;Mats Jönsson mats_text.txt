@@ -1,0 +1,9 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+no...not in this case (PUB) DKM ==> MBB/DF ==> (SUB) PP. So there will be an Sucessfactor/subscribe on this event from MBB

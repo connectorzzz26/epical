@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+the wiki is a folder structure on the git repo, so basically when you add the picture to the page you are working on it lands in that sub-folder in the repo

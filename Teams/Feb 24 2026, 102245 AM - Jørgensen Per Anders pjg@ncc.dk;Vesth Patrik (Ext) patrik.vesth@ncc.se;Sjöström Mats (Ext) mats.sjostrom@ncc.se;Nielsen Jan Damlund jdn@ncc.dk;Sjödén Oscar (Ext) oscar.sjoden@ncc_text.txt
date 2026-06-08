@@ -1,0 +1,19 @@
+From
+	Sølvsten Henrik (Ext)
+	To
+	Jørgensen Per Anders; Vesth Patrik (Ext); Sjöström Mats (Ext); Nielsen Jan Damlund; Sjödén Oscar (Ext); Rosendahl Staffan (Ext); Boman Simon (Ext); Malin Larsson; Lindblad Emelie (Ext); Emelie Lindblad; Peter Ekeros; Fridell Emil (Ext); Thaer Saidi; Alexander Triebe; Porsemo Robin (Ext); Jönsson Mats (Ext); Triebe Alexander (Ext); Larsson Malin (Ext); Cyrén Rebecca (Ext); Lundbäck Niklas (Ext)
+	Recipients
+	pjg@ncc.dk; patrik.vesth@ncc.se; mats.sjostrom@ncc.se; jdn@ncc.dk; oscar.sjoden@ncc.se; staffan.rosendahl@ncc.se; simon.boman@ncc.se; malin.larsson@epicalgroup.com; emelie.lindblad@ncc.se; emelie.lindblad@epicalgroup.com; peter.ekeros@epicalgroup.com; emil.fridell@ncc.se; thaer.saidi@epicalgroup.com; alexander.triebe@epicalgroup.com; robin.porsemo@ncc.se; mats.jonsson3@ncc.se; alexander.triebe@ncc.se; malin.larsson2@ncc.se; rebecca.cyren@ncc.se; niklas.lundback@ncc.se
+
+
+Unit4 Migration Script
+
+
+
+		Job codes
+
+		Workplace codes
+
+		Allowances codes
+
+		Employee relations to these

@@ -1,0 +1,9 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+in the above example i think it is CPHCDA that is not correct, it should be something like 20251210 instead, but doesnt work with that change, anyway, signing off, have a nice day

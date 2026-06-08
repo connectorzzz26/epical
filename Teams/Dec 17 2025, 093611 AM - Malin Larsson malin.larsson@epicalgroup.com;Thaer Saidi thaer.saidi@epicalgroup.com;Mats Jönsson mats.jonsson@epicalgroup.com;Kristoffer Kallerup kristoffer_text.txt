@@ -1,0 +1,9 @@
+From
+	Kristoffer Kallerup
+	To
+	Malin Larsson; Thaer Saidi; Mats Jönsson
+	Recipients
+	malin.larsson@epicalgroup.com; thaer.saidi@epicalgroup.com; mats.jonsson@epicalgroup.com
+
+
+Mostly for Bug hunting

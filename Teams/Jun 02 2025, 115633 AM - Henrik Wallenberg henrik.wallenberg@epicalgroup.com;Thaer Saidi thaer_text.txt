@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Henrik Wallenberg
+	Recipients
+	henrik.wallenberg@epicalgroup.com
+
+
+???By looking at the system interface and event characteristics decide if we could re-use a previously used solution pattern or if we should create a new solution pattern. ???

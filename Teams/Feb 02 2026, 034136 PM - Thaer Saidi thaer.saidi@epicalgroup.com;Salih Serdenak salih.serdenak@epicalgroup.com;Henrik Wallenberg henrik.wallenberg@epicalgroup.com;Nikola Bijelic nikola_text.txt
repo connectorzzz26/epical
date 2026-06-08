@@ -1,0 +1,9 @@
+From
+	Nikola Bijelic
+	To
+	Thaer Saidi; Salih Serdenak; Henrik Wallenberg
+	Recipients
+	thaer.saidi@epicalgroup.com; salih.serdenak@epicalgroup.com; henrik.wallenberg@epicalgroup.com
+
+
+Salih Serdenak are there WAF rules blocking again or what is the issue?

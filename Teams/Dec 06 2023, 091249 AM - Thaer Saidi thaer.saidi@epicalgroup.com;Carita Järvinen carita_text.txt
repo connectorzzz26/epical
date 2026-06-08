@@ -1,0 +1,18 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Har vi kommit överens om hur den slutliga dokumentationen ska se ut för ett event (ramp, publisher, subscriber, messaging backbone osv) så att vi enkelt ser flödet och får den infiormation som behövs för förvaltningen och för eventuell vidareutveckling?
+
+
+Eller är tanken att designdokumenten ska vara det vi lämnar över till operations?
+
+
+ 
+
+
+Har implementerat rätt mycket senaste månaderna så det börjar bli dags att titta på dokumentationen så den inte glöms bort (och helst skulle jag göra allt parallellt)

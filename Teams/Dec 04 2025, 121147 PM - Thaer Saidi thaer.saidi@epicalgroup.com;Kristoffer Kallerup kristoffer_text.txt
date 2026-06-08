@@ -1,0 +1,12 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+It's missing Scope when calling to get a new token.
+
+
+Seems like it haven't been checked into the repo so I'll search if I can find it and put it in there.

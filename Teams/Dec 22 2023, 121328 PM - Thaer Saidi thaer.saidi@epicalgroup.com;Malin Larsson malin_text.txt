@@ -1,0 +1,10 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Feature 82368:
+ BCDE-ContractingFile-Pub

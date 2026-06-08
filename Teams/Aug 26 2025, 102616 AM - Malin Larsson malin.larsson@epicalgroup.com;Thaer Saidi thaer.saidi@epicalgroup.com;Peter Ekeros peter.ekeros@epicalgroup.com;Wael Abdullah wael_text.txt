@@ -1,0 +1,24 @@
+From
+	Wael Abdullah
+	To
+	Malin Larsson; Thaer Saidi; Peter Ekeros
+	Recipients
+	malin.larsson@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com
+
+
+I think you got some insights Today on how the testing is going messy !
+
+
+ 
+
+
+no written scenarios
+
+
+hidden business logic that not stated anywhere
+
+
+schemas updates without notifications ( this morning I found an update on compensation that caused a bug on Employee Hired and I fixed it silently ! 
+
+
+HRM hidden bugs ( that's ok as long as we realize that together and help HRM team to fix)

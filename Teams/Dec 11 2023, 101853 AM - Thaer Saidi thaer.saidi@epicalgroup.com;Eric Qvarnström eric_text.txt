@@ -1,0 +1,9 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Tycker att eventsen borde ligga under sbts-ps-allevents, men ser inget där heller

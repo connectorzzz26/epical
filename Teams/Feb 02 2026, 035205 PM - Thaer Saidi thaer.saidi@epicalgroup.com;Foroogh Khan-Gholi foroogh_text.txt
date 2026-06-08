@@ -1,0 +1,57 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+"con-sb-portals": {
+
+
+            "displayName": "con-sb-portals",
+
+
+            "parameterSetName": "ActiveDirectoryOAuth",
+
+
+            "parameterValues": {
+
+
+                "authProvider": {
+
+
+                    "ClientId": "@appsetting('AppRegClientID')",
+
+
+                    "CredentialType": "Secret",
+
+
+                    "Secret": "@appsetting('AppRegClientSecret')",
+
+
+                    "Tenant": "@appsetting('AppRegTenantId')",
+
+
+                    "Type": "ActiveDirectoryOAuth"
+
+
+                },
+
+
+                "fullyQualifiedNamespace": "@appsetting('NCCPortalsServiceBus')"
+
+
+            },
+
+
+            "serviceProvider": {
+
+
+                "id": "/serviceProviders/serviceBus"
+
+
+            }
+
+
+        },

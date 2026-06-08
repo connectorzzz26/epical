@@ -1,0 +1,21 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Carita Järvinen
+annars borde de väl ha godkänt det redan eftersom det som skickas in är det canoniska formatet, eller?
+
+
+
+
+
+T.ex. med Employee fick vi chansa en del i mappningen, vilka fält som skulle plockas från Native-meddelandet i mappningen till kanoniskt format. Så vi kan verifiera att strukturen stämmer mot det kanoniska schemat, men att innehållet i det kanoniska meddelandet
+ stämmer är inget vi kan bekräfta, där behöver vi folk från NCC

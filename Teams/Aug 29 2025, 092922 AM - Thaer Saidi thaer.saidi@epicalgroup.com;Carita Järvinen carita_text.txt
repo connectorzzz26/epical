@@ -1,0 +1,18 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+DeliveryApp hämtar fel version av Supplier...
+
+
+"dataschema": "supplier/2.0/SupplierEventSchema.json",
+
+
+ 
+
+
+Kontrollera alla era InitialLoads så att ni hämtar rätt version av eventet. Troligen behöver ni (om ni inte redan gjort det) skapa API permissions i rampens App registration

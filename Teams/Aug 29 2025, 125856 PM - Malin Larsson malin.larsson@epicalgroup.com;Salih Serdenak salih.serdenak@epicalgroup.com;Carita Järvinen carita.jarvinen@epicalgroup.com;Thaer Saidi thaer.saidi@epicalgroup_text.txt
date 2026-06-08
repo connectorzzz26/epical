@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Malin Larsson; Salih Serdenak; Carita Järvinen; Thaer Saidi
+	Recipients
+	malin.larsson@epicalgroup.com; salih.serdenak@epicalgroup.com; carita.jarvinen@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+initialload för deliverynote ser ut att vara klar nu i test

@@ -1,0 +1,12 @@
+From
+	Nicklas Andersson
+	To
+	Adam Deblén; Björn Hackberg; Henrik Wallenberg; Mats Jönsson; Elisabeth Blom; Thaer Saidi; Peter Ekeros; Nikola Bijelic; Sohail Shaikh; Malin Larsson; Omid Manai; Odenfelt Kajsa; Hackberg Björn (Ext)
+	Recipients
+	adam.deblen@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mats.jonsson@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; nikola.bijelic@epicalgroup.com; sohail.shaikh@epicalgroup.com; malin.larsson@epicalgroup.com; omid.manai@epicalgroup.com; kajsa.odenfelt@ncc.se; bjorn.hackberg@ncc.se
+
+
+Did we come to a conclusion regarding the Tagetik adapter and ramp last week. 
+
+
+Is it one ramp (current) or a new one only for the adapter?

@@ -1,0 +1,31 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Peter Ekeros; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Henrik Hörnlund; Berhan Karagöz; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; henrik.hornlund@epicalgroup.com; berhan.karagoz@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+I am troubleshooting some errors while testing. And stumbled upon that the storage account for Despatchunit has not been created in stschemarepositorydev. And I am not sure how this works and Henrik Wallenberg tried
+ to help me understand how the process works with gathering the new schema. We could not really understand how everything works. There are an Schema-Pipeline called  "NCI-MessagingBackbone-SchemaRepository-Schemas"? Will it automatically create a new schema
+ container inside the Storage Account? Or what should I think about? 
+
+
+ 
+
+
+My error in the workflow:
+
+
+ 
+
+
+
+
+
+
+
+
+0-cse-d1-7f4dd39e922d7dd5c1ed0f76b9abd420
+
+0-cse-d4-fe2bfd5ee870c0ab00eb9e69f55ce8fc

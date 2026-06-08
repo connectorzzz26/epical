@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Peter Ekeros; Thaer Saidi
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+Wiretap should be included in all of the events included in HR Core project (only HR Core at the moment).

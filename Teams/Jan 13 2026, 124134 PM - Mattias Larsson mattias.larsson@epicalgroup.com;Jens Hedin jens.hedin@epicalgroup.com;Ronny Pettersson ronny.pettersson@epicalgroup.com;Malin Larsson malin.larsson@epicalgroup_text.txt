@@ -1,0 +1,36 @@
+From
+	Peter Ekeros
+	To
+	Mattias Larsson; Jens Hedin; Ronny Pettersson; Malin Larsson; Mats Jönsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Foroogh Khan-Gholi; Lauri Karppinen; Nikola Bijelic; Johan Lindholm  Eliasson; Kristoffer Kallerup; Rasmus Elofsson
+	Recipients
+	mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; nikola.bijelic@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; rasmus.elofsson@epicalgroup.com
+
+
+Hi!
+
+
+ 
+
+
+Want to raise that is something fishy going on in the DF (With Indentity2409), with multiple object related to same PhysicalPerson2409. 
+
+
+ 
+
+
+
+
+
+ 
+
+
+With different related object ID. One object was created in December, and another one today.
+
+
+ 
+
+
+Dont know how big the issue is, but yeah.. something is not working as it should.
+
+
+0-cse-d3-148742fdb25ff39fa4adca6d19fad356

@@ -1,0 +1,20 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Carita Järvinen
+Ska det vara samma ServiceName för allt, eller ska vi använda rampnamnet där som vi gjort tidigare?
+
+
+
+
+
+Du ska ange rampen för de resurser som tillhör rampen

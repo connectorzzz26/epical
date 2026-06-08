@@ -1,0 +1,27 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi; Wael Abdullah
+	Recipients
+	thaer.saidi@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+Hm, first of all, iknow the estimates done before, on building ramps/events are quite high. So have that in mind. Plus, there will allways be alot of testing, often more then specified.
+
+
+ 
+
+
+The solution are almost manually added (The creation of database and such), and it should only apply once (not for the events tho, because they are pipeline build). So in that point of view, we dont need pipelines and such. 
+
+
+ 
+
+
+How do we do here with security? Do we need something to protect this data? 
+
+
+ 
+
+
+We need an elevated user to create such resursers too I guess.

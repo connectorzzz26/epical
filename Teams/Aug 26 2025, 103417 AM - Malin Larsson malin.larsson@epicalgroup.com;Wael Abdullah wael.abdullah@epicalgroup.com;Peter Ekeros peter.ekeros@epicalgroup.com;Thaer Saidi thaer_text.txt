@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson; Wael Abdullah; Peter Ekeros
+	Recipients
+	malin.larsson@epicalgroup.com; wael.abdullah@epicalgroup.com; peter.ekeros@epicalgroup.com
+
+
+I don't believe that Zain is aware of all the logic that needs to be there when conducting the tests and this is a bit problematic when we don't have fully documented mappings and logic there

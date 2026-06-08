@@ -1,0 +1,9 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Kan en subscriber ta emot flera olika versioner av ett event? Misstänker att det bara gäller att en publisher kan hantera olika versioner av det canoniska formatet, men att en subscriber tar emot en speciell version. Eller så tänker jag fel...

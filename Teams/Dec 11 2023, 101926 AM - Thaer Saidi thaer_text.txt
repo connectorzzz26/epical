@@ -1,0 +1,20 @@
+From
+	9d34260a-ab59-4752-9e55-b5d22ca18c02@f0f294b8-404d-442a-aa32-15f390295a6a
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+
+
+
+Eric Qvarnström
+Tycker att eventsen borde ligga under sbts-ps-allevents, men ser inget där heller 😧
+
+
+
+
+
+Skriver de fel i subject så hamnar de där i allevents, den fångar upp allt men landar det inte där så har vi inte fått dem

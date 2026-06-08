@@ -1,0 +1,9 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+There is a PR to remove event EmploymentTerminated from main in the ramp repo but since the ramp is divided into each pipeline it's not important that it is approved.

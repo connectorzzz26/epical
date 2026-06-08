@@ -1,0 +1,17 @@
+From
+	Carita Järvinen
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Salih Serdenak
+Fixar och deployar om DeliveryApp. Dessa är nya versioner av existerande events, så app reggarna ska vara gjorda sedan innan.
+
+
+
+
+
+ja... dom styr ju bara security classification... det var jag som tänkte fel

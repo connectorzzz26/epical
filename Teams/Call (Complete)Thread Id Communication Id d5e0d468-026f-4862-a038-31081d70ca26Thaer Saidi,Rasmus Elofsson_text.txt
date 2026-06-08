@@ -1,0 +1,18 @@
+Call (Complete)/Thread Id: /Communication Id: d5e0d468-026f-4862-a038-31081d70ca26/Thaer Saidi,Rasmus Elofsson
+
+Call (Complete)/Thread Id: /Communication Id: d5e0d468-026f-4862-a038-31081d70ca26/Thaer Saidi,Rasmus Elofsson
+	From
+	Thaer Saidi
+	To
+	Thaer Saidi; Rasmus Elofsson
+	Recipients
+	thaer.saidi@epicalgroup.com; rasmus.elofsson@epicalgroup.com
+
+Start Time (UTC): 1/27/2026 2:18:57 PM
+End Time (UTC): 1/27/2026 2:47:08 PM
+Duration: 00:28:10.7872823
+
+[1/27/2026 2:18:57 PM (UTC)] thaer.saidi@epicalgroup.com joined.
+[1/27/2026 2:47:08 PM (UTC)] thaer.saidi@epicalgroup.com left.
+[1/27/2026 2:18:57 PM (UTC)] rasmus.elofsson@epicalgroup.com joined.
+[1/27/2026 2:47:08 PM (UTC)] rasmus.elofsson@epicalgroup.com left.

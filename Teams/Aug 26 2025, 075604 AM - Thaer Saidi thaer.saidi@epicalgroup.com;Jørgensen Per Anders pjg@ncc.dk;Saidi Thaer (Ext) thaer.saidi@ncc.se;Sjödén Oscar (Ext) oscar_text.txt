@@ -1,0 +1,38 @@
+From
+	Sjödén Oscar (Ext)
+	To
+	Thaer Saidi; Jørgensen Per Anders; Saidi Thaer (Ext)
+	Recipients
+	thaer.saidi@epicalgroup.com; pjg@ncc.dk; thaer.saidi@ncc.se
+
+
+ 
+
+
+
+
+
+		category
+		 
+		 
+
+
+
+
+		Värde i HRM
+		Externt värde As-Is
+		Klartext
+
+
+
+
+		1
+		1
+		Timavlönad
+
+
+
+
+		2
+		2
+		Månadsavlönad

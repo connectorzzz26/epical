@@ -1,0 +1,29 @@
+From
+	Thaer Saidi
+	To
+	Emil Fridell; Robin Porsemo
+	Recipients
+	emil.fridell@epicalgroup.com; robin.porsemo@epicalgroup.com
+
+
+
+
+
+
+
+
+
+
+
+
+This might be important to note as it is from the IFS adapter
+
+0-sse-d3-1147779da5845a3754d2982e97d416e5
+
+0-cse-d2-05726ef24d0c29bdcfe36ed280c90faa
+
+0-sse-d2-e29ea6fbef1b3f4ca5c957b9763f7692
+
+0-cse-d4-88c7dec8f3ef14af5c50d71335b77bdd
+
+0-sse-d4-3f6ac2be56ed6454a4c78be765a0c396

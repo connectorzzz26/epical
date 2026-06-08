@@ -1,0 +1,95 @@
+HRM Outage Report
+The HRM Payroll outage simulation tested how the NCIP HRM integration handles interruptions in message processing and recovery afterward. The aim was to confirm that no messages were lost and to identify any data or mapping issues when workflows resumed. 
+Workflow Results
+These are all the workflow’s runs we had and the messages that we received on each step, in numbers:
+	EventType
+	Messages count
+
+	Workflows
+	Receive 
+Flow
+	PreProces
+Flow
+	Transform Flow
+	Send Flow
+
+
+	Employee2409CurrentlyEffective 
+	34 Success (15 Filterd out)
+	N/A
+	34 Failures
+	NO
+
+	EmployeeRehired
+	3 Success
+	N/A
+	3 Failures
+	NO
+
+	EmployeeHired
+	 18 Success (58 Filterd out)
+	N/A
+	16 Success ( 2 filtered out) 
+	16 Failures
+
+	Employee2409WithBankAccount
+	42 Success
+	N/A
+	42 Failures
+	NO
+
+	EmploymentTerminated
+	9 Success
+	9 Success
+	9 Success
+	9 Failures
+
+
+
+Dead Letter Queue (DLQ) Summary
+During the outage, several events accumulated in the DLQ as workflows could not complete:
+· 31 in Employee2409CurrentlyEffective (Transform queue)
+· 3 in EmployeeRehired (Transform queue)
+· 16 in EmployeeHired (Send queue)
+· 9 in EmploymentTerminated (Send queue)
+· 42 in Employee2409WithBankAccount
+
+Results After Message Resubmission
+After resubmitting the failed or DLQ’d messages (Resumed in this same order):
+Employee Hired 
+· 1 failed event 
+· HRM error: GlobalBusinessObjectId 10001384 "invalidParameters":[{"property":"personNo","value":"19949196-2311","reason":"No valid social security
+
+EmployementTerminated 
+· NO ERRORS
+
+Employee Rehire 
+· 3 failed events:
+· Business rule error from NCIP: GlobalBusinessObjectId T900008116 The number of position2411's with effectiveDate [10/15/2025 12:00:00 AM +00:00] was not found, or was greater than 1.
+· unknow mapping error that need to be handle
+· HRM.Inbound.Models.NCIP.EmployeeRehired.EmployeeRehiredExtension.GetHrmEmpId	
+
+· unknow mapping error that need to be handled
+· HRM.Inbound.Models.NCIP.EmployeeRehired.EmployeeRehiredExtension.GetHrmEmpId	
+
+Employee currently effective: 
+· 3 events failed:
+· HRM Error: Could not update employment 40051001601 for person 1001601. Got the following error message: {"updateErrors":["Field: empstart, LogIdentifier: Employment start date does not match change date for new employment (14)"]
+· HRM Error: Could not update employment 40211001617 for person 1001617. Got the following error message: {"updateErrors":["Field: empstart, LogIdentifier: Employment start date does not match change date for new employment (14)"]
+· HRM Error: Could not update user with Username CTSEOSKNIL and PersonId 1001583. Got the following error message: {"errorCode":"INTERNAL_SERVER_ERROR","defaultMessage":"Internal server error: ","parameters":{}}
+
+Employee2409WithBankAccount 
+· NO ERRORS
+
+Conclusion
+The outage simulation confirmed that message flow recovery and resubmission work as intended, no evidence of message loss or timeout was observed.
+However, the resubmission revealed multiple data related and mapping issues and inconsistent enrichment timing.
+Key takeaways:
+· The system recovers successfully after an outage without losing messages.
+· Failures are mainly caused by HRM data validation and mapping inconsistencies.
+· To ensure data accuracy after outages, improved error handling, and validation of enrichment timing are recommended before replay.
+Internal
+
+Internal
+
+Internal

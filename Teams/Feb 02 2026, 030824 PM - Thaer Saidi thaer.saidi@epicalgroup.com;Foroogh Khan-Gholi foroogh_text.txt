@@ -1,0 +1,9 @@
+From
+	Foroogh Khan-Gholi
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+should we be able to send to nccportals in dev or test?

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak
+	Recipients
+	salih.serdenak@epicalgroup.com
+
+
+I have a technical question: I made a change to a diagram in draw.io and I want to embed the image of the diagram in the wiki but I'm not sure where are the attachments stored, do you know how it's done ?

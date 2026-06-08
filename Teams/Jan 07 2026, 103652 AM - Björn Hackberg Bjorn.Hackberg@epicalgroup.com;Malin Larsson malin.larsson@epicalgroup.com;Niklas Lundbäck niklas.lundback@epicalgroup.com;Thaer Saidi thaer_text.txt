@@ -1,0 +1,27 @@
+From
+	Thaer Saidi
+	To
+	Björn Hackberg; Malin Larsson; Niklas Lundbäck
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; niklas.lundback@epicalgroup.com
+
+NCC_Fabric_Strategic_Proposal.docx
+
+
+
+Hey
+
+
+I put together a quick draft on how we might use a "Fabric Snapshot" pattern to handle the issues raised during the call earlier as per my knowledge and understanding from the core finance project. 
+
+
+It essentially lets us keep our current serverless architecture but offloads the heavy lifting to Fabric so that we overcome the lack of dev in some systems and the initial load issues.
+
+
+this is super easy to implement if we have a Fabric capacity in the team but I know that we do at Epical so should be okay 
+
+
+ 
+
+
+NCC_Fabric_Strategic_Proposal.docx

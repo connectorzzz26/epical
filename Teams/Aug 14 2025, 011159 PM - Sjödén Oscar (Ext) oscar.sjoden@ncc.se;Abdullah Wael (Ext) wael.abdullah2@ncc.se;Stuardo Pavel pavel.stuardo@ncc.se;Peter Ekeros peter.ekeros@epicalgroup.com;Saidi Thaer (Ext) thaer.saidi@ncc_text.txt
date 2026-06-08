@@ -1,0 +1,45 @@
+From
+	Ulabbas Zain (Ext)
+	To
+	Sjödén Oscar (Ext); Abdullah Wael (Ext); Stuardo Pavel; Peter Ekeros; Saidi Thaer (Ext); Thaer Saidi; Rachid Ferenay
+	Recipients
+	oscar.sjoden@ncc.se; wael.abdullah2@ncc.se; pavel.stuardo@ncc.se; peter.ekeros@epicalgroup.com; thaer.saidi@ncc.se; thaer.saidi@epicalgroup.com; rachid.ferenay@hrmsoftware.se
+
+
+Hire/Rehire 
+
+
+ "PhysicalAddressType": {
+
+
+                                    "Code": "Home address",
+
+
+                                    "ID": 5,
+
+
+                                    "Name": "Home address"
+
+
+                                }
+
+
+ 
+
+
+Employee2409CE
+
+
+   "PhysicalAddressType": {
+
+
+                            "Code": "HOM",
+
+
+                            "ID": 5,
+
+
+                            "Name": "Home address"
+
+
+                        }

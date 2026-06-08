@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Kristoffer Kallerup
+	Recipients
+	kristoffer.kallerup@epicalgroup.com
+
+
+Yes we should create a branch hrm-legacy or something and keep the related code there instead

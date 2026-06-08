@@ -1,0 +1,31 @@
+From
+	Peter Ekeros
+	To
+	Henrik Wallenberg; Björn Hackberg; Malin Larsson; Mats Jönsson; Elisabeth Blom; Thaer Saidi; Nicklas Andersson; Nikola Bijelic; Adam Deblén; Sohail Shaikh; Omid Manai
+	Recipients
+	henrik.wallenberg@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; mats.jonsson@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; nicklas.andersson@epicalgroup.com; nikola.bijelic@epicalgroup.com; adam.deblen@epicalgroup.com; sohail.shaikh@epicalgroup.com; omid.manai@epicalgroup.com
+
+
+
+Henrik Wallenberg
+ok yes well it would mess up the logging to have 2 events going through the same channels I think. Will not be good trackable end to end
+
+
+
+
+
+thats true.
+
+
+ 
+
+
+
+Henrik Wallenberg
+can they subscribe to the CE same way as the "normal" event and do some filtering on the things they are interested in?
+
+
+
+
+
+Yeah, its an option.

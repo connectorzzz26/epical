@@ -1,0 +1,24 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+
+Malin Larsson
+Could Wael start with Compensation?
+
+
+
+
+
+About Transition Company it is a data quality problem for Company events on testing/dev data foundation that cause lookup by LocalCompanyID returns multiple companies instead of a unique one! so we agreed to just select the first returned Company from the
+ rederived list as a workaround and in production it will be always one
+
+
+ 
+
+
+That long story to just say I will fix quickly that then I could start in a new event "Compensation"

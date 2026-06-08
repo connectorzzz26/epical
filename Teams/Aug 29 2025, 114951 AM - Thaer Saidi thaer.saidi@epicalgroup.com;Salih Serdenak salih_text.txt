@@ -1,0 +1,10 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Foroogh Khan-Gholi I have cleaned a queue which had many messages on the dlq, lots of old stuff,
+ and I just restarted the initialload, so we can monitor to see if something new goes wrong and it will be easier to figure out

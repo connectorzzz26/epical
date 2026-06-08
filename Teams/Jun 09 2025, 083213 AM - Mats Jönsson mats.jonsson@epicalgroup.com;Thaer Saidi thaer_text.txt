@@ -1,0 +1,20 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+Hey Mats, good morning.
+
+
+- It's not really clear that ramp is listning on Adapter SB/Topic (in flow picture it seems to be a part of ramp)?
+
+should I do it this way ?
+
+
+
+
+
+0-cse-d2-92db100f4c87ecc09633906df62298f3

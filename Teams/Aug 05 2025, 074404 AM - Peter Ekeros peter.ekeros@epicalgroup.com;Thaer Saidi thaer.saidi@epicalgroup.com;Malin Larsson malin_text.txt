@@ -1,0 +1,9 @@
+From
+	Malin Larsson
+	To
+	Peter Ekeros; Thaer Saidi
+	Recipients
+	peter.ekeros@epicalgroup.com; thaer.saidi@epicalgroup.com
+
+
+should be the same as ServiceNow-EmployeeHired-Sub so look into that design.

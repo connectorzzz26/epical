@@ -1,0 +1,9 @@
+From
+	Adam Deblén
+	To
+	Björn Hackberg; Henrik Wallenberg; Mats Jönsson; Elisabeth Blom; Thaer Saidi; Peter Ekeros; Nikola Bijelic; Nicklas Andersson; Sohail Shaikh; Malin Larsson; Omid Manai; Odenfelt Kajsa; Hackberg Björn (Ext); Wallenberg Henrik (Ext)
+	Recipients
+	Bjorn.Hackberg@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mats.jonsson@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; nikola.bijelic@epicalgroup.com; nicklas.andersson@epicalgroup.com; sohail.shaikh@epicalgroup.com; malin.larsson@epicalgroup.com; omid.manai@epicalgroup.com; kajsa.odenfelt@ncc.se; bjorn.hackberg@ncc.se; henrik.wallenberg@ncc.se
+
+
+{\"scopeId\":\"7aa949e4-c5ed-4da5-bb66-77b1f3040a39\",\"storageId\":\"e0b2bb39-6f19-4810-bc3c-a2900042fa0a@f0f294b8-404d-442a-aa32-15f390295a6a\",\"callId\":\"7aa949e4-c5ed-4da5-bb66-77b1f3040a39\",\"iCalUid\":\"040000008200E00074C5B7101A82E00807EA021BB0FDC6223938DC01000000000000000010000000ED27CC67C617BF4D9A30ABDC519D8D16\",\"exchangeId\":\"\",\"meetingTenantId\":\"f0f294b8-404d-442a-aa32-15f390295a6a\",\"modernGroupId\":null,\"meetingOrganizerId\":\"8:orgid:e0b2bb39-6f19-4810-bc3c-a2900042fa0a\",\"isDeleted\":false,\"originatorParticipantId\":\"52bcbb7f-6aae-4414-ade5-c97237036752\",\"isExportedToOdsp\":true}

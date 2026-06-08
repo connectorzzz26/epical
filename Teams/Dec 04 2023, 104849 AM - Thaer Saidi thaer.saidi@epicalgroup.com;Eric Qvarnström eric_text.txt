@@ -1,0 +1,21 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+Screenshot 2023-12-04 at 11.45.37.png
+
+
+
+Har någon stött på detta förut? APIet som jag anropar tar emot flera query parametrar med samma KEY. När jag gör detta i den Swagger som jag blivit given så ser anropet ut såhär: 
+
+
+https://ncc-dc.digizuite.app/digizuitecore/legacyservice/api/assets/201?MetaFieldItemGuids=7e6fcd79-7c79-495d-8c92-9a2f3e9ce050&MetaFieldItemGuids=b1e3359b-a009-43a7-9c7d-4ac54f8ad7f4&MetaFieldItemGuids=e6689a16-e7df-4bed-88d1-d36a7727a28b.....
+
+
+Problemet är att när jag gör motsvarande i en LA så kan jag bara ha 1 query med KEY = MetaFieldItemGuids. Resterande tas bort så fort jag sparar mitt workflow. Idéer på hur jag ska göra? 
+
+
+0-sse-d3-f9f12a20b4e5273600f89372a4ccc3a4

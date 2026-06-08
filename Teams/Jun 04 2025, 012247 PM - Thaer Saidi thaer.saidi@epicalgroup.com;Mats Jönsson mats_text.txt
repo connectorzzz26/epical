@@ -1,0 +1,13 @@
+From
+	Mats Jönsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+if DKM is not that urgent, then we also have 
+https://dev.azure.com/NccDevelopment/Cmn-Integration/_workitems/edit/147674 that are next in line. ServiceNow have several, existing ramps in wiki:
+https://nccdevelopment.visualstudio.com/Cmn-Integration/_wiki/wikis/Cmn-Integration.wiki/3201/ServiceNow.
+ There I think you have to align with Solution Arch: 
+Niklas Brättemark how to proceed but I think this event will be "look alike" as the others ServiceNow-pub's

@@ -1,0 +1,30 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Peter Ekeros; Robert Johansson; Foroogh Khan-Gholi; Lauri Karppinen; Olli Takala; Nicklas Andersson; Björn Hackberg; Malin Larsson; Henrik Lindin; Mats Jönsson; Ronny Pettersson; Salih Serdenak; Wael Abdullah; Elisabeth Blom; Thaer Saidi; Henrik Wallenberg; Mattias Larsson; Jens Hedin; Carita Järvinen
+	Recipients
+	peter.ekeros@epicalgroup.com; robert.johansson@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; olli.takala@epicalgroup.com; nicklas.andersson@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; malin.larsson@epicalgroup.com; henrik.lindin@epicalgroup.com; mats.jonsson@epicalgroup.com; ronny.pettersson@epicalgroup.com; salih.serdenak@epicalgroup.com; wael.abdullah@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; carita.jarvinen@epicalgroup.com
+
+
+
+Foroogh Khan-Gholi
+Is there anyone who can help me with getting access to 'App Registration' and 'Entra ID'? (I don't seem to have access to any of them)
+
+
+
+
+
+When I started here at NCC I had to call NCC's service desk where they fixed something on their site (probably put my account in the right group). Then I got access to most of what I needed. I mentioned that I need access to the same Azure-related stuff
+ as my other colleagues from Epical.
+
+
+ 
+
+
+IT Service Desk Sweden 
+
+
+Opening hours 7.00 am - 5.00 pm 
+
+
++46 775 518 518

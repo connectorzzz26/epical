@@ -1,0 +1,17 @@
+From
+	Rachid Ferenay
+	To
+	Sjödén Oscar (Ext); Ulabbas Zain (Ext); Hörnlund Henrik (Ext); Stuardo Pavel; Wael Abdullah; Thaer Saidi; Peter Ekeros; Ekeros Peter (Ext)
+	Recipients
+	oscar.sjoden@ncc.se; zain.ulabbas@ncc.se; henrik.hornlund2@ncc.se; pavel.stuardo@ncc.se; wael.abdullah@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; peter.ekeros@ncc.se
+
+
+
+Wael Abdullah (Extern)
+In such case shall I check if there is no extension then skip posting the extension to HRM ? or HRM requires creation of HRM extension in the process of hire new employee ?
+
+
+
+
+
+You can scip the extensionpart if empty

@@ -1,0 +1,11 @@
+From
+	Johan Lindholm  Eliasson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+I do not understand why Malin told me this integration are estimated 144h. If I copied
+
+PhysicalPerson2409 and just change the names, schema etc. Its nothing else to be done if there is no mapping etc?

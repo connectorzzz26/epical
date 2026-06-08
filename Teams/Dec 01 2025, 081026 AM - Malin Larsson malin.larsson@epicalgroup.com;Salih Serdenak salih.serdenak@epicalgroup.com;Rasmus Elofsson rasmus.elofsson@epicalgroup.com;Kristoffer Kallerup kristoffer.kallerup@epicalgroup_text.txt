@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Malin Larsson; Salih Serdenak; Rasmus Elofsson; Kristoffer Kallerup
+	Recipients
+	malin.larsson@epicalgroup.com; salih.serdenak@epicalgroup.com; rasmus.elofsson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com
+
+
+She said that the priority for now is the decommissioning of prod events that are not used..

@@ -1,0 +1,15 @@
+From
+	Wael Abdullah
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+the translation table will contain
+
+
+ 
+
+
+test global id | production global id  ?

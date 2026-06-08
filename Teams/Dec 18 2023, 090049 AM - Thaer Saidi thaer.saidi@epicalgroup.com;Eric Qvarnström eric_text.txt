@@ -1,0 +1,17 @@
+From
+	Eric Qvarnström
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+Screenshot 2023-12-18 at 09.57.22.png
+
+
+
+Har uppdaterat vår bicep deployment pipeline så att den lägger på de nya tagsen på resursgrupperna. Men funderar på hur vi ska merga in detta? Ska jag merga in det i
+releases/v1.0.0 så att alla får ett error ifall man inte lagt in tags (som i bilden nedan), eller ska jag skapa en
+releases/v1.0.1 så att alla i lugn och ro får uppdatera sina pipelines?  
+
+
+0-cse-d3-b4063e0f10a76dc8e84d51f7c3789396

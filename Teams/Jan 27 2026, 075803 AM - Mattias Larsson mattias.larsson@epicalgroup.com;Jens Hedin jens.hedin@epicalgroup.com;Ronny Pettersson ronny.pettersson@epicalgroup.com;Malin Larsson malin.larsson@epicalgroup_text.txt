@@ -1,0 +1,16 @@
+From
+	Mats Jönsson
+	To
+	Mattias Larsson; Jens Hedin; Ronny Pettersson; Malin Larsson; Wael Abdullah; Salih Serdenak; Thaer Saidi; Peter Ekeros; Foroogh Khan-Gholi; Lauri Karppinen; Nikola Bijelic; Johan Lindholm  Eliasson; Kristoffer Kallerup; Rasmus Elofsson
+	Recipients
+	mattias.larsson@epicalgroup.com; jens.hedin@epicalgroup.com; ronny.pettersson@epicalgroup.com; malin.larsson@epicalgroup.com; wael.abdullah@epicalgroup.com; salih.serdenak@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com; lauri.karppinen@epicalgroup.com; nikola.bijelic@epicalgroup.com; johan.lindholmeliasson@epicalgroup.com; kristoffer.kallerup@epicalgroup.com; rasmus.elofsson@epicalgroup.com
+
+
+Everyone HI, On log V2 in different mbb-WF's, on all consumers, the log on receive object attribute "Ramp" is set by value "PublishingBusinessObjectID" not the actual ramp value.
+ This mess up the log's.
+
+
+ 
+
+
+Depending on how is responsible on each mbb-ramp, can you look into this and adjust?

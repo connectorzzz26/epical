@@ -1,0 +1,12 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Tester StreamBim
+
+
+Vi behöver bemanna tester både för StreamBim imorgon. Jag skulle säga att vi behöver någon med kunskap inom ProjectService/Data Foundation samt StreamBim imorgon, Jens är med, men Sofie eller Erik kanske kan vara lämpliga för "den andra sidan"?

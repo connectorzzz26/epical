@@ -1,0 +1,9 @@
+From
+	Odenfelt Kajsa
+	To
+	Adam Deblén; Björn Hackberg; Henrik Wallenberg; Mats Jönsson; Elisabeth Blom; Thaer Saidi; Peter Ekeros; Nikola Bijelic; Nicklas Andersson; Sohail Shaikh; Malin Larsson; Omid Manai; Hackberg Björn (Ext)
+	Recipients
+	adam.deblen@epicalgroup.com; Bjorn.Hackberg@epicalgroup.com; henrik.wallenberg@epicalgroup.com; mats.jonsson@epicalgroup.com; elisabeth.blom@epicalgroup.com; thaer.saidi@epicalgroup.com; peter.ekeros@epicalgroup.com; nikola.bijelic@epicalgroup.com; nicklas.andersson@epicalgroup.com; sohail.shaikh@epicalgroup.com; malin.larsson@epicalgroup.com; omid.manai@epicalgroup.com; bjorn.hackberg@ncc.se
+
+
+Hi, why is this a SDC question? Is this not a technical implementation question?

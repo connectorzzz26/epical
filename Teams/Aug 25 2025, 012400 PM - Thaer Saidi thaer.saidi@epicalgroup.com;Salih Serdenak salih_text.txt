@@ -1,0 +1,32 @@
+From
+	Salih Serdenak
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+to clarify... the data is in an envelope, then so it looks like this:
+
+
+
+
+    "businessobjectid": "1912",
+
+    "globalbusinessobjectid": "1912",
+
+    "data": {
+
+        "Supplier": {
+
+
+ 
+
+
+I assume I should only send { "Supplier": ...
+
+
+ 
+
+
+or should I send the data inside of the supplier key?

@@ -1,0 +1,536 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/employee2409-only.json",
+  "title": "Employee2409 Payload",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["Employee2409"],
+  "properties": {
+    "Employee2409": { "$ref": "#/$defs/Employee2409" }
+  },
+  "$defs": {
+    "Employee2409": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "BirthDate",
+        "Code",
+        "GroupHireInitialDate",
+        "ID",
+        "EmployeeEffective",
+        "Employment2409",
+        "EmployeePhysicalAddressEffective",
+        "JobAssignment",
+        "LogicalAddress",
+        "PhysicalPerson2409",
+        "EmployeeBankAccountEffective"
+      ],
+      "properties": {
+        "BirthDate": { "type": "string", "format": "date" },
+        "Code": { "type": "string" },
+        "GroupHireInitialDate": { "type": "string", "format": "date" },
+        "ID": { "type": "integer" },
+        "EmployeeEffective": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/EmployeeEffective" },
+          "minItems": 1
+        },
+        "Employment2409": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Employment2409" },
+          "minItems": 1
+        },
+        "EmployeePhysicalAddressEffective": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/EmployeePhysicalAddressEffective" },
+          "minItems": 1
+        },
+        "JobAssignment": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/JobAssignment" },
+          "minItems": 1
+        },
+        "LogicalAddress": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/LogicalAddress" },
+          "minItems": 1
+        },
+        "PhysicalPerson2409": { "$ref": "#/$defs/PhysicalPerson2409" },
+        "EmployeeBankAccountEffective": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/EmployeeBankAccountEffective" },
+          "minItems": 1
+        }
+      }
+    },
+
+    "EmployeeEffective": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["EffectiveDate", "EmployeeStatus", "Gender", "ManagedBy"],
+      "properties": {
+        "EffectiveDate": { "type": "string", "format": "date" },
+        "EmployeeStatus": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID", "Name"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" },
+            "Name": { "type": "string" }
+          }
+        },
+        "Gender": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Description", "Code"],
+          "properties": {
+            "Description": { "type": "string" },
+            "Code": { "type": "string" }
+          }
+        },
+        "ManagedBy": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["Type", "FulfilledBy"],
+            "properties": {
+              "Type": { "type": "string" },
+              "FulfilledBy": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["PhysicalPersonID", "SAMAccountName"],
+                "properties": {
+                  "PhysicalPersonID": { "type": "integer" },
+                  "SAMAccountName": { "type": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "Employment2409": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["Code", "ID", "EmploymentEffective", "Compensation"],
+      "properties": {
+        "Code": { "type": "string" },
+        "ID": { "type": "integer" },
+        "EmploymentEffective": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/EmploymentEffective" },
+          "minItems": 1
+        },
+        "Compensation": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Compensation" },
+          "minItems": 1
+        }
+      }
+    },
+
+    "EmploymentEffective": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ActualWorkingHours",
+        "EffectiveDate",
+        "EmploymentCategory",
+        "FTE",
+        "HireDate",
+        "ExemptFromOverTime",
+        "NccCompany",
+        "SeniorityStartDate",
+        "PreferredJobTitle",
+        "VacationDays",
+        "EmploymentType2409",
+        "PermanentWorkplace",
+        "UnionCollectiveAgreement"
+      ],
+      "properties": {
+        "ActualWorkingHours": { "type": "number" },
+        "EffectiveDate": { "type": "string", "format": "date" },
+        "EmploymentCategory": { "type": "string" },
+        "FTE": { "type": "number" },
+        "HireDate": { "type": "string", "format": "date" },
+        "ExemptFromOverTime": { "type": "boolean" },
+        "NccCompany": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID", "Name", "HrCompany", "OrganizationNumber", "Country"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" },
+            "Name": { "type": "string" },
+            "HrCompany": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["Code", "ID"],
+              "properties": {
+                "Code": { "type": "string" },
+                "ID": { "type": "integer" }
+              }
+            },
+            "OrganizationNumber": { "type": "string" },
+            "Country": { "$ref": "#/$defs/CountryFull" }
+          }
+        },
+        "SeniorityStartDate": { "type": "string", "format": "date" },
+        "PreferredJobTitle": { "type": "string" },
+        "VacationDays": { "type": "integer" },
+        "EmploymentType2409": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID", "Name"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" },
+            "Name": { "type": "string" }
+          }
+        },
+        "PermanentWorkplace": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "Name"],
+          "properties": {
+            "Code": { "type": "string" },
+            "Name": { "type": "string" }
+          }
+        },
+        "UnionCollectiveAgreement": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "Name", "Country"],
+          "properties": {
+            "Code": { "type": "string" },
+            "Name": { "type": "string" },
+            "Country": { "$ref": "#/$defs/CountryFull" }
+          }
+        }
+      }
+    },
+
+    "Compensation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "Code",
+        "EffectiveDate",
+        "EndDate",
+        "ID",
+        "IsEligibleBenefit",
+        "IsEligibleCar",
+        "CompensationComponent",
+        "CompensationPayType",
+        "Employment2409"
+      ],
+      "properties": {
+        "Code": { "type": "string" },
+        "EffectiveDate": { "type": "string", "format": "date" },
+        "EndDate": { "type": "string", "format": "date" },
+        "ID": { "type": "integer" },
+        "IsEligibleBenefit": { "type": "boolean" },
+        "IsEligibleCar": { "type": "boolean" },
+        "CompensationComponent": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/CompensationComponent" },
+          "minItems": 1
+        },
+        "CompensationPayType": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID", "Name"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" },
+            "Name": { "type": "string" }
+          }
+        },
+        "Employment2409": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["ID", "Employee2409"],
+          "properties": {
+            "ID": { "type": "integer" },
+            "Employee2409": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["ID"],
+              "properties": { "ID": { "type": "integer" } }
+            }
+          }
+        }
+      }
+    },
+
+    "CompensationComponent": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "EffectiveDate",
+        "EndDate",
+        "Frequency",
+        "Value",
+        "Currency",
+        "PayComponent"
+      ],
+      "properties": {
+        "EffectiveDate": { "type": "string", "format": "date" },
+        "EndDate": { "type": "string", "format": "date" },
+        "Frequency": { "type": "string" },
+        "Value": { "type": "number" },
+        "Currency": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID", "Name"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" },
+            "Name": { "type": "string" }
+          }
+        },
+        "PayComponent": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "Type"],
+          "properties": {
+            "Code": { "type": "string" },
+            "Type": { "type": "string" }
+          }
+        }
+      }
+    },
+
+    "EmployeePhysicalAddressEffective": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["EffectiveDate", "PhysicalAddress"],
+      "properties": {
+        "EffectiveDate": { "type": "string", "format": "date" },
+        "PhysicalAddress": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "Address1",
+            "CountryCode",
+            "CountryName",
+            "PostalCode",
+            "PostalLocation",
+            "PhysicalAddressType"
+          ],
+          "properties": {
+            "Address1": { "type": "string" },
+            "CountryCode": { "type": "string" },
+            "CountryName": { "type": "string" },
+            "PostalCode": { "type": "string" },
+            "PostalLocation": { "type": "string" },
+            "PhysicalAddressType": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["Code", "ID", "Name"],
+              "properties": {
+                "Code": { "type": "string" },
+                "ID": { "type": "integer" },
+                "Name": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "JobAssignment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ID",
+        "JobAssignmentForm",
+        "JobAssignmentStatus",
+        "JobAssignmentType",
+        "PositionEntryDate",
+        "Position2411"
+      ],
+      "properties": {
+        "ID": { "type": "integer" },
+        "JobAssignmentForm": { "type": "string" },
+        "JobAssignmentStatus": { "type": "string" },
+        "JobAssignmentType": { "type": "string" },
+        "PositionEntryDate": { "type": "string", "format": "date" },
+        "Position2411": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID", "PositionEffective"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" },
+            "PositionEffective": {
+              "type": "array",
+              "items": { "$ref": "#/$defs/PositionEffective" },
+              "minItems": 1
+            }
+          }
+        }
+      }
+    },
+
+    "PositionEffective": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "EffectiveDate",
+        "EndDate",
+        "Active",
+        "PlannedWeeklyHours",
+        "Title",
+        "FTE",
+        "MassPosition",
+        "Vacant",
+        "Job",
+        "OrganizationalUnit2409",
+        "Workplace",
+        "FinancialOrganizationUnit",
+        "ParentPosition"
+      ],
+      "properties": {
+        "EffectiveDate": { "type": "string", "format": "date" },
+        "EndDate": { "type": "string", "format": "date" },
+        "Active": { "type": "boolean" },
+        "PlannedWeeklyHours": { "type": "number" },
+        "Title": { "type": "string" },
+        "FTE": { "type": "number" },
+        "MassPosition": { "type": "boolean" },
+        "Vacant": { "type": "boolean" },
+        "Job": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID"],
+          "properties": {
+            "Code": { "type": "integer" },
+            "ID": { "type": "integer" }
+          }
+        },
+        "OrganizationalUnit2409": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" }
+          }
+        },
+        "Workplace": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" }
+          }
+        },
+        "FinancialOrganizationUnit": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["ID", "InternalCompanyID", "Number"],
+          "properties": {
+            "ID": { "type": "integer" },
+            "InternalCompanyID": { "type": "string" },
+            "Number": { "type": "integer" }
+          }
+        },
+        "ParentPosition": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["ID"],
+          "properties": { "ID": { "type": "integer" } }
+        }
+      }
+    },
+
+    "LogicalAddress": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["Address", "LogicalAddressType"],
+      "properties": {
+        "Address": { "type": "string", "format": "email" },
+        "LogicalAddressType": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["Code", "ID", "Name"],
+          "properties": {
+            "Code": { "type": "string" },
+            "ID": { "type": "integer" },
+            "Name": { "type": "string" }
+          }
+        }
+      }
+    },
+
+    "PhysicalPerson2409": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["FirstName", "ID", "LastName", "NationalIdentityIdentifier", "Identity2409"],
+      "properties": {
+        "FirstName": { "type": "string" },
+        "ID": { "type": "integer" },
+        "LastName": { "type": "string" },
+        "NationalIdentityIdentifier": { "type": "string" },
+        "Identity2409": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["ID", "Email", "SAMAccountName"],
+          "properties": {
+            "ID": { "type": "integer" },
+            "Email": { "type": "string", "format": "email" },
+            "SAMAccountName": { "type": "string" }
+          }
+        }
+      }
+    },
+
+    "EmployeeBankAccountEffective": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["EffectiveDate", "EndDate", "Bankaccount2409"],
+      "properties": {
+        "EffectiveDate": { "type": "string", "format": "date" },
+        "EndDate": { "type": "string", "format": "date" },
+        "Bankaccount2409": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["AccountNumber", "Country", "Currency"],
+          "properties": {
+            "AccountNumber": { "type": "string" },
+            "Country": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["ID"],
+              "properties": { "ID": { "type": "integer" } }
+            },
+            "Currency": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["ID"],
+              "properties": { "ID": { "type": "integer" } }
+            }
+          }
+        }
+      }
+    },
+
+    "CountryFull": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["Alpha2Code", "Alpha3Code", "EnglishShortName", "NumericCode", "ID"],
+      "properties": {
+        "Alpha2Code": { "type": "string", "minLength": 2, "maxLength": 2 },
+        "Alpha3Code": { "type": "string", "minLength": 3, "maxLength": 3 },
+        "EnglishShortName": { "type": "string" },
+        "NumericCode": { "type": "integer" },
+        "ID": { "type": "integer" }
+      }
+    }
+  }
+}

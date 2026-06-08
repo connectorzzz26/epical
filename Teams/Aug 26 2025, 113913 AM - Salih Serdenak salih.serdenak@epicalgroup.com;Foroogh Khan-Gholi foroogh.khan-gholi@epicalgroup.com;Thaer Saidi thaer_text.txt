@@ -1,0 +1,12 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak; Foroogh Khan-Gholi
+	Recipients
+	salih.serdenak@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+As mentioned in the new updated wiki page there won't be need for the preprocess workflow
+
+
+When it comes to the Transform I'm not sure

@@ -1,0 +1,21 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Ah nice. 
+
+
+ 
+
+
+Yeah exactly. But in BrApproval, we need this new field. 
+
+
+ 
+
+
+So in other words, this change needs to be applied before someone starts developing the BrApproval. I will raise this with Kajsa later today, that we need to develop your Fin Act v2 design.

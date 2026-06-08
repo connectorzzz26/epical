@@ -1,0 +1,9 @@
+From
+	Peter Ekeros
+	To
+	Thaer Saidi; Wael Abdullah
+	Recipients
+	thaer.saidi@epicalgroup.com; wael.abdullah@epicalgroup.com
+
+
+Want to tare down HRM API right now ... it works a little better with 2 calls, but the issue persist. Zain told me now the 3 tests he did now, 2 of em didnt stick. Even with 2 reposts.... I increased it to 4, just for test.

@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Mats Jönsson
+	Recipients
+	mats.jonsson@epicalgroup.com
+
+
+If we have an event with 10 enrichments which practically all are mandatory, should we find a new way to get a fresh MBB token instead of the cached one to make sure that it doesn't expire while the workflow is running ?

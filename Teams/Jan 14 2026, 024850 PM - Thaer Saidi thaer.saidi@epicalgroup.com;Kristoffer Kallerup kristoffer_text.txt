@@ -1,0 +1,21 @@
+From
+	Kristoffer Kallerup
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+So I've made Employee2409WithBankAccount enrichment optional, I changed from an error log with termination to just a warning log so it's a good time to evaluate that kind of log as well.
+
+
+ 
+
+
+I also made so the workflow doesn't fail when both FinancialActivity and FinancialOrgUnit is missing. No logging on that since it's handed with JavaScript.
+
+
+ 
+
+
+And fetching all Unique OrganizationalUnit2409 and mapping them into where they should.

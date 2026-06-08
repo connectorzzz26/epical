@@ -1,0 +1,9 @@
+From
+	Thaer Saidi
+	To
+	Salih Serdenak; Foroogh Khan-Gholi
+	Recipients
+	salih.serdenak@epicalgroup.com; foroogh.khan-gholi@epicalgroup.com
+
+
+There won't be an Enrichment needed for Company like v2 because the new Supplier v3 has a nested object LegalEntity which contains all relevant information.

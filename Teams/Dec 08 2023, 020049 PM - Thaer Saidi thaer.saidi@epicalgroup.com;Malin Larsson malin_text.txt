@@ -1,0 +1,10 @@
+From
+	Malin Larsson
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+nu har jag testat att skapa upp en feature för siteservice-company-sub som är en av de nya beställningarna. Jag blir mycket tacksam om någon av er har möjlighet att kolla om ni håller med om de tasks som är skapade. Denna ska redan ha en ramp, så jag har
+ bara skapat en EventDesign.

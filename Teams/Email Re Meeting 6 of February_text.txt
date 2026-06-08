@@ -1,0 +1,211 @@
+Re: Meeting 6 of February
+
+Re: Meeting 6 of February
+	From
+	contact@connectorzzz.com contact@connectorzzz.com
+	To
+	Noora Vilonen; Carl-Johan Algotsson
+	Cc
+	Thomas Andersson
+	Recipients
+	noora.vilonen@epicalgroup.com; Carl-Johan.Algotsson@epicalgroup.com; thomas.andersson@epicalgroup.com
+
+Hey 
+  
+As previously requested and suggested by Thomas, I would need the contact of Nicklas L. 
+  
+Thanks! 
+
+On 02/06/2026 8:53 PM CET Connectorzzz <contact@connectorzzz.com> wrote: 
+  
+  
+Dear Noora and Carl Johan, 
+  
+Further to my previous emails, I would like to add one final clarification for the record in relation to the ongoing investigation. 
+  
+While I understand that the company is reviewing my actions, I would like to emphasize that I am confident in my position, as I have consistently acted in line with applicable laws, professional standards, and ethical responsibilities. Throughout my time at Epical, my priority has been to ensure compliance and to act in the company’s best interest, particularly with regard to GDPR and data integrity matters. 
+  
+I am not acting out of concern for my employment situation. I trust that a factual and objective review will show that my actions were aimed at identifying and mitigating regulatory and delivery risks, and at protecting the company from potential liability. I also trust that the investigation will focus on the substance of the compliance risks raised, in addition to the manner in which they were raised. 
+  
+I look forward to resolving this matter once my health permits. 
+  
+Lastly I would like to have the contact details for Nicklas L. 
+  
+Kind regards,   
+Thaer Saidi 
+  
+Kind regards, 
+  
+ 
+  _____  
+
+From: Connectorzzz <contact@connectorzzz.com>
+Sent: Friday, February 6, 2026 6:32 PM
+To: Noora Vilonen <noora.vilonen@epicalgroup.com>
+Cc: Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>
+Subject: Re: Meeting 6 of February 
+  
+Dear Noora/CJ 
+  
+As part of ensuring proper process and representation, I would like to ask for the contact details of the relevant Unionen representative or point of contact handling my case. 
+  
+Please let me know who I should reach out to, or feel free to make the introduction if that is the preferred approach. 
+  
+Thank you. 
+  
+Kind regards,   
+Thaer Saidi 
+  
+ 
+  _____  
+
+From: Connectorzzz <contact@connectorzzz.com>
+Sent: Friday, February 6, 2026 6:21 PM
+To: Noora Vilonen <noora.vilonen@epicalgroup.com>
+Cc: Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>
+Subject: Re: Meeting 6 of February 
+  
+Dear Noora, 
+  
+I confirm that I have received and understood your email. 
+  
+I would like to clarify my position, as I am concerned that my actions may be interpreted as disloyalty or misconduct, which I strongly disagree with. 
+  
+I have acted in good faith and with the sole intention of protecting Epical, its client, and the project. My actions were not malicious, disloyal, or driven by personal interest. I acted as a professional raising serious risks that I have been observing for a long time. 
+  
+Over the past months, I raised concerns internally on multiple occasions. This includes written reports related to the HRM implementation, DataOps shortcomings, and GDPR compliance risks. These concerns were shared with colleagues and management, including my closest manager. Despite repeated efforts, no concrete action was taken. 
+  
+Given the nature of the risks and the proximity to go-live, I felt a professional responsibility to act quickly to prevent potential harm. This was not a decision taken lightly. 
+  
+Regarding the reports that were sent using my side company email, I want to be very clear that this was done purely out of necessity and with good intentions. At that moment, I was focused on ensuring that the risks were clearly documented, traceable, and understood. There was no commercial intent, no personal gain, and no attempt to bypass Epical. The sole objective was to make sure the issues were visible and taken seriously, in the interest of Epical and the client. 
+  
+Regarding the specific point about sharing analysis, I want to clarify that on Monday I was contacted by a peer, Nicholas B, who asked me about the first internal report that was originally intended for our development team. He expressed interest in the structure and quality of the report. I walked him through my process, explaining how such analysis is built, starting from code and architectural review. 
+  
+This discussion also involved Wael A, and the context was purely internal knowledge sharing between colleagues. 
+  
+The only shared technical workspace we use as a team is Azure DevOps. I shared code and material there strictly for internal collaboration and learning purposes, following Microsoft Well-Architected Framework best practices. This was done to help colleagues understand how to perform such analysis, not to disclose information externally or harm Epical. 
+  
+At no point did I intend to violate my employment contract, confidentiality obligations, or Epical policies. I remain confident that my actions were lawful, proportionate, and aligned with my professional duty, including my right to raise concerns as a whistleblower. 
+  
+I respectfully ask that this context is taken into account during the investigation. I also hope there is no premature assumption regarding threats to my employment, as I firmly believe I have not breached my contractual or legal obligations. 
+  
+I remain available for further clarification once my sick leave period allows. 
+  
+Kind regards,   
+Thaer Saidi 
+  
+ 
+  _____  
+
+From: Noora Vilonen <noora.vilonen@epicalgroup.com>
+Sent: Friday, February 6, 2026 4:53 PM
+To: contact@connectorzzz.com <contact@connectorzzz.com>
+Cc: Carl-Johan Algotsson <Carl-Johan.Algotsson@epicalgroup.com>
+Subject: Meeting 6 of February 
+  
+
+Hi Thaer,
+
+ 
+
+Thank you for the meeting at the office today.
+
+ 
+
+The purpose of this email is to summarize the main points of the meeting and confirm that we have understood each other during the discussion.
+
+ 
+
+Present in the meeting were:
+
+ 
+
+*	Carl Johan Algotsson, your Team Manager (via Teams)
+*	Myself, Noora Vilonen, Senior People Advisor
+*	Malla Söderberg, Talent Acquisition Business Partner, taking meeting notes
+
+ 
+
+We initially asked you to meet us at the office to discuss your case, but as you stated you were sick, we respected this and postponed the meeting until further notice.  Despite of the aforementioned, you came to the office, demanded to discuss the matter with HR, so we set up a meeting right away.
+
+ 
+
+The purpose of the meeting was to give you a chance to explain your view of the situation and the actions you have taken the past few days. Further, we wanted to explain how we as your employer view the situation and your conduct as well as the risks it has posed to Epical as a company.
+
+ 
+
+In the meeting you have expressed the following: 
+
+ 
+
+*	You have stated that you have been a part of starting the group “Anonymous”
+*	You have raised concerns and what you view as shortcomings/flaws in the project Epical is delivering to its client (GDPR related compliance issues)
+*	You have raised your concerns with Epical colleagues as well as your closest manager Carl-Johan, who you feel have not acted on your concerns or raised them forward
+*	As you have felt that your concerns have not been addressed, you have chosen to share your concerns directly with the client, by sharing your analysis through the client’s “playground” used by developers
+
+ 
+
+In the meeting Epical has expressed the following: 
+
+ 
+
+*	You have stated that you have been a part of starting the group “Anonymous”, which poses a possible security risk to Epical’s work environment  
+*	You have shared unauthorized analysis of alleged shortcomings in Epical’s delivery to client project and advised to not go-live prior to addressing the issues
+*	We have informed you that Epical encourages employees to raise issues or shortcomings at the workplace processes, but have emphasis the importance of following correct process internally prior to acting on anything on own initiative
+*	We also have informed you that the analysis you have shared with company management is sensitive and Epical specific and by emailing it forward outside Epical environment is a violation of our information security policies as well as the confidentiality clauses in your employment contract
+*	Our view is that your conduct has been disloyal and something that risks jeopardizing our relationship with our client and further endangers the security of our working environment. As response to your actions, we have revoked your accesses both to Epical environment as well as client environment.
+
+ 
+
+In the meeting we have additionally aligned that you understand why Epical has been forced to take action and revoke your accesses to the systems and is now required to conduct an internal investigation on the matter at hand. As you currently are sick, we have asked you to send us a sick leave certificate from your doctor, as per normal process, latest by Monday 9 February 2026.
+
+ 
+
+Finally, we have informed you that after the completion of the investigation, we will contact you regarding next steps and any possible employment related consequences that may arise depending on the outcome.
+
+ 
+
+Please confirm that you have received and understood this email.
+
+ 
+
+ 
+
+
+
+
+Noora Vilonen
+
+Senior People Advisor
+
+ 
+
+noora.vilonen@epicalgroup.com
+
+ 
+
+Epical | Sveavägen 15, 111 57 Stockholm, Sweden
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+
+Internal
+
+
+Image.jpeg
+
+image001.png
+
+image002.png
+
+image003.png
+
+image004.png

@@ -1,0 +1,9 @@
+From
+	Henrik Wallenberg
+	To
+	Thaer Saidi
+	Recipients
+	thaer.saidi@epicalgroup.com
+
+
+Att blanda in DevOps variabler i KeyVault tycker inte jag känns bra, med tanke på att vi inte har ett eget DevOps projekt.
