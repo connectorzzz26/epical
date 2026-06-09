@@ -1,0 +1,81 @@
+case_manifest:
+  schema: epical.employee-gdpr.case-manifest.v1
+  status: post_poc_target_operating_model
+  case_id: EPICAL-GDPR-THAER-BASELINE-001
+  title: Thaer Saidi employee GDPR baseline case
+  purpose: >
+    Privacy-preserving baseline for proving a governed employee GDPR compliance mesh.
+    Raw private material remains inside the EPICAL-NA trust domain unless explicitly approved.
+
+network_authority:
+  sovereign_anchor: MiraOS-NA
+  delegated_authority: EPICAL-NA
+  runtime_agent: epical-na
+  authority_scope:
+    - employee_dsar_case_governance
+    - evidence_access_policy
+    - internal_agent_enrollment
+    - backer_service_recognition
+    - revocation_and_audit
+
+case_parties:
+  data_subject:
+    label: Thaer Saidi
+    role: employee_data_subject_baseline
+    privacy_note: Do not use raw private details in public demos.
+  controllers_under_review:
+    - Epical
+    - Nordcloud
+  reviewer_roles:
+    - legal
+    - data_protection
+    - security
+    - hr_people
+    - employee_challenge
+
+evidence_sources:
+  expected:
+    - microsoft_365_exchange
+    - microsoft_365_teams
+    - sharepoint
+    - unit4_hr_payroll
+    - identity_signature_artifacts
+    - project_customer_supplier_context
+  received_baseline:
+    - teams_text_exports
+    - sharepoint_exports
+    - case_export_material
+    - analysis_and_redacted_appendix
+  missing_or_to_verify:
+    - final_controller_inventory
+    - complete_article_15_a_to_h_mapping
+    - exact controller/processor split
+    - final source coverage declaration
+
+allowed_processing_purposes:
+  - dsar_source_inventory
+  - gdpr_article_15_gap_analysis
+  - data_minimisation_and_redaction
+  - counsel_ready_case_preparation
+  - regulator_pack_preparation
+  - governance_control_plane_demo_with_redacted_or_synthetic_payloads
+
+forbidden_processing:
+  - public disclosure of raw employee evidence
+  - sending raw HR/payroll/identity/health/customer material to backer services without explicit approval
+  - treating stakeholder feedback as direct evidence without source, role, scope, and review status
+  - AI-generated legal conclusions without traceable evidence references
+
+retention:
+  working_material: restricted_case_workspace
+  public_demo_material: redacted_or_synthetic_only
+  closure_action: revoke non-essential agent roles and expire external treaties
+
+success_criteria:
+  - source coverage matrix completed
+  - evidence classes assigned
+  - internal agents role-scoped
+  - influence map separates evidence, claim, feedback, and conclusion
+  - redaction policy applied
+  - regulator pack index produced
+  - revocation log contains closure-ready events

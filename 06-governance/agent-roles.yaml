@@ -1,0 +1,60 @@
+agent_roles:
+  - id: epical-na
+    authority: EPICAL-NA
+    type: network_authority
+    allowed_inputs: [case_manifest, policy, evidence_inventory, agent_outputs]
+    allowed_outputs: [delegation_plan, trust_events, revocation_events, audit_bundle]
+    forbidden: [unlogged_external_handoff, silent_role_escalation]
+    revocation_triggers: [case_closed, treaty_expired, policy_breach]
+
+  - id: epical-ingest
+    type: internal_stage_agent
+    role: evidence_intake
+    allowed_inputs: [raw_exports, case_export_material]
+    allowed_outputs: [source_inventory, chain_of_custody_notes, normalization_report]
+    forbidden: [legal_conclusions, final_disclosure_decisions]
+
+  - id: epical-index
+    type: internal_stage_agent
+    role: evidence_indexing
+    allowed_inputs: [normalized_exports, text_extracts]
+    allowed_outputs: [inventory_json, identifier_counts, source_coverage_candidates]
+    forbidden: [raw_external_transfer, final_redaction_decision]
+
+  - id: epical-analyse
+    type: internal_stage_agent
+    role: gdpr_analysis
+    allowed_inputs: [inventory_json, redacted_or_minimized_evidence, gdpr_criteria]
+    allowed_outputs: [article_15_gap_analysis, issue_findings, risk_flags]
+    forbidden: [unreviewed_final_legal_advice, unsupported_allegation]
+
+  - id: epical-redact
+    type: internal_stage_agent
+    role: data_minimisation
+    allowed_inputs: [selected_evidence, redaction_policy]
+    allowed_outputs: [redacted_appendix, redaction_decision_log]
+    forbidden: [unmasked_third_party_disclosure, irreversible_original_mutation]
+
+  - id: epical-produce
+    type: internal_stage_agent
+    role: response_production
+    allowed_inputs: [approved_findings, redacted_appendix, deliverable_templates]
+    allowed_outputs: [employee_response_pack, counsel_pack, regulator_pack]
+    forbidden: [new_factual_claim_without_source_reference]
+
+reviewer_roles:
+  - id: legal-reviewer
+    allowed_scope: lawful_basis, article_15_completeness, regulator_strategy
+    output_class: reviewer_comment_or_legal_conclusion
+  - id: data-protection-reviewer
+    allowed_scope: minimisation, lawful_processing, controller_accountability
+    output_class: reviewer_comment_or_policy_decision
+  - id: security-reviewer
+    allowed_scope: access_control, secrets, breach_risk, secure_delivery
+    output_class: reviewer_comment_or_security_control
+  - id: hr-people-reviewer
+    allowed_scope: employment_process_context
+    output_class: reviewer_comment_only
+  - id: employee-challenge-reviewer
+    allowed_scope: omission_challenge, factual_correction, disputed_interpretation
+    output_class: employee_challenge_signal

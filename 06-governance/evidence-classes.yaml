@@ -1,0 +1,51 @@
+evidence_classes:
+  raw_hr_payroll:
+    sensitivity: critical
+    examples: [salary, bank_account, iban, employment_terms, next_of_kin]
+    default_policy: internal_only
+    external_backer_access: prohibited_without_explicit_approval
+
+  identity_and_signature:
+    sensitivity: critical
+    examples: [personnummer, bankid_artifact, signature_blob]
+    default_policy: redact_or_hash_before_circulation
+
+  health_and_absence:
+    sensitivity: special_category_or_high_risk
+    examples: [sick_leave, health_reference, absence_reason]
+    default_policy: strict_minimisation
+
+  teams_messages:
+    sensitivity: mixed
+    examples: [chat, channel, third_party_names, project_discussion]
+    default_policy: classify_then_minimise
+
+  sharepoint_documents:
+    sensitivity: mixed_to_high
+    examples: [hr_pages, support_pages, service_docs, customer_context]
+    default_policy: source_context_required
+
+  third_party_personal_data:
+    sensitivity: high
+    examples: [coworker_names, emails, personnummer, family_details]
+    default_policy: mask_unless_necessary_for_claim
+
+  customer_supplier_confidential:
+    sensitivity: high
+    examples: [customer names, supplier details, project secrets, credentials]
+    default_policy: redact_or_summarise
+
+  derived_analysis:
+    sensitivity: controlled
+    examples: [findings, risk summaries, coverage gaps]
+    default_policy: source_link_required
+
+  reviewer_feedback:
+    sensitivity: controlled
+    examples: [HR comment, legal comment, stakeholder view]
+    default_policy: never_promote_to_evidence_without_review
+
+  legal_conclusion:
+    sensitivity: controlled_legal
+    examples: [complaint point, counsel memo, IMY argument]
+    default_policy: must_reference_evidence_and_reviewer_status

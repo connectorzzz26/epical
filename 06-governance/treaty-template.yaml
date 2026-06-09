@@ -1,0 +1,38 @@
+treaty_template:
+  schema: genesis-mesh.employee-gdpr.treaty.v1
+  status: template
+  issued_by: EPICAL-NA
+  anchored_by: MiraOS-NA
+  recognized_sovereign: EXAMPLE-BACKER-NA
+  recognized_role: policy_or_coverage_support
+  purpose: narrowly_scoped_employee_gdpr_support
+  validity:
+    not_before: 2026-06-09T00:00:00Z
+    not_after: 2026-07-09T00:00:00Z
+  allowed_data_classes:
+    - case_metadata
+    - source_inventory
+    - policy_documents
+    - redacted_snippets
+    - synthetic_examples
+  prohibited_data_classes:
+    - raw_hr_payroll
+    - identity_and_signature
+    - health_and_absence
+    - unredacted_teams_messages
+    - unredacted_sharepoint_documents
+    - customer_supplier_confidential
+  audit_requirements:
+    - log_every_request
+    - log_every_output
+    - retain_hash_of_payload
+    - record_policy_version
+  revocation_sources:
+    - EPICAL-NA
+    - MiraOS-NA
+    - case_closure_event
+    - security_incident_event
+  output_requirements:
+    - no_new_factual_claim_without_source
+    - mark_confidence_and_limitations
+    - distinguish_evidence_from_recommendation

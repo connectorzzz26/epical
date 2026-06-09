@@ -189,15 +189,14 @@ epical/
 ├── GENESIS_MESH_EMPLOYEE_GDPR_CONTROL_PLANE.md
 │   Root strategic/control-plane artifact: why this repo is a governed employee GDPR mesh prototype.
 │
+├── POC_NEXT_STEPS.md
+│   What happens after the initial POC succeeds.
+│
 ├── 01-ingest/
 │   Raw employee-data exports and source material.
 │
 ├── 02-index/
-│   Machine-readable inventory and Genesis Mesh use-case notes.
-│   └── 06-genesismesh/
-│       ├── README.md
-│       ├── epical-na-use-case.md
-│       └── best-case-onboarding-feedback-loop.md
+│   Machine-readable inventory.
 │
 ├── 03-analysis/
 │   GDPR findings and issue-by-issue analysis.
@@ -205,8 +204,16 @@ epical/
 ├── 04-redacted-evidence/
 │   Minimized evidence suitable for controlled circulation.
 │
-└── 05-deliverables/
-    Employee/counsel/regulator-facing outputs.
+├── 05-deliverables/
+│   Employee/counsel/regulator-facing outputs.
+│
+├── 06-genesismesh/
+│   Genesis Mesh use cases, onboarding scenario, and Connectome example.
+│
+└── 06-governance/
+    Post-POC operating-model artifacts: case manifest, agent roles, evidence classes,
+    treaties, revocation, influence map, source coverage, redaction, regulator pack,
+    metrics, and roadmap.
 ```
 
 ## Demo shape
@@ -232,11 +239,14 @@ The demo moment:
 ## Links
 
 - Root process: [`README.md`](README.md)
+- Post-POC next steps: [`POC_NEXT_STEPS.md`](POC_NEXT_STEPS.md)
 - Executive case summary: [`EXECUTIVE_SUMMARY.md`](EXECUTIVE_SUMMARY.md)
 - Product-owner review: [`PRODUCT_OWNER_REVIEW_SUMMARY.md`](PRODUCT_OWNER_REVIEW_SUMMARY.md)
-- Genesis Mesh index: [`02-index/06-genesismesh/README.md`](02-index/06-genesismesh/README.md)
-- `epical-na` use case: [`02-index/06-genesismesh/epical-na-use-case.md`](02-index/06-genesismesh/epical-na-use-case.md)
-- Best-case onboarding and feedback loop: [`02-index/06-genesismesh/best-case-onboarding-feedback-loop.md`](02-index/06-genesismesh/best-case-onboarding-feedback-loop.md)
+- Genesis Mesh index: [`06-genesismesh/README.md`](06-genesismesh/README.md)
+- `epical-na` use case: [`06-genesismesh/epical-na-use-case.md`](06-genesismesh/epical-na-use-case.md)
+- Best-case onboarding and feedback loop: [`06-genesismesh/best-case-onboarding-feedback-loop.md`](06-genesismesh/best-case-onboarding-feedback-loop.md)
+- Governance operating-model index: [`06-governance/README.md`](06-governance/README.md)
+- Case manifest template: [`06-governance/case-manifest.example.yaml`](06-governance/case-manifest.example.yaml)
 
 ## Guardrails
 

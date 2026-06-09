@@ -1,0 +1,4 @@
+{"ts": "2026-06-09T00:00:00Z", "authority": "EPICAL-NA", "event": "role_expired", "subject": "epical-ingest", "reason": "baseline intake complete", "effect": "raw export access disabled"}
+{"ts": "2026-06-09T00:05:00Z", "authority": "EPICAL-NA", "event": "treaty_expired", "subject": "EXAMPLE-BACKER-NA", "reason": "post-poc policy review window ended", "effect": "no further service calls allowed"}
+{"ts": "2026-06-09T00:10:00Z", "authority": "EPICAL-NA", "event": "feedback_reclassified", "subject": "hr-people-reviewer/comment-001", "reason": "not direct evidence", "effect": "moved to reviewer feedback lane"}
+{"ts": "2026-06-09T00:15:00Z", "authority": "MiraOS-NA", "event": "anchor_revocation_feed_checked", "subject": "EPICAL-NA", "reason": "post-poc verification", "effect": "no active revocation found"}

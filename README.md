@@ -73,7 +73,7 @@ It reframes this repository as a governed employee GDPR compliance mesh prototyp
 - Nordcloud-style feedback-loop risk is modeled as an influence-control problem: evidence,
   interpretation, reviewer feedback, and legal conclusions must remain separate and auditable.
 
-Detailed Genesis Mesh notes live under [`02-index/06-genesismesh/`](02-index/06-genesismesh/).
+Detailed Genesis Mesh notes live under [`06-genesismesh/`](06-genesismesh/), and the post-POC operating-model artifacts live under [`06-governance/`](06-governance/).
 
 ---
 
@@ -84,6 +84,7 @@ epical/
 ├── README.md                       ← root narrative: pipeline + Genesis Mesh governance layer
 ├── GENESIS_MESH_EMPLOYEE_GDPR_CONTROL_PLANE.md
 │                                      root control-plane thesis for the employee GDPR mesh
+├── POC_NEXT_STEPS.md                post-POC implementation path
 ├── .gitignore
 │
 ├── 01-ingest/                      STAGE 1 — raw enterprise data, as exported
@@ -98,12 +99,8 @@ epical/
 │       ├── Items.1.001.GDPR_Case_T.zip           (git-ignored)
 │       └── Items.1.001.GDPR_Case_T/   …unzipped: Exchange/ + SharePoint/ (hr, allcompany, …)
 │
-├── 02-index/                       STAGE 2 — machine-readable inventory + mesh use cases
-│   ├── inventory.json               Index of every extractable file (ids, keywords, snippets)
-│   └── 06-genesismesh/              Genesis Mesh employee GDPR control-plane notes
-│       ├── README.md
-│       ├── epical-na-use-case.md
-│       └── best-case-onboarding-feedback-loop.md
+├── 02-index/                       STAGE 2 — machine-readable inventory
+│   └── inventory.json               Index of every extractable file (ids, keywords, snippets)
 │
 ├── 03-analysis/                    STAGE 3 — findings mapped to GDPR
 │   ├── epical_gdpr_noncompliance_report.md   Evidence-backed findings F1–F8
@@ -115,12 +112,27 @@ epical/
 ├── 04-redacted-evidence/           STAGE 4 — minimised, third-party-masked exhibits
 │   └── epical_gdpr_evidence_appendix_redacted.md   Exhibits A–G
 │
-└── 05-deliverables/                STAGE 5 — regulator-/court-ready legal output
-    ├── Letter_Before_Action_Thaer_Saidi.docx   Formal demand to Epical / Nordcloud
-    ├── Complaint_to_IMY_Thaer_Saidi.docx        Article 77 complaint to the Swedish DPA (IMY)
-    └── generators/                  Reproducible python-docx builders
-        ├── make_letter.py
-        └── make_imy_complaint.py
+├── 05-deliverables/                STAGE 5 — regulator-/court-ready legal output
+│   ├── Letter_Before_Action_Thaer_Saidi.docx   Formal demand to Epical / Nordcloud
+│   ├── Complaint_to_IMY_Thaer_Saidi.docx        Article 77 complaint to the Swedish DPA (IMY)
+│   └── generators/                  Reproducible python-docx builders
+│       ├── make_letter.py
+│       └── make_imy_complaint.py
+│
+├── 06-genesismesh/                 Genesis Mesh control-plane notes and Connectome example
+│   ├── README.md
+│   ├── epical-na-use-case.md
+│   ├── best-case-onboarding-feedback-loop.md
+│   └── connectome.json
+│
+└── 06-governance/                  Post-POC operating-model artifacts
+    ├── README.md
+    ├── case-manifest.example.yaml
+    ├── agent-roles.yaml
+    ├── evidence-classes.yaml
+    ├── influence-map.md
+    ├── source-coverage-matrix.md
+    └── ... treaty, revocation, redaction, regulator, metrics, roadmap docs
 ```
 
 ---

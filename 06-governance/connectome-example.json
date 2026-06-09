@@ -1,0 +1,73 @@
+{
+  "schema": "genesis-mesh.connectome.example.v1",
+  "status": "post_poc_example_not_live_claim",
+  "anchor": "MiraOS-NA",
+  "authorities": [
+    {
+      "id": "EPICAL-NA",
+      "runtime": "epical-na",
+      "role": "employee_gdpr_network_authority",
+      "recognized_by": "MiraOS-NA"
+    }
+  ],
+  "agents": [
+    "epical-ingest",
+    "epical-index",
+    "epical-analyse",
+    "epical-redact",
+    "epical-produce"
+  ],
+  "edges": [
+    {
+      "from": "MiraOS-NA",
+      "to": "EPICAL-NA",
+      "type": "recognition_treaty",
+      "scope": "employee_gdpr_governance"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-ingest",
+      "type": "agent_enrollment",
+      "scope": "evidence_intake"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-index",
+      "type": "agent_enrollment",
+      "scope": "evidence_indexing"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-analyse",
+      "type": "agent_enrollment",
+      "scope": "gdpr_analysis"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-redact",
+      "type": "agent_enrollment",
+      "scope": "data_minimisation"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "epical-produce",
+      "type": "agent_enrollment",
+      "scope": "response_production"
+    },
+    {
+      "from": "EPICAL-NA",
+      "to": "EXAMPLE-BACKER-NA",
+      "type": "bounded_treaty",
+      "scope": "policy_and_coverage_review_metadata_only"
+    }
+  ],
+  "revoked_edges": [
+    {
+      "from": "EPICAL-NA",
+      "to": "EXAMPLE-BACKER-NA",
+      "reason": "post_poc_window_expired",
+      "effect": "no further calls"
+    }
+  ],
+  "guardrail": "This file is illustrative and does not claim live external processing."
+}
