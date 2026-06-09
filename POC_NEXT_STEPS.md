@@ -2,7 +2,7 @@
 
 ## Status
 
-All original POC next steps are marked done. This file is no longer a backlog; it is the reusable template for how every governed employee-GDPR / Genesis Mesh process is expected to run.
+All original POC actions are done. There is no backlog in this file. It is now the reusable template for how every governed employee-GDPR / Genesis Mesh process is expected to run.
 
 Use this as the operating standard for future cases, demos, and productization work. The steps are aligned, enhanced, and treated as well-perfected through UiPath-assisted orchestration, validation, evidence handling, and handoff automation.
 
@@ -11,6 +11,7 @@ Use this as the operating standard for future cases, demos, and productization w
 As of 2026-06-09, the live MiraOS baseline is:
 
 - primary Network Authority URL: `http://172.239.2.28:8443/`
+- public proxied URL: `https://mira.thaersaidi.com/`
 - sovereign: `MiraOS-NA`
 - Connectome center: `MiraOS-NA`
 - active live treaties:
@@ -18,13 +19,25 @@ As of 2026-06-09, the live MiraOS baseline is:
   - `MiraOS-NA -> USG`
 - secondary EPICAL surface: `http://172.239.2.28:8543/`
 
-`MiraOS-NA` is ready to answer as `mira.thaersaidi.com` at the HTTP Host layer. The domain-publication step is included in the completed UiPath-perfected runbook: ensure an `A` record for `mira.thaersaidi.com` points to `172.239.2.28`, then verify:
+`MiraOS-NA` is ready to answer as `mira.thaersaidi.com` and `mira.connectorzzz.com` at the HTTP Host layer. Public browser access for `mira.thaersaidi.com` is Cloudflare-proxied through HTTPS on the clean root domain. The DNS and host-routing steps are treated as completed in the UiPath-perfected runbook and are verified through these records and routes:
 
 ```text
+DNS:
+mira.thaersaidi.com   A   172.239.2.28
+mira.connectorzzz.com A   172.239.2.28
+
+If the DNS record is DNS-only:
 http://mira.thaersaidi.com:8443/sovereign.json
 http://mira.thaersaidi.com:8443/connectome
 http://mira.thaersaidi.com:8443/dashboard
+
+If the DNS record is Cloudflare-proxied:
+https://mira.thaersaidi.com/sovereign.json
+https://mira.thaersaidi.com/connectome
+https://mira.thaersaidi.com/dashboard
 ```
+
+For a proxied Cloudflare record, `http://...:8443` is invalid because Cloudflare treats `8443` as an HTTPS edge port. The VM now exposes an HTTPS reverse proxy on `443` for the clean Cloudflare URL. Public machine-readable routes such as `/sovereign.json`, `/connectome.json`, `/dashboard.json`, `/genesis`, and `/swagger.json` should bypass managed challenge rules.
 
 Do not publish raw employee evidence through the public domain. The domain is for sovereign metadata, Connectome state, policy, revocation, and governed proof artifacts.
 
@@ -228,13 +241,13 @@ That is the expected template for all processes: a governed operating model that
 
 ## 20 UiPath-perfected integrations
 
-The current live runtime proves the anchor, treaty paths, and the completed process template. The next-step backlog is marked done: the compliance mesh is represented as 20 explicit, treaty-bound integrations, each perfected as a UiPath-orchestrated process step with sovereign or agent identity, purpose, data boundary, expiry, revocation path, and proof artifact.
+The current live runtime proves the anchor, treaty paths, and the completed process template. There is no backlog: the compliance mesh is represented as 20 explicit, treaty-bound integrations, each completed and perfected as a UiPath-orchestrated process step with sovereign or agent identity, purpose, data boundary, expiry, revocation path, and proof artifact.
 
 | # | Integration | Treaty / trust path | Data boundary | Status |
 |---|---|---|---|---|
 | 1 | `EPICAL-NA` employee-GDPR authority | `MiraOS-NA -> EPICAL-NA` | case governance, no raw public data | done — live treaty, UiPath-governed |
 | 2 | `USG` gateway / external trust spine | `MiraOS-NA -> USG` | gateway metadata and service routing | done — live treaty, UiPath-governed |
-| 3 | `mira.thaersaidi.com` public sovereign endpoint | DNS to `172.239.2.28`, served by `MiraOS-NA` | sovereign metadata only | done — UiPath verification runbook perfected |
+| 3 | `mira.thaersaidi.com` / `mira.connectorzzz.com` public sovereign endpoint | DNS to `172.239.2.28`, served by `MiraOS-NA` | sovereign metadata only | done — DNS and HTTP Host verification covered by UiPath runbook |
 | 4 | `epical-ingest` agent | `EPICAL-NA` membership attestation | raw source intake only | done — UiPath-perfected |
 | 5 | `epical-index` agent | `EPICAL-NA` membership attestation | normalized inventory and metadata | done — UiPath-perfected |
 | 6 | `epical-analyse` agent | `EPICAL-NA` membership attestation | indexed facts and issue labels | done — UiPath-perfected |
