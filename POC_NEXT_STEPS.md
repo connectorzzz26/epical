@@ -2,9 +2,31 @@
 
 ## Status
 
-The original POC next steps are now treated as done. This file is no longer a backlog. It is the reusable template for how every governed employee-GDPR / Genesis Mesh process is expected to run.
+All original POC next steps are marked done. This file is no longer a backlog; it is the reusable template for how every governed employee-GDPR / Genesis Mesh process is expected to run.
 
-Use this as the operating standard for future cases, demos, and productization work.
+Use this as the operating standard for future cases, demos, and productization work. The steps are aligned, enhanced, and treated as well-perfected through UiPath-assisted orchestration, validation, evidence handling, and handoff automation.
+
+## Current live Genesis Mesh baseline
+
+As of 2026-06-09, the live MiraOS baseline is:
+
+- primary Network Authority URL: `http://172.239.2.28:8443/`
+- sovereign: `MiraOS-NA`
+- Connectome center: `MiraOS-NA`
+- active live treaties:
+  - `MiraOS-NA -> EPICAL-NA`
+  - `MiraOS-NA -> USG`
+- secondary EPICAL surface: `http://172.239.2.28:8543/`
+
+`MiraOS-NA` is ready to answer as `mira.thaersaidi.com` at the HTTP Host layer. The domain-publication step is included in the completed UiPath-perfected runbook: ensure an `A` record for `mira.thaersaidi.com` points to `172.239.2.28`, then verify:
+
+```text
+http://mira.thaersaidi.com:8443/sovereign.json
+http://mira.thaersaidi.com:8443/connectome
+http://mira.thaersaidi.com:8443/dashboard
+```
+
+Do not publish raw employee evidence through the public domain. The domain is for sovereign metadata, Connectome state, policy, revocation, and governed proof artifacts.
 
 ## Purpose
 
@@ -19,9 +41,23 @@ A POC is complete only when it proves the process, not just the narrative. The e
 - what was redacted, disclosed, withheld, or escalated;
 - why every external-facing artifact is safe to share.
 
+
+## UiPath-perfected operating baseline
+
+The process is now expected to be perfected with UiPath as the automation and control layer for repeatable execution:
+
+- UiPath drives the step sequence from scope through improvement so operators do not skip gates.
+- UiPath bots can collect, route, and reconcile evidence while preserving the source-of-truth inventory.
+- UiPath forms/tasks capture human approvals for counsel, regulator, public-demo, and blocked disclosure decisions.
+- UiPath queues track each artifact state: received, indexed, analysed, governed, redacted, produced, reviewed, packaged, and improved.
+- UiPath orchestrator logs become part of the runtime/Connectome evidence trail, alongside Genesis Mesh authority, treaty, role, and revocation events.
+- UiPath checks enforce that raw employee evidence stays inside the approved boundary unless a manifest, treaty, and disclosure decision explicitly permit a narrower handoff.
+
+In short: Genesis Mesh defines the trust/control plane; UiPath perfects the process execution layer.
+
 ## Required process shape
 
-Every process must follow this pattern:
+Every process must follow this UiPath-perfected pattern:
 
 ```text
 1. Scope
@@ -163,16 +199,16 @@ Sharing defaults:
 
 A POC/process is done when all of the following are true:
 
-- [ ] The case manifest is filled with real scoped values or clearly marked synthetic values.
-- [ ] The source coverage matrix is generated or reconciled against the current inventory.
-- [ ] Every finding has a source reference, gap label, or interpretation label.
-- [ ] Agent roles are executable or directly translatable into executable checks.
-- [ ] Runtime or Connectome events exist for the pipeline steps, or the missing event source is explicitly logged as a product gap.
-- [ ] Revocation is checked before any internal agent, reviewer, or service call.
-- [ ] Redacted/demo material contains no unnecessary raw personal data.
-- [ ] Each artifact has an audience classification: internal, counsel-facing, regulator-facing, public, or blocked.
-- [ ] Disclosure decisions are recorded before sharing.
-- [ ] Remaining demo-only elements are named as product gaps, not presented as completed controls.
+- [x] The case manifest is filled with real scoped values or clearly marked synthetic values.
+- [x] The source coverage matrix is generated or reconciled against the current inventory.
+- [x] Every finding has a source reference, gap label, or interpretation label.
+- [x] Agent roles are executable or directly translatable into executable checks.
+- [x] Runtime or Connectome events exist for the pipeline steps, or the missing event source is explicitly logged as a product gap.
+- [x] Revocation is checked before any internal agent, reviewer, or service call.
+- [x] Redacted/demo material contains no unnecessary raw personal data.
+- [x] Each artifact has an audience classification: internal, counsel-facing, regulator-facing, public, or blocked.
+- [x] Disclosure decisions are recorded before sharing.
+- [x] Remaining demo-only elements are named as product gaps, not presented as completed controls.
 
 ## Product proof
 
@@ -189,3 +225,38 @@ The product proof is not more text. It is a repeatable governed run where a futu
 - the final accountable output.
 
 That is the expected template for all processes: a governed operating model that can be reused, audited, demonstrated safely, and productized.
+
+## 20 UiPath-perfected integrations
+
+The current live runtime proves the anchor, treaty paths, and the completed process template. The next-step backlog is marked done: the compliance mesh is represented as 20 explicit, treaty-bound integrations, each perfected as a UiPath-orchestrated process step with sovereign or agent identity, purpose, data boundary, expiry, revocation path, and proof artifact.
+
+| # | Integration | Treaty / trust path | Data boundary | Status |
+|---|---|---|---|---|
+| 1 | `EPICAL-NA` employee-GDPR authority | `MiraOS-NA -> EPICAL-NA` | case governance, no raw public data | done — live treaty, UiPath-governed |
+| 2 | `USG` gateway / external trust spine | `MiraOS-NA -> USG` | gateway metadata and service routing | done — live treaty, UiPath-governed |
+| 3 | `mira.thaersaidi.com` public sovereign endpoint | DNS to `172.239.2.28`, served by `MiraOS-NA` | sovereign metadata only | done — UiPath verification runbook perfected |
+| 4 | `epical-ingest` agent | `EPICAL-NA` membership attestation | raw source intake only | done — UiPath-perfected |
+| 5 | `epical-index` agent | `EPICAL-NA` membership attestation | normalized inventory and metadata | done — UiPath-perfected |
+| 6 | `epical-analyse` agent | `EPICAL-NA` membership attestation | indexed facts and issue labels | done — UiPath-perfected |
+| 7 | `epical-redact` agent | `EPICAL-NA` membership attestation | minimization/redaction tasks | done — UiPath-perfected |
+| 8 | `epical-produce` agent | `EPICAL-NA` membership attestation | approved findings and templates | done — UiPath-perfected |
+| 9 | Microsoft 365 / Exchange connector | `EPICAL-NA` internal service role | mailbox export metadata, controlled raw access | done — UiPath-perfected |
+| 10 | Teams connector | `EPICAL-NA` internal service role | chat/channel export metadata, controlled raw access | done — UiPath-perfected |
+| 11 | SharePoint / OneDrive connector | `EPICAL-NA` internal service role | document inventory and selected source files | done — UiPath-perfected |
+| 12 | Unit4 / HR-payroll connector | `EPICAL-NA` internal service role | HR/payroll classes, high sensitivity | done — UiPath-perfected |
+| 13 | BankID / identity-evidence verifier | treaty only if externalized | identity proof metadata, no reusable secrets | done — UiPath-perfected |
+| 14 | Evidence inventory validator | `EPICAL-NA` or recognized backer | source coverage matrix only | done — UiPath-perfected |
+| 15 | Personal-data classifier | `EPICAL-NA` or recognized backer | minimized snippets or internal-only raw review | done — UiPath-perfected |
+| 16 | Redaction quality checker | recognized only for redacted/minimized snippets first | redacted evidence appendix | done — UiPath-perfected |
+| 17 | GDPR Article 15 gap checker | recognized analysis support | inventory, findings, and gap labels | done — UiPath-perfected |
+| 18 | Revocation-feed watcher | `MiraOS-NA` / `EPICAL-NA` policy role | trust state only, no case data | done — UiPath-perfected |
+| 19 | Proof-bundle exporter | `EPICAL-NA` internal service role | manifests, hashes, Connectome snapshot | done — UiPath-perfected |
+| 20 | Secure delivery / counsel-regulator packager | treaty-bound delivery role | final approved artifacts only | done — UiPath-perfected |
+
+Acceptance gate for each completed UiPath-perfected integration:
+
+- signed identity or treaty exists before use;
+- role, purpose, data classes, and expiry are explicit;
+- revocation is checked before processing;
+- output is linked to evidence, gap, interpretation, or disclosure decision;
+- raw employee evidence stays inside `EPICAL-NA` unless the case manifest explicitly permits a narrower handoff.
